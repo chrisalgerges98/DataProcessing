@@ -12,13 +12,10 @@ df.columns = ["country_id", "country", "region_id", "region", "city_id", "city",
 #     elif "#" in region:
 #         region = region.replace("#", " ")
 
-print(df["region"].iloc[176614:176659])
-
 df.loc[df.region_id == 0, "region"] = "Unknown"
 
+df = df["price"].groupby([df["country"], df["food"], df["year"]]).mean().round(decimals=2)
 
-# df = df.groupby(df["food"]).describe()
-
-# df.to_csv("out.csv")
+df.to_csv("out.csv")
 
 # print(df)
