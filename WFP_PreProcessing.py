@@ -3,7 +3,7 @@ import pandas as pd
 df = pd.read_csv("WFPVAM_FoodPrices_05-12-2017.csv", encoding="ISO-8859-1")
 
 # verandert de kolomnamen
-df.columns = ["country_id", "country", "region_id", "region", "city_id", "city", "food_id", "food", "network_id", "network", "type_id", "type", "quantity", "unit_measure", "month", "year", "price", "commodity_source"]
+df.columns = ["country_id", "country", "region_id", "region", "city_id", "city", "food_id", "food", "network_id", "network", "type_id", "type", "unit_id", "unit_measure", "month", "year", "price", "commodity_source"]
 
 # haalt de dollar tekens en hashtags uit de namen van regio's weg
 # for region in df["region"]:
@@ -14,8 +14,14 @@ df.columns = ["country_id", "country", "region_id", "region", "city_id", "city",
 
 df.loc[df.region_id == 0, "region"] = "Unknown"
 
-df = df["price"].groupby([df["country"], df["food"], df["year"]]).mean().round(decimals=2)
+#for price in data["price"]:
 
-df.to_csv("out.csv")
+# df.loc[df.unit_id == 16, "price"] = "price"/45
 
-# print(df)
+df = df.groupby([df["unit_id"], df["unit_measure"]]).mean()
+
+#df = df["price"].groupby([df["country"], df["food"], df["year"]]).mean().round(decimals=2)
+
+df.to_csv("unit_id dictorany.csv")
+
+print(df)
