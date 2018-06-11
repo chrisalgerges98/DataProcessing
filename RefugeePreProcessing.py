@@ -27,7 +27,12 @@ def merger():
     print(result)
     result.to_csv('YearlyRefugees.csv')
 
+def sorter():
+    data = pd.read_csv("YearlyRefugees.csv")
+    data = data.sort_values(['Country', 'Year'])
+    data.to_csv('YearlyRefugees.csv')
 
+sorter()
 
 #yearlyTarget(UNRaw)
 #yearlyOrigin(UNRaw)
