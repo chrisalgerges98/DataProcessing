@@ -8,13 +8,13 @@ Woensdag: Zoeken naar secundaire dataset en kijken hoe de World Food Prices data
 Donderdag: Overleg met Nora over tweede Dataset: Besluit secundaire Dataset gaat over vluchtelingenstromen. Overleg hoe en wat aan de datasets op te schonen. Beginnen met opschonen van Datasets.
 Vrijdag: Datasets opschonen. 
 
-Weekend: 
+Weekend: Zondag met zijn alle van 14:00 -17:00 data gecleaned en overlegd. 
 
 De eerste week is al het werk collectief gedaan. Om goed te overleggen over wat gecleaned kan worden en wat niet en over hoe de data te processen. 
 
 Week2: 
-Maandag: 
-Dinsdag: 
+Maandag: Chris en Diederik Refugees finalist. Chris laatste clean van World food pricing.
+Dinsdag: 11:00 aanwezig, overleggen of data set goed is, vragen voor Nora opstellen.
 Woensdag: 
 Donderdag: 
 Vrijdag:
