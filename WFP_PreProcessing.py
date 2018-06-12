@@ -21,17 +21,17 @@ df = df.drop(df[df.food == "Transport (public)"].index)
 df = df["price"].groupby([df["country"], df["food"], df["year"]]).mean().round(decimals=2)
 
 # stopt het in een csv file
-df.to_csv("WFPAveragePrice.csv", header="average_price")
+df.to_csv("WFPAveragePrice.csv", header=["average_price"])
 
 def counter():
     df = pd.read_csv("WFPAveragePrice.csv")
     df = df["year"].groupby([df["country"], df["food"]]).count()
-    df.to_csv("WFPYearlyCount.csv", header="count")
+    df.to_csv("WFPYearlyCount.csv", header=["count"])
 
 def drop():
     df = pd.read_csv("WFPYearlyCount.csv")
-    df.year = df["year"].astype("int64")
-    df = df.drop(df[df.year < 5].index)
+    df.count = df["count"].astype("int64")
+    df = df.drop(df[df.count < 5].index)
     df.to_csv("WFPYearlyCountCleaned.csv")
 
 def merge():
