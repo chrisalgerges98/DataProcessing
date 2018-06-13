@@ -1,6 +1,6 @@
 import pandas as pd
 from bokeh.plotting import figure
-from bokeh.io import output_file, show
+from bokeh.io import output_file, show, save
 
 df = pd.read_csv("WFPCleaned.csv")
 
@@ -28,16 +28,16 @@ print(countries)
 #                    df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Wheat")]])
 
 for country in countries:
-    x_coord = []
-    y_coord = []
+    x_list = []
+    y_list = []
     products = df["food"][df["country"] == country].unique()
     for product in products:
         x = df["year"][(df["country"] == country) & (df["food"] == product)]
         print(x)
         y = df["average_price"][(df["country"] == country) & (df["food"] == product)]
-        x_coord = x_coord.append(x)
-        y_coord = y_coord.append(y)
-    output_file("charts_1.html")
-    f = figure(plot_width=500, plot_height=500)
-    f.multi_line(xs = x_coord, ys = y_coord)
+        x_list.append(x)
+        y_list.append(y)
+    output_file("chart1.html")
+    f = figure(plot_width=500, plot_height=500, title=country)
+    f.multi_line(xs = x_list, ys = y_list)
     save(f)
