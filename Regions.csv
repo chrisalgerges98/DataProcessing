@@ -1,4 +1,4 @@
-country,neighbours
+country:neighbours
 Afghanistan:['Iran (Islamic Republic of)', 'Pakistan', 'Tajikistan']
 Armenia:['Iran (Islamic Republic of)', 'Georgia']
 Bangladesh:['India', 'Myanmar']
