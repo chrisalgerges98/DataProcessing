@@ -1,5 +1,43 @@
 import pandas as pd
+from bokeh.plotting import figure
+from bokeh.io import output_file, show
 
-df = pd.read_csv("WFPAveragePriceCleaned")
+df = pd.read_csv("WFPCleaned.csv")
 
-print(df["food"].unique())
+countries = df["country"].unique()
+print(countries)
+
+# Afghan_fuel = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")]
+# Afghan_rice = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
+# Afghan_wheat = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Wheat")]
+#
+# y_1 = df["average_price"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")]
+# y_2 = df["average_price"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
+# y_3 = df["average_price"][(df["country"] == "Afghanistan") & (df["food"] == "Wheat")]
+#
+# output_file("Afghanistan.html")
+#
+# f = figure(plot_width=300, plot_height=300)
+#
+# f.multi_line(xs = [Afghan_fuel, Afghan_rice, Afghan_wheat], ys = [y_1, y_2, y_3], color=["red", "green", "blue"])
+#
+# show(f)
+
+# f.multi_line(xs = [df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")],
+#                    df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
+#                    df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Wheat")]])
+
+for country in countries:
+    x_coord = []
+    y_coord = []
+    products = df["food"][df["country"] == country].unique()
+    for product in products:
+        x = df["year"][(df["country"] == country) & (df["food"] == product)]
+        print(x)
+        y = df["average_price"][(df["country"] == country) & (df["food"] == product)]
+        x_coord = x_coord.append(x)
+        y_coord = y_coord.append(y)
+    output_file("charts_1.html")
+    f = figure(plot_width=500, plot_height=500)
+    f.multi_line(xs = x_coord, ys = y_coord)
+    save(f)
