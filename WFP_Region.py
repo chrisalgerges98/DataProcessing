@@ -38,6 +38,6 @@ for i, country in zip(range(len(land)), countries):
     fOut = open("benin.html", "a")
     f = figure(plot_width=500, plot_height=500, title=country)
     f.multi_line(xs = x_list, ys = y_list)
-    html = file_html(f, CDN, "chart1")
+    html = file_html(f, CDN, "chart2")
     fOut.write(html)
     fOut.close()
