@@ -16,7 +16,7 @@ countries = df["country"].unique()
 
 #for country in countries:
 #fill in country for country
-#country = "Benin"
+country = "Benin"
 #countries = dataset["neighbours"][dataset["country"] == country]
 #print(countries)
 x_list = []
