@@ -29,6 +29,8 @@ print(countries)
 #                    df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
 #                    df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Wheat")]])
 
+
+
 for country in countries:
     x_list = []
     y_list = []
