@@ -3,11 +3,11 @@ from bokeh.plotting import figure
 from bokeh.io import output_file, show
 from bokeh.resources import CDN
 from bokeh.embed import file_html
+from bokeh.models import DataRange1d
 
 df = pd.read_csv("WFPCleaned.csv")
 
 countries = df["country"].unique()
-print(countries)
 
 # Afghan_fuel = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")]
 # Afghan_rice = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
@@ -41,6 +41,8 @@ for country in countries:
         y_list.append(y)
     fOut = open("chart1.html", "a")
     f = figure(plot_width=500, plot_height=500, title=country)
+    f.xaxis.axis_label="year"
+    f.yaxis.axis_label="average price"
     f.multi_line(xs = x_list, ys = y_list)
     html = file_html(f, CDN, "chart1")
     fOut.write(html)
