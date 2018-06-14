@@ -4,21 +4,12 @@ from bokeh.io import output_file, show
 from bokeh.resources import CDN
 from bokeh.embed import file_html
 
-land = ["Afghanistan"],["Armenia"],["Bangladesh"],["Benin"],["Bhutan"],["Bolivia"],["Burkina Faso"],["Burundi"],["Cambodia"],["Cameroon"],["Central African Republic"],["Chad"],["Colombia"],["Democratic Republic of the Congo"],["Congo Brazzaville"],["Congo Kinshasa"],
-["Costa Rica"],["Cote d'Ivoire"], ["Djibouti"],["Egypt"],["El Salvador"],["Ethiopia"],["Gambia"],["Georgia"],["Ghana"],["Guatemala"],["Guinea"],["Guinea-Bissau"],["Haiti"],["Honduras"],["India"],["Indonesia"],["Iran (Islamic Republic of)"],
+land = ["Djibouti"],["Egypt"],["El Salvador"],["Ethiopia"],["Gambia"],["Georgia"],["Ghana"],["Guatemala"],["Guinea"],["Guinea-Bissau"],["Haiti"],["Honduras"],["India"],["Indonesia"],["Iran (Islamic Republic of)"],
 ["Iraq"],["Jordan"],["Kenya"],["Kyrgyzstan"],["Lao people's Democratic Republic"],["Lebanon"],["Lesotho"],["Liberia"],["Madagascar"],["Malawi"],["Mali"],["Mauritania"],["Mozambique"],["Myanmar"],["Nepal"],["Niger"],["Nigeria"],
 ["Pakistan"],["Panama"],["Peru"],["Philippines"],["Rwanda"],["Senegal"],["Somalia"],["South Sudan"],["Sri Lanka"],["Sudan"],["Swaziland"],["Syrian Arab Republic"],["Tajikistan"],["Timor-Leste"],['Uganda'],['United Republic of Tanzania'],
 ['Yemen'],['Zambia'],['Zimbabwe']
 
-regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],["Amernia" "Iran (Islamic Republic of)", "Georgia"],["Bangladesh" "India", "Myanmar"],["Benin","Burkina Faso", "Nigeria", "Niger"],["Benin","Burkina Faso", "Nigeria", "Niger"],
-["Bhutan","India"],["Bolivia", "Peru"],["Burkina Faso","Mali", "Cote d'Ivoire", "Ghana", "Benin", "Niger"],["Burundi","Congo-Kinshasa", "Rwanda", "United Republic of Tanzania"],["Cambodia","Lao people's Democratic Republic"],
-["Cameroon","Nigeria", "Chad", "Central African Republic", "Congo-Brazzaville"],["Chad","Niger", "Nigeria", "Sudan", "Central African Republic", "Cameroon"],
-["Colombia","Panamá", "Peru"],
-["Democratic Republic of the Congo","Cameroon", "Central African Republic", "Zambia", "Rwanda", "Burundi", "United Republic of Tanzania", "Uganda", "South Sudan"],
-["Congo-Brazzaville","Congo-Kinshasa", "Cameroon", "Central African Republic"],
-["Congo-Kinshasa","Congo-Brazzaville", "Zambia", "Rwanda", "Burundi", "United Republic of Tanzania", "Uganda", "South Sudan", "Central African Republic"],
-["Costa Rica","Panamá"],
-["Cote d'Ivoire","Guinea", "Liberia", "Ghana", "Mali", "Burkina Faso"],
+regio = [
 ["Djibouti","Ethiopia", "Somalia"],
 ["Egypt","Sudan"],
 ["El Salvador","Guatemala", "Honduras"],
@@ -71,7 +62,7 @@ regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],
 ["Zambia","United Republic of Tanzania", "Malawi", "Mozambique", "Zimbabwe"],
 ["Zimbabwe","Zambia", "Mozambique"]]
 
-#Print till Cote d'Ivoiry but not further don't know why Probably something WFP_csv.
+#Print till Cote d"Ivoiry but not further
 df = pd.read_csv("WFPCleaned.csv")
 #dataset = pd.read_csv("Regions.csv", delimiter=':')
 
@@ -100,7 +91,7 @@ for i, country in zip(range(len(land)), countries):
         y = df["average_price"][(df["country"] == j) & (df["food"] == product)]
         x_list.append(x)
         y_list.append(y)
-    fOut = open("testregion.html", "a")
+    fOut = open("test1.html", "a")
     f = figure(plot_width=500, plot_height=500, title=country)
     f.multi_line(xs = x_list, ys = y_list)
     html = file_html(f, CDN, "chart2")
