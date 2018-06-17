@@ -2,16 +2,22 @@ import pandas as pd
 
 df_1 = pd.read_csv("WFPCleaned.csv")
 df_2 = pd.read_csv("AnnualExchangeRate.csv")
-# df_2.Rate.astype("float64")
-# df_1["AveragePriceInUSD"] = df_1["average_price"] / df_2["Rate"]
+df_2.Rate.astype("float64")
 
-Countries = df_1["country"].unique()
+# for price in df_1["average_price"]:
+#     currency = df_1["currency"].loc[df_1["average_price"] == price]
+#     year = df_1["year"].loc[df_1["average_price"] == price]
 
-df_2 = df_2[df_2["Country"].isin(Countries)]
+df_2 = df_2.drop(df_2[(df_2.Country == "Costa Rica") | (df_2.Country == "El Salvador")].index)
+df_2 = df_2.drop(df_2[(df_2.Country == "Honduras") | (df_2.Country == "Panama") | (df_2.Country == "Zimbabwe")].index)
 
-print(len(df_2["Country"].unique()))
-print(len(Countries))
-
+# Countries = df_1["country"].unique()
+#
+# df_2 = df_2[df_2["Country"].isin(Countries)]
+#
+# print(len(Countries))
+# print(len(df_2["Country"].unique()))
+#
 # df_2.to_csv("AnnualExchangeRate.csv")
 
 # df_1 = df.ix[:, 0:9]
