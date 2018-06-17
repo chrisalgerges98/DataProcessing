@@ -1,3073 +1,3073 @@
-Country,Currency,Year,Rate
-Afghanistan,AFN,2001,47.50
-Afghanistan,AFN,2002,47.26
-Afghanistan,AFN,2003,48.76
-Afghanistan,AFN,2004,47.85
-Afghanistan,AFN,2005,49.49
-Afghanistan,AFN,2006,49.93
-Afghanistan,AFN,2007,49.96
-Afghanistan,AFN,2008,50.25
-Afghanistan,AFN,2009,50.33
-Afghanistan,AFN,2010,46.45
-Afghanistan,AFN,2011,46.75
-Afghanistan,AFN,2012,50.92
-Afghanistan,AFN,2013,55.38
-Afghanistan,AFN,2014,57.25
-Afghanistan,AFN,2015,61.14
-Afghanistan,AFN,2016,67.87
-Albania,ALL,2001,143.48
-Albania,ALL,2002,140.15
-Albania,ALL,2003,121.86
-Albania,ALL,2004,102.78
-Albania,ALL,2005,99.87
-Albania,ALL,2006,98.10
-Albania,ALL,2007,90.43
-Albania,ALL,2008,83.89
-Albania,ALL,2009,94.98
-Albania,ALL,2010,103.94
-Albania,ALL,2011,100.89
-Albania,ALL,2012,108.18
-Albania,ALL,2013,105.67
-Albania,ALL,2014,105.48
-Albania,ALL,2015,125.96
-Albania,ALL,2016,124.14
-Algeria,DZD,2001,76.50
-Algeria,DZD,2002,79.27
-Algeria,DZD,2003,76.29
-Algeria,DZD,2004,71.74
-Algeria,DZD,2005,72.78
-Algeria,DZD,2006,72.90
-Algeria,DZD,2007,69.69
-Algeria,DZD,2008,64.58
-Algeria,DZD,2009,72.51
-Algeria,DZD,2010,73.88
-Algeria,DZD,2011,73.04
-Algeria,DZD,2012,77.66
-Algeria,DZD,2013,79.59
-Algeria,DZD,2014,80.58
-Algeria,DZD,2015,100.45
-Algeria,DZD,2016,109.40
-Angola,AOA,2001,22.06
-Angola,AOA,2002,43.53
-Angola,AOA,2003,74.61
-Angola,AOA,2004,83.54
-Angola,AOA,2005,87.16
-Angola,AOA,2006,80.37
-Angola,AOA,2007,76.71
-Angola,AOA,2008,75.03
-Angola,AOA,2009,79.33
-Angola,AOA,2010,91.91
-Angola,AOA,2011,93.93
-Angola,AOA,2012,95.47
-Angola,AOA,2013,96.52
-Angola,AOA,2014,98.30
-Angola,AOA,2015,120.06
-Angola,AOA,2016,163.66
-Anguillla,XCD,2001,2.70
-Anguillla,XCD,2002,2.70
-Anguillla,XCD,2003,2.70
-Anguillla,XCD,2004,2.70
-Anguillla,XCD,2005,2.70
-Anguillla,XCD,2006,2.70
-Anguillla,XCD,2007,2.70
-Anguillla,XCD,2008,2.70
-Anguillla,XCD,2009,2.70
-Anguillla,XCD,2010,2.70
-Anguillla,XCD,2011,2.70
-Anguillla,XCD,2012,2.70
-Anguillla,XCD,2013,2.70
-Anguillla,XCD,2014,2.70
-Anguillla,XCD,2015,2.70
-Anguillla,XCD,2016,2.70
-Antigua and Barbuda,XCD,2001,2.70
-Antigua and Barbuda,XCD,2002,2.70
-Antigua and Barbuda,XCD,2003,2.70
-Antigua and Barbuda,XCD,2004,2.70
-Antigua and Barbuda,XCD,2005,2.70
-Antigua and Barbuda,XCD,2006,2.70
-Antigua and Barbuda,XCD,2007,2.70
-Antigua and Barbuda,XCD,2008,2.70
-Antigua and Barbuda,XCD,2009,2.70
-Antigua and Barbuda,XCD,2010,2.70
-Antigua and Barbuda,XCD,2011,2.70
-Antigua and Barbuda,XCD,2012,2.70
-Antigua and Barbuda,XCD,2013,2.70
-Antigua and Barbuda,XCD,2014,2.70
-Antigua and Barbuda,XCD,2015,2.70
-Antigua and Barbuda,XCD,2016,2.70
-Argentina,ARS,2001,1.00
-Argentina,ARS,2002,3.29
-Argentina,ARS,2003,2.95
-Argentina,ARS,2004,2.95
-Argentina,ARS,2005,2.93
-Argentina,ARS,2006,3.08
-Argentina,ARS,2007,3.12
-Argentina,ARS,2008,3.16
-Argentina,ARS,2009,3.73
-Argentina,ARS,2010,3.91
-Argentina,ARS,2011,4.13
-Argentina,ARS,2012,4.54
-Argentina,ARS,2013,5.47
-Argentina,ARS,2014,8.12
-Argentina,ARS,2015,9.25
-Argentina,ARS,2016,14.77
-Armenia,AMD,2001,555.08
-Armenia,AMD,2002,573.35
-Armenia,AMD,2003,578.76
-Armenia,AMD,2004,533.45
-Armenia,AMD,2005,457.69
-Armenia,AMD,2006,416.04
-Armenia,AMD,2007,342.08
-Armenia,AMD,2008,305.97
-Armenia,AMD,2009,363.28
-Armenia,AMD,2010,373.66
-Armenia,AMD,2011,372.50
-Armenia,AMD,2012,401.76
-Armenia,AMD,2013,409.63
-Armenia,AMD,2014,415.92
-Armenia,AMD,2015,477.92
-Armenia,AMD,2016,480.49
-Aruba,AWG,2001,1.79
-Aruba,AWG,2002,1.79
-Aruba,AWG,2003,1.79
-Aruba,AWG,2004,1.79
-Aruba,AWG,2005,1.79
-Aruba,AWG,2006,1.79
-Aruba,AWG,2007,1.79
-Aruba,AWG,2008,1.79
-Aruba,AWG,2009,1.79
-Aruba,AWG,2010,1.79
-Aruba,AWG,2011,1.79
-Aruba,AWG,2012,1.79
-Aruba,AWG,2013,1.79
-Aruba,AWG,2014,1.79
-Aruba,AWG,2015,1.79
-Aruba,AWG,2016,1.79
-Australia,AUD,2001,1.93
-Australia,AUD,2002,1.84
-Australia,AUD,2003,1.54
-Australia,AUD,2004,1.36
-Australia,AUD,2005,1.31
-Australia,AUD,2006,1.33
-Australia,AUD,2007,1.19
-Australia,AUD,2008,1.20
-Australia,AUD,2009,1.28
-Australia,AUD,2010,1.09
-Australia,AUD,2011,0.97
-Australia,AUD,2012,0.97
-Australia,AUD,2013,1.04
-Australia,AUD,2014,1.11
-Australia,AUD,2015,1.33
-Australia,AUD,2016,1.34
-Austria,EUR,2001,1.12
-Austria,EUR,2002,1.06
-Austria,EUR,2003,0.89
-Austria,EUR,2004,0.80
-Austria,EUR,2005,0.81
-Austria,EUR,2006,0.80
-Austria,EUR,2007,0.73
-Austria,EUR,2008,0.68
-Austria,EUR,2009,0.72
-Austria,EUR,2010,0.76
-Austria,EUR,2011,0.72
-Austria,EUR,2012,0.78
-Austria,EUR,2013,0.75
-Austria,EUR,2014,0.75
-Austria,EUR,2015,0.90
-Austria,EUR,2016,0.90
-Azerbaijan,AZN,2001,0.93
-Azerbaijan,AZN,2002,0.97
-Azerbaijan,AZN,2003,0.98
-Azerbaijan,AZN,2004,0.98
-Azerbaijan,AZN,2005,0.95
-Azerbaijan,AZN,2006,0.89
-Azerbaijan,AZN,2007,0.86
-Azerbaijan,AZN,2008,0.82
-Azerbaijan,AZN,2009,0.80
-Azerbaijan,AZN,2010,0.80
-Azerbaijan,AZN,2011,0.79
-Azerbaijan,AZN,2012,0.79
-Azerbaijan,AZN,2013,0.78
-Azerbaijan,AZN,2014,0.78
-Azerbaijan,AZN,2015,1.02
-Azerbaijan,AZN,2016,1.60
-Bahamas,BSD,2001,1.00
-Bahamas,BSD,2002,1.00
-Bahamas,BSD,2003,1.00
-Bahamas,BSD,2004,1.00
-Bahamas,BSD,2005,1.00
-Bahamas,BSD,2006,1.00
-Bahamas,BSD,2007,1.00
-Bahamas,BSD,2008,1.00
-Bahamas,BSD,2009,1.00
-Bahamas,BSD,2010,1.00
-Bahamas,BSD,2011,1.00
-Bahamas,BSD,2012,1.00
-Bahamas,BSD,2013,1.00
-Bahamas,BSD,2014,1.00
-Bahamas,BSD,2015,1.00
-Bahamas,BSD,2016,1.00
-Bahrain,BHD,2001,0.38
-Bahrain,BHD,2002,0.38
-Bahrain,BHD,2003,0.38
-Bahrain,BHD,2004,0.38
-Bahrain,BHD,2005,0.38
-Bahrain,BHD,2006,0.38
-Bahrain,BHD,2007,0.38
-Bahrain,BHD,2008,0.38
-Bahrain,BHD,2009,0.38
-Bahrain,BHD,2010,0.38
-Bahrain,BHD,2011,0.38
-Bahrain,BHD,2012,0.38
-Bahrain,BHD,2013,0.38
-Bahrain,BHD,2014,0.38
-Bahrain,BHD,2015,0.38
-Bahrain,BHD,2016,0.38
-Bangladesh,BDT,2001,55.81
-Bangladesh,BDT,2002,57.89
-Bangladesh,BDT,2003,58.15
-Bangladesh,BDT,2004,59.51
-Bangladesh,BDT,2005,64.33
-Bangladesh,BDT,2006,68.93
-Bangladesh,BDT,2007,68.87
-Bangladesh,BDT,2008,68.60
-Bangladesh,BDT,2009,69.04
-Bangladesh,BDT,2010,69.65
-Bangladesh,BDT,2011,74.15
-Bangladesh,BDT,2012,81.86
-Bangladesh,BDT,2013,78.10
-Bangladesh,BDT,2014,77.64
-Bangladesh,BDT,2015,77.95
-Bangladesh,BDT,2016,78.47
-Barbados,BBD,2001,2.00
-Barbados,BBD,2002,2.00
-Barbados,BBD,2003,2.00
-Barbados,BBD,2004,2.00
-Barbados,BBD,2005,2.00
-Barbados,BBD,2006,2.00
-Barbados,BBD,2007,2.00
-Barbados,BBD,2008,2.00
-Barbados,BBD,2009,2.00
-Barbados,BBD,2010,2.00
-Barbados,BBD,2011,2.00
-Barbados,BBD,2012,2.00
-Barbados,BBD,2013,2.00
-Barbados,BBD,2014,2.00
-Barbados,BBD,2015,2.00
-Barbados,BBD,2016,2.00
-Belarus,BYN,2001,0.14
-Belarus,BYN,2002,0.18
-Belarus,BYN,2003,0.21
-Belarus,BYN,2004,0.22
-Belarus,BYN,2005,0.22
-Belarus,BYN,2006,0.21
-Belarus,BYN,2007,0.21
-Belarus,BYN,2008,0.21
-Belarus,BYN,2009,0.28
-Belarus,BYN,2010,0.30
-Belarus,BYN,2011,0.53
-Belarus,BYN,2012,0.83
-Belarus,BYN,2013,0.89
-Belarus,BYN,2014,1.04
-Belarus,BYN,2015,1.62
-Belarus,BYN,2016,1.99
-Belgium,EUR,2001,1.12
-Belgium,EUR,2002,1.06
-Belgium,EUR,2003,0.89
-Belgium,EUR,2004,0.80
-Belgium,EUR,2005,0.81
-Belgium,EUR,2006,0.80
-Belgium,EUR,2007,0.73
-Belgium,EUR,2008,0.68
-Belgium,EUR,2009,0.72
-Belgium,EUR,2010,0.76
-Belgium,EUR,2011,0.72
-Belgium,EUR,2012,0.78
-Belgium,EUR,2013,0.75
-Belgium,EUR,2014,0.75
-Belgium,EUR,2015,0.90
-Belgium,EUR,2016,0.90
-Belize,BZD,2001,2.00
-Belize,BZD,2002,2.00
-Belize,BZD,2003,2.00
-Belize,BZD,2004,2.00
-Belize,BZD,2005,2.00
-Belize,BZD,2006,2.00
-Belize,BZD,2007,2.00
-Belize,BZD,2008,2.00
-Belize,BZD,2009,2.00
-Belize,BZD,2010,2.00
-Belize,BZD,2011,2.00
-Belize,BZD,2012,2.00
-Belize,BZD,2013,2.00
-Belize,BZD,2014,2.00
-Belize,BZD,2015,2.00
-Belize,BZD,2016,2.00
-Benin,XOF,2001,733.04
-Benin,XOF,2002,696.99
-Benin,XOF,2003,581.20
-Benin,XOF,2004,528.28
-Benin,XOF,2005,527.47
-Benin,XOF,2006,522.89
-Benin,XOF,2007,479.27
-Benin,XOF,2008,447.81
-Benin,XOF,2009,472.19
-Benin,XOF,2010,495.28
-Benin,XOF,2011,471.87
-Benin,XOF,2012,510.53
-Benin,XOF,2013,494.04
-Benin,XOF,2014,494.41
-Benin,XOF,2015,591.45
-Benin,XOF,2016,593.01
-Bhutan,BTN,2001,47.19
-Bhutan,BTN,2002,48.61
-Bhutan,BTN,2003,46.58
-Bhutan,BTN,2004,45.32
-Bhutan,BTN,2005,44.10
-Bhutan,BTN,2006,45.31
-Bhutan,BTN,2007,41.35
-Bhutan,BTN,2008,43.51
-Bhutan,BTN,2009,48.41
-Bhutan,BTN,2010,45.73
-Bhutan,BTN,2011,46.67
-Bhutan,BTN,2012,53.44
-Bhutan,BTN,2013,58.60
-Bhutan,BTN,2014,61.03
-Bhutan,BTN,2015,64.15
-Bhutan,BTN,2016,67.20
-Bolivia,BOB,2001,6.61
-Bolivia,BOB,2002,7.17
-Bolivia,BOB,2003,7.66
-Bolivia,BOB,2004,7.94
-Bolivia,BOB,2005,8.07
-Bolivia,BOB,2006,8.01
-Bolivia,BOB,2007,7.85
-Bolivia,BOB,2008,7.24
-Bolivia,BOB,2009,7.02
-Bolivia,BOB,2010,7.02
-Bolivia,BOB,2011,6.94
-Bolivia,BOB,2012,6.91
-Bolivia,BOB,2013,6.91
-Bolivia,BOB,2014,6.91
-Bolivia,BOB,2015,6.91
-Bolivia,BOB,2016,6.91
-Bosnia and Herzegovina,BAM,2001,2.19
-Bosnia and Herzegovina,BAM,2002,2.08
-Bosnia and Herzegovina,BAM,2003,1.73
-Bosnia and Herzegovina,BAM,2004,1.58
-Bosnia and Herzegovina,BAM,2005,1.57
-Bosnia and Herzegovina,BAM,2006,1.56
-Bosnia and Herzegovina,BAM,2007,1.43
-Bosnia and Herzegovina,BAM,2008,1.34
-Bosnia and Herzegovina,BAM,2009,1.41
-Bosnia and Herzegovina,BAM,2010,1.47
-Bosnia and Herzegovina,BAM,2011,1.41
-Bosnia and Herzegovina,BAM,2012,1.52
-Bosnia and Herzegovina,BAM,2013,1.47
-Bosnia and Herzegovina,BAM,2014,1.47
-Bosnia and Herzegovina,BAM,2015,1.76
-Bosnia and Herzegovina,BAM,2016,1.77
-Botswana,BWP,2001,5.84
-Botswana,BWP,2002,6.33
-Botswana,BWP,2003,4.95
-Botswana,BWP,2004,4.69
-Botswana,BWP,2005,5.12
-Botswana,BWP,2006,5.83
-Botswana,BWP,2007,6.14
-Botswana,BWP,2008,6.83
-Botswana,BWP,2009,7.16
-Botswana,BWP,2010,6.79
-Botswana,BWP,2011,6.84
-Botswana,BWP,2012,6.84
-Botswana,BWP,2013,8.40
-Botswana,BWP,2014,8.98
-Botswana,BWP,2015,10.13
-Botswana,BWP,2016,10.90
-Brazil,BRL,2001,2.35
-Brazil,BRL,2002,2.92
-Brazil,BRL,2003,3.08
-Brazil,BRL,2004,2.93
-Brazil,BRL,2005,2.43
-Brazil,BRL,2006,2.18
-Brazil,BRL,2007,1.95
-Brazil,BRL,2008,1.84
-Brazil,BRL,2009,2.00
-Brazil,BRL,2010,1.76
-Brazil,BRL,2011,1.67
-Brazil,BRL,2012,1.95
-Brazil,BRL,2013,2.16
-Brazil,BRL,2014,2.35
-Brazil,BRL,2015,3.34
-Brazil,BRL,2016,3.48
-Brunei,BND,2001,1.79
-Brunei,BND,2002,1.79
-Brunei,BND,2003,1.74
-Brunei,BND,2004,1.69
-Brunei,BND,2005,1.66
-Brunei,BND,2006,1.59
-Brunei,BND,2007,1.51
-Brunei,BND,2008,1.41
-Brunei,BND,2009,1.45
-Brunei,BND,2010,1.37
-Brunei,BND,2011,1.26
-Brunei,BND,2012,1.25
-Brunei,BND,2013,1.25
-Brunei,BND,2014,1.27
-Brunei,BND,2015,1.38
-Brunei,BND,2016,1.38
-Bulgaria,BGN,2001,2.18
-Bulgaria,BGN,2002,2.07
-Bulgaria,BGN,2003,1.73
-Bulgaria,BGN,2004,1.57
-Bulgaria,BGN,2005,1.57
-Bulgaria,BGN,2006,1.56
-Bulgaria,BGN,2007,1.43
-Bulgaria,BGN,2008,1.34
-Bulgaria,BGN,2009,1.41
-Bulgaria,BGN,2010,1.48
-Bulgaria,BGN,2011,1.41
-Bulgaria,BGN,2012,1.52
-Bulgaria,BGN,2013,1.47
-Bulgaria,BGN,2014,1.47
-Bulgaria,BGN,2015,1.76
-Bulgaria,BGN,2016,1.77
-Burkina Faso,XOF,2001,733.04
-Burkina Faso,XOF,2002,696.99
-Burkina Faso,XOF,2003,581.20
-Burkina Faso,XOF,2004,528.28
-Burkina Faso,XOF,2005,527.47
-Burkina Faso,XOF,2006,522.89
-Burkina Faso,XOF,2007,479.27
-Burkina Faso,XOF,2008,447.81
-Burkina Faso,XOF,2009,472.19
-Burkina Faso,XOF,2010,495.28
-Burkina Faso,XOF,2011,471.87
-Burkina Faso,XOF,2012,510.53
-Burkina Faso,XOF,2013,494.04
-Burkina Faso,XOF,2014,494.41
-Burkina Faso,XOF,2015,591.45
-Burkina Faso,XOF,2016,593.01
-Burundi,BIF,2001,830.35
-Burundi,BIF,2002,930.75
-Burundi,BIF,2003,"1,082.62"
-Burundi,BIF,2004,"1,100.90"
-Burundi,BIF,2005,"1,081.58"
-Burundi,BIF,2006,"1,028.68"
-Burundi,BIF,2007,"1,081.87"
-Burundi,BIF,2008,"1,185.69"
-Burundi,BIF,2009,"1,230.18"
-Burundi,BIF,2010,"1,230.75"
-Burundi,BIF,2011,"1,261.07"
-Burundi,BIF,2012,"1,442.51"
-Burundi,BIF,2013,"1,555.09"
-Burundi,BIF,2014,"1,546.69"
-Burundi,BIF,2015,"1,571.90"
-Burundi,BIF,2016,"1,654.63"
-Cambodia,KHR,2001,"3,916.33"
-Cambodia,KHR,2002,"3,912.08"
-Cambodia,KHR,2003,"3,973.33"
-Cambodia,KHR,2004,"4,016.25"
-Cambodia,KHR,2005,"4,092.50"
-Cambodia,KHR,2006,"4,103.25"
-Cambodia,KHR,2007,"4,056.17"
-Cambodia,KHR,2008,"4,054.17"
-Cambodia,KHR,2009,"4,139.33"
-Cambodia,KHR,2010,"4,184.92"
-Cambodia,KHR,2011,"4,058.50"
-Cambodia,KHR,2012,"4,033.00"
-Cambodia,KHR,2013,"4,027.25"
-Cambodia,KHR,2014,"4,037.50"
-Cambodia,KHR,2015,"4,067.75"
-Cambodia,KHR,2016,"4,058.69"
-Cameroon,XAF,2001,733.04
-Cameroon,XAF,2002,696.99
-Cameroon,XAF,2003,581.20
-Cameroon,XAF,2004,528.28
-Cameroon,XAF,2005,527.47
-Cameroon,XAF,2006,522.89
-Cameroon,XAF,2007,479.27
-Cameroon,XAF,2008,447.81
-Cameroon,XAF,2009,472.19
-Cameroon,XAF,2010,495.28
-Cameroon,XAF,2011,471.87
-Cameroon,XAF,2012,510.53
-Cameroon,XAF,2013,494.04
-Cameroon,XAF,2014,494.41
-Cameroon,XAF,2015,591.45
-Cameroon,XAF,2016,593.01
-Canada,CAD,2001,1.55
-Canada,CAD,2002,1.57
-Canada,CAD,2003,1.40
-Canada,CAD,2004,1.30
-Canada,CAD,2005,1.21
-Canada,CAD,2006,1.13
-Canada,CAD,2007,1.07
-Canada,CAD,2008,1.07
-Canada,CAD,2009,1.14
-Canada,CAD,2010,1.03
-Canada,CAD,2011,0.99
-Canada,CAD,2012,1.00
-Canada,CAD,2013,1.03
-Canada,CAD,2014,1.10
-Canada,CAD,2015,1.28
-Canada,CAD,2016,1.32
-Cape Verde,CVE,2001,123.21
-Cape Verde,CVE,2002,117.26
-Cape Verde,CVE,2003,97.79
-Cape Verde,CVE,2004,88.75
-Cape Verde,CVE,2005,88.65
-Cape Verde,CVE,2006,87.93
-Cape Verde,CVE,2007,80.62
-Cape Verde,CVE,2008,75.34
-Cape Verde,CVE,2009,80.04
-Cape Verde,CVE,2010,83.28
-Cape Verde,CVE,2011,79.28
-Cape Verde,CVE,2012,86.32
-Cape Verde,CVE,2013,83.07
-Cape Verde,CVE,2014,83.03
-Cape Verde,CVE,2015,99.39
-Cape Verde,CVE,2016,99.69
-Cayman Islands,KYD,2001,1.20
-Cayman Islands,KYD,2002,1.20
-Cayman Islands,KYD,2003,1.20
-Cayman Islands,KYD,2004,1.20
-Cayman Islands,KYD,2005,1.20
-Cayman Islands,KYD,2006,1.20
-Cayman Islands,KYD,2007,1.20
-Cayman Islands,KYD,2008,1.20
-Cayman Islands,KYD,2009,1.20
-Cayman Islands,KYD,2010,1.20
-Cayman Islands,KYD,2011,1.20
-Cayman Islands,KYD,2012,1.20
-Cayman Islands,KYD,2013,1.20
-Cayman Islands,KYD,2014,1.20
-Cayman Islands,KYD,2015,1.20
-Cayman Islands,KYD,2016,1.20
-Central African Republic,XAF,2001,733.04
-Central African Republic,XAF,2002,696.99
-Central African Republic,XAF,2003,581.20
-Central African Republic,XAF,2004,528.28
-Central African Republic,XAF,2005,527.47
-Central African Republic,XAF,2006,522.89
-Central African Republic,XAF,2007,479.27
-Central African Republic,XAF,2008,447.81
-Central African Republic,XAF,2009,472.19
-Central African Republic,XAF,2010,495.28
-Central African Republic,XAF,2011,471.87
-Central African Republic,XAF,2012,510.53
-Central African Republic,XAF,2013,494.04
-Central African Republic,XAF,2014,494.41
-Central African Republic,XAF,2015,591.45
-Central African Republic,XAF,2016,593.01
-Chad,XAF,2001,733.04
-Chad,XAF,2002,696.99
-Chad,XAF,2003,581.20
-Chad,XAF,2004,528.28
-Chad,XAF,2005,527.47
-Chad,XAF,2006,522.89
-Chad,XAF,2007,479.27
-Chad,XAF,2008,447.81
-Chad,XAF,2009,472.19
-Chad,XAF,2010,495.28
-Chad,XAF,2011,471.87
-Chad,XAF,2012,510.53
-Chad,XAF,2013,494.04
-Chad,XAF,2014,494.41
-Chad,XAF,2015,591.45
-Chad,XAF,2016,593.01
-Chile,CLP,2001,634.43
-Chile,CLP,2002,689.24
-Chile,CLP,2003,691.54
-Chile,CLP,2004,609.55
-Chile,CLP,2005,559.86
-Chile,CLP,2006,530.26
-Chile,CLP,2007,522.69
-Chile,CLP,2008,521.79
-Chile,CLP,2009,559.67
-Chile,CLP,2010,510.38
-Chile,CLP,2011,483.36
-Chile,CLP,2012,486.75
-Chile,CLP,2013,495.00
-Chile,CLP,2014,570.01
-Chile,CLP,2015,654.25
-Chile,CLP,2016,676.83
-China,CNY,2001,8.28
-China,CNY,2002,8.28
-China,CNY,2003,8.28
-China,CNY,2004,8.28
-China,CNY,2005,8.19
-China,CNY,2006,7.97
-China,CNY,2007,7.61
-China,CNY,2008,6.95
-China,CNY,2009,6.83
-China,CNY,2010,6.77
-China,CNY,2011,6.46
-China,CNY,2012,6.31
-China,CNY,2013,6.15
-China,CNY,2014,6.16
-China,CNY,2015,6.29
-China,CNY,2016,6.64
-Chinese Taipei,TWD,2001,33.82
-Chinese Taipei,TWD,2002,34.57
-Chinese Taipei,TWD,2003,34.41
-Chinese Taipei,TWD,2004,33.42
-Chinese Taipei,TWD,2005,32.18
-Chinese Taipei,TWD,2006,32.53
-Chinese Taipei,TWD,2007,32.85
-Chinese Taipei,TWD,2008,31.54
-Chinese Taipei,TWD,2009,33.04
-Chinese Taipei,TWD,2010,31.53
-Chinese Taipei,TWD,2011,29.40
-Chinese Taipei,TWD,2012,29.58
-Chinese Taipei,TWD,2013,29.69
-Chinese Taipei,TWD,2014,30.31
-Chinese Taipei,TWD,2015,31.77
-Chinese Taipei,TWD,2016,32.24
-Colombia,COP,2001,"2,300.10"
-Colombia,COP,2002,"2,506.55"
-Colombia,COP,2003,"2,875.91"
-Colombia,COP,2004,"2,628.47"
-Colombia,COP,2005,"2,321.49"
-Colombia,COP,2006,"2,358.96"
-Colombia,COP,2007,"2,076.24"
-Colombia,COP,2008,"1,967.11"
-Colombia,COP,2009,"2,153.30"
-Colombia,COP,2010,"1,898.68"
-Colombia,COP,2011,"1,846.97"
-Colombia,COP,2012,"1,797.79"
-Colombia,COP,2013,"1,869.10"
-Colombia,COP,2014,"2,000.33"
-Colombia,COP,2015,"2,743.39"
-Colombia,COP,2016,"3,050.98"
-Comoros,KMF,2001,549.78
-Comoros,KMF,2002,522.74
-Comoros,KMF,2003,435.90
-Comoros,KMF,2004,396.21
-Comoros,KMF,2005,395.60
-Comoros,KMF,2006,392.17
-Comoros,KMF,2007,359.45
-Comoros,KMF,2008,335.85
-Comoros,KMF,2009,354.14
-Comoros,KMF,2010,371.46
-Comoros,KMF,2011,353.90
-Comoros,KMF,2012,382.90
-Comoros,KMF,2013,370.53
-Comoros,KMF,2014,370.81
-Comoros,KMF,2015,443.59
-Comoros,KMF,2016,444.76
-Congo,XAF,2001,733.04
-Congo,XAF,2002,696.99
-Congo,XAF,2003,581.20
-Congo,XAF,2004,528.28
-Congo,XAF,2005,527.47
-Congo,XAF,2006,522.89
-Congo,XAF,2007,479.27
-Congo,XAF,2008,447.81
-Congo,XAF,2009,472.19
-Congo,XAF,2010,495.28
-Congo,XAF,2011,471.87
-Congo,XAF,2012,510.53
-Congo,XAF,2013,494.04
-Congo,XAF,2014,494.41
-Congo,XAF,2015,591.45
-Congo,XAF,2016,593.01
-Congo Democratic Republic,CDF,2001,206.62
-Congo Democratic Republic,CDF,2002,346.48
-Congo Democratic Republic,CDF,2003,405.18
-Congo Democratic Republic,CDF,2004,399.48
-Congo Democratic Republic,CDF,2005,473.91
-Congo Democratic Republic,CDF,2006,468.28
-Congo Democratic Republic,CDF,2007,516.75
-Congo Democratic Republic,CDF,2008,559.29
-Congo Democratic Republic,CDF,2009,809.79
-Congo Democratic Republic,CDF,2010,905.91
-Congo Democratic Republic,CDF,2011,919.49
-Congo Democratic Republic,CDF,2012,919.76
-Congo Democratic Republic,CDF,2013,919.57
-Congo Democratic Republic,CDF,2014,925.23
-Congo Democratic Republic,CDF,2015,925.98
-Congo Democratic Republic,CDF,2016,"1,010.30"
-Costa Rica,CRC,2001,328.87
-Costa Rica,CRC,2002,359.82
-Costa Rica,CRC,2003,398.66
-Costa Rica,CRC,2004,437.94
-Costa Rica,CRC,2005,477.79
-Costa Rica,CRC,2006,511.30
-Costa Rica,CRC,2007,516.62
-Costa Rica,CRC,2008,526.24
-Costa Rica,CRC,2009,573.29
-Costa Rica,CRC,2010,525.83
-Costa Rica,CRC,2011,505.66
-Costa Rica,CRC,2012,502.90
-Costa Rica,CRC,2013,499.77
-Costa Rica,CRC,2014,538.32
-Costa Rica,CRC,2015,534.57
-Costa Rica,CRC,2016,544.74
-Cote d'Ivoire,XOF,2001,733.04
-Cote d'Ivoire,XOF,2002,696.99
-Cote d'Ivoire,XOF,2003,581.20
-Cote d'Ivoire,XOF,2004,528.28
-Cote d'Ivoire,XOF,2005,527.47
-Cote d'Ivoire,XOF,2006,522.89
-Cote d'Ivoire,XOF,2007,479.27
-Cote d'Ivoire,XOF,2008,447.81
-Cote d'Ivoire,XOF,2009,472.19
-Cote d'Ivoire,XOF,2010,495.28
-Cote d'Ivoire,XOF,2011,471.87
-Cote d'Ivoire,XOF,2012,510.53
-Cote d'Ivoire,XOF,2013,494.04
-Cote d'Ivoire,XOF,2014,494.41
-Cote d'Ivoire,XOF,2015,591.45
-Cote d'Ivoire,XOF,2016,593.01
-Croatia,HRK,2001,8.36
-Croatia,HRK,2002,7.87
-Croatia,HRK,2003,6.70
-Croatia,HRK,2004,6.03
-Croatia,HRK,2005,5.96
-Croatia,HRK,2006,5.84
-Croatia,HRK,2007,5.36
-Croatia,HRK,2008,4.94
-Croatia,HRK,2009,5.28
-Croatia,HRK,2010,5.51
-Croatia,HRK,2011,5.35
-Croatia,HRK,2012,5.86
-Croatia,HRK,2013,5.71
-Croatia,HRK,2014,5.76
-Croatia,HRK,2015,6.87
-Croatia,HRK,2016,6.81
-Cyprus,EUR,2001,1.10
-Cyprus,EUR,2002,1.04
-Cyprus,EUR,2003,0.88
-Cyprus,EUR,2004,0.80
-Cyprus,EUR,2005,0.79
-Cyprus,EUR,2006,0.78
-Cyprus,EUR,2007,0.73
-Cyprus,EUR,2008,0.68
-Cyprus,EUR,2009,0.72
-Cyprus,EUR,2010,0.76
-Cyprus,EUR,2011,0.72
-Cyprus,EUR,2012,0.78
-Cyprus,EUR,2013,0.75
-Cyprus,EUR,2014,0.75
-Cyprus,EUR,2015,0.90
-Cyprus,EUR,2016,0.90
-Czech Republic,CZK,2001,38.06
-Czech Republic,CZK,2002,32.70
-Czech Republic,CZK,2003,28.20
-Czech Republic,CZK,2004,25.68
-Czech Republic,CZK,2005,23.97
-Czech Republic,CZK,2006,22.60
-Czech Republic,CZK,2007,20.30
-Czech Republic,CZK,2008,17.06
-Czech Republic,CZK,2009,19.03
-Czech Republic,CZK,2010,19.11
-Czech Republic,CZK,2011,17.69
-Czech Republic,CZK,2012,19.59
-Czech Republic,CZK,2013,19.57
-Czech Republic,CZK,2014,20.76
-Czech Republic,CZK,2015,24.60
-Czech Republic,CZK,2016,24.44
-Denmark,DKK,2001,8.33
-Denmark,DKK,2002,7.88
-Denmark,DKK,2003,6.58
-Denmark,DKK,2004,5.99
-Denmark,DKK,2005,6.00
-Denmark,DKK,2006,5.95
-Denmark,DKK,2007,5.44
-Denmark,DKK,2008,5.10
-Denmark,DKK,2009,5.35
-Denmark,DKK,2010,5.63
-Denmark,DKK,2011,5.36
-Denmark,DKK,2012,5.80
-Denmark,DKK,2013,5.62
-Denmark,DKK,2014,5.62
-Denmark,DKK,2015,6.73
-Denmark,DKK,2016,6.73
-Djibouti,DJF,2001,177.72
-Djibouti,DJF,2002,177.72
-Djibouti,DJF,2003,177.72
-Djibouti,DJF,2004,177.72
-Djibouti,DJF,2005,177.72
-Djibouti,DJF,2006,177.72
-Djibouti,DJF,2007,177.72
-Djibouti,DJF,2008,177.72
-Djibouti,DJF,2009,177.72
-Djibouti,DJF,2010,177.72
-Djibouti,DJF,2011,177.72
-Djibouti,DJF,2012,177.72
-Djibouti,DJF,2013,177.72
-Djibouti,DJF,2014,177.72
-Djibouti,DJF,2015,177.72
-Djibouti,DJF,2016,177.72
-Dominica,XCD,2001,2.70
-Dominica,XCD,2002,2.70
-Dominica,XCD,2003,2.70
-Dominica,XCD,2004,2.70
-Dominica,XCD,2005,2.70
-Dominica,XCD,2006,2.70
-Dominica,XCD,2007,2.70
-Dominica,XCD,2008,2.70
-Dominica,XCD,2009,2.70
-Dominica,XCD,2010,2.70
-Dominica,XCD,2011,2.70
-Dominica,XCD,2012,2.70
-Dominica,XCD,2013,2.70
-Dominica,XCD,2014,2.70
-Dominica,XCD,2015,2.70
-Dominica,XCD,2016,2.70
-Dominican Republic,DOP,2001,16.95
-Dominican Republic,DOP,2002,18.61
-Dominican Republic,DOP,2003,30.83
-Dominican Republic,DOP,2004,42.10
-Dominican Republic,DOP,2005,30.51
-Dominican Republic,DOP,2006,33.25
-Dominican Republic,DOP,2007,33.31
-Dominican Republic,DOP,2008,34.87
-Dominican Republic,DOP,2009,36.11
-Dominican Republic,DOP,2010,37.31
-Dominican Republic,DOP,2011,38.23
-Dominican Republic,DOP,2012,39.34
-Dominican Republic,DOP,2013,41.81
-Dominican Republic,DOP,2014,43.56
-Dominican Republic,DOP,2015,45.05
-Dominican Republic,DOP,2016,46.08
-Egypt,EGP,2001,3.97
-Egypt,EGP,2002,4.50
-Egypt,EGP,2003,5.85
-Egypt,EGP,2004,6.20
-Egypt,EGP,2005,5.78
-Egypt,EGP,2006,5.73
-Egypt,EGP,2007,5.64
-Egypt,EGP,2008,5.43
-Egypt,EGP,2009,5.54
-Egypt,EGP,2010,5.62
-Egypt,EGP,2011,5.93
-Egypt,EGP,2012,6.06
-Egypt,EGP,2013,6.87
-Egypt,EGP,2014,7.08
-Egypt,EGP,2015,7.69
-Egypt,EGP,2016,10.03
-El Salvador,SVC,2001,8.75
-El Salvador,SVC,2002,8.75
-El Salvador,SVC,2003,8.75
-El Salvador,SVC,2004,8.75
-El Salvador,SVC,2005,8.75
-El Salvador,SVC,2006,8.75
-El Salvador,SVC,2007,8.75
-El Salvador,SVC,2008,8.75
-El Salvador,SVC,2009,8.75
-El Salvador,SVC,2010,8.75
-El Salvador,SVC,2011,8.75
-El Salvador,SVC,2012,8.75
-El Salvador,SVC,2013,8.75
-El Salvador,SVC,2014,8.75
-El Salvador,SVC,2015,8.75
-El Salvador,SVC,2016,8.75
-Equatorial Guinea,XAF,2001,733.04
-Equatorial Guinea,XAF,2002,696.99
-Equatorial Guinea,XAF,2003,581.20
-Equatorial Guinea,XAF,2004,528.28
-Equatorial Guinea,XAF,2005,527.47
-Equatorial Guinea,XAF,2006,522.89
-Equatorial Guinea,XAF,2007,479.27
-Equatorial Guinea,XAF,2008,447.81
-Equatorial Guinea,XAF,2009,472.19
-Equatorial Guinea,XAF,2010,495.28
-Equatorial Guinea,XAF,2011,471.87
-Equatorial Guinea,XAF,2012,510.53
-Equatorial Guinea,XAF,2013,494.04
-Equatorial Guinea,XAF,2014,494.41
-Equatorial Guinea,XAF,2015,591.45
-Equatorial Guinea,XAF,2016,593.01
-Eritrea,ERN,2001,11.31
-Eritrea,ERN,2002,13.96
-Eritrea,ERN,2003,13.88
-Eritrea,ERN,2004,13.79
-Eritrea,ERN,2005,15.37
-Eritrea,ERN,2006,15.38
-Eritrea,ERN,2007,15.38
-Eritrea,ERN,2008,15.38
-Eritrea,ERN,2009,15.38
-Eritrea,ERN,2010,15.38
-Eritrea,ERN,2011,15.38
-Eritrea,ERN,2012,15.38
-Eritrea,ERN,2013,15.38
-Eritrea,ERN,2014,15.38
-Eritrea,ERN,2015,15.38
-Eritrea,ERN,2016,15.38
-Estonia,EUR,2001,1.12
-Estonia,EUR,2002,1.06
-Estonia,EUR,2003,0.89
-Estonia,EUR,2004,0.80
-Estonia,EUR,2005,0.81
-Estonia,EUR,2006,0.80
-Estonia,EUR,2007,0.73
-Estonia,EUR,2008,0.68
-Estonia,EUR,2009,0.72
-Estonia,EUR,2010,0.76
-Estonia,EUR,2011,0.72
-Estonia,EUR,2012,0.78
-Estonia,EUR,2013,0.75
-Estonia,EUR,2014,0.75
-Estonia,EUR,2015,0.90
-Estonia,EUR,2016,0.90
-Ethiopia,ETB,2001,8.46
-Ethiopia,ETB,2002,8.57
-Ethiopia,ETB,2003,8.60
-Ethiopia,ETB,2004,8.64
-Ethiopia,ETB,2005,8.67
-Ethiopia,ETB,2006,8.70
-Ethiopia,ETB,2007,8.97
-Ethiopia,ETB,2008,9.60
-Ethiopia,ETB,2009,11.78
-Ethiopia,ETB,2010,14.41
-Ethiopia,ETB,2011,16.90
-Ethiopia,ETB,2012,17.70
-Ethiopia,ETB,2013,18.63
-Ethiopia,ETB,2014,19.59
-Ethiopia,ETB,2015,20.58
-Ethiopia,ETB,2016,21.73
-Euro area,EUR,2001,1.12
-Euro area,EUR,2002,1.06
-Euro area,EUR,2003,0.89
-Euro area,EUR,2004,0.80
-Euro area,EUR,2005,0.81
-Euro area,EUR,2006,0.80
-Euro area,EUR,2007,0.73
-Euro area,EUR,2008,0.68
-Euro area,EUR,2009,0.72
-Euro area,EUR,2010,0.76
-Euro area,EUR,2011,0.72
-Euro area,EUR,2012,0.78
-Euro area,EUR,2013,0.75
-Euro area,EUR,2014,0.75
-Euro area,EUR,2015,0.90
-Euro area,EUR,2016,0.90
-Fiji,FJD,2001,2.28
-Fiji,FJD,2002,2.19
-Fiji,FJD,2003,1.90
-Fiji,FJD,2004,1.73
-Fiji,FJD,2005,1.69
-Fiji,FJD,2006,1.73
-Fiji,FJD,2007,1.61
-Fiji,FJD,2008,1.59
-Fiji,FJD,2009,1.96
-Fiji,FJD,2010,1.92
-Fiji,FJD,2011,1.79
-Fiji,FJD,2012,1.79
-Fiji,FJD,2013,1.84
-Fiji,FJD,2014,1.89
-Fiji,FJD,2015,2.10
-Fiji,FJD,2016,2.09
-Finland,EUR,2001,1.12
-Finland,EUR,2002,1.06
-Finland,EUR,2003,0.89
-Finland,EUR,2004,0.80
-Finland,EUR,2005,0.81
-Finland,EUR,2006,0.80
-Finland,EUR,2007,0.73
-Finland,EUR,2008,0.68
-Finland,EUR,2009,0.72
-Finland,EUR,2010,0.76
-Finland,EUR,2011,0.72
-Finland,EUR,2012,0.78
-Finland,EUR,2013,0.75
-Finland,EUR,2014,0.75
-Finland,EUR,2015,0.90
-Finland,EUR,2016,0.90
-France,EUR,2001,1.12
-France,EUR,2002,1.06
-France,EUR,2003,0.89
-France,EUR,2004,0.80
-France,EUR,2005,0.81
-France,EUR,2006,0.80
-France,EUR,2007,0.73
-France,EUR,2008,0.68
-France,EUR,2009,0.72
-France,EUR,2010,0.76
-France,EUR,2011,0.72
-France,EUR,2012,0.78
-France,EUR,2013,0.75
-France,EUR,2014,0.75
-France,EUR,2015,0.90
-France,EUR,2016,0.90
-Gabon,XAF,2001,733.04
-Gabon,XAF,2002,696.99
-Gabon,XAF,2003,581.20
-Gabon,XAF,2004,528.28
-Gabon,XAF,2005,527.47
-Gabon,XAF,2006,522.89
-Gabon,XAF,2007,479.27
-Gabon,XAF,2008,447.81
-Gabon,XAF,2009,472.19
-Gabon,XAF,2010,495.28
-Gabon,XAF,2011,471.87
-Gabon,XAF,2012,510.53
-Gabon,XAF,2013,494.04
-Gabon,XAF,2014,494.41
-Gabon,XAF,2015,591.45
-Gabon,XAF,2016,593.01
-Gambia,GMD,2001,15.69
-Gambia,GMD,2002,19.92
-Gambia,GMD,2003,28.53
-Gambia,GMD,2004,30.03
-Gambia,GMD,2005,28.58
-Gambia,GMD,2006,28.07
-Gambia,GMD,2007,24.87
-Gambia,GMD,2008,22.19
-Gambia,GMD,2009,26.64
-Gambia,GMD,2010,28.01
-Gambia,GMD,2011,29.46
-Gambia,GMD,2012,32.08
-Gambia,GMD,2013,35.96
-Gambia,GMD,2014,41.73
-Gambia,GMD,2015,42.51
-Gambia,GMD,2016,43.88
-Georgia,GEL,2001,2.07
-Georgia,GEL,2002,2.20
-Georgia,GEL,2003,2.15
-Georgia,GEL,2004,1.92
-Georgia,GEL,2005,1.81
-Georgia,GEL,2006,1.78
-Georgia,GEL,2007,1.67
-Georgia,GEL,2008,1.49
-Georgia,GEL,2009,1.67
-Georgia,GEL,2010,1.78
-Georgia,GEL,2011,1.69
-Georgia,GEL,2012,1.65
-Georgia,GEL,2013,1.66
-Georgia,GEL,2014,1.77
-Georgia,GEL,2015,2.27
-Georgia,GEL,2016,2.37
-Germany,EUR,2001,1.12
-Germany,EUR,2002,1.06
-Germany,EUR,2003,0.89
-Germany,EUR,2004,0.80
-Germany,EUR,2005,0.81
-Germany,EUR,2006,0.80
-Germany,EUR,2007,0.73
-Germany,EUR,2008,0.68
-Germany,EUR,2009,0.72
-Germany,EUR,2010,0.76
-Germany,EUR,2011,0.72
-Germany,EUR,2012,0.78
-Germany,EUR,2013,0.75
-Germany,EUR,2014,0.75
-Germany,EUR,2015,0.90
-Germany,EUR,2016,0.90
-Ghana,GHS,2001,0.72
-Ghana,GHS,2002,0.79
-Ghana,GHS,2003,0.87
-Ghana,GHS,2004,0.90
-Ghana,GHS,2005,0.91
-Ghana,GHS,2006,0.92
-Ghana,GHS,2007,0.94
-Ghana,GHS,2008,1.06
-Ghana,GHS,2009,1.41
-Ghana,GHS,2010,1.43
-Ghana,GHS,2011,1.51
-Ghana,GHS,2012,1.80
-Ghana,GHS,2013,1.95
-Ghana,GHS,2014,2.90
-Ghana,GHS,2015,3.67
-Ghana,GHS,2016,3.91
-Greece,EUR,2001,1.12
-Greece,EUR,2002,1.06
-Greece,EUR,2003,0.89
-Greece,EUR,2004,0.80
-Greece,EUR,2005,0.81
-Greece,EUR,2006,0.80
-Greece,EUR,2007,0.73
-Greece,EUR,2008,0.68
-Greece,EUR,2009,0.72
-Greece,EUR,2010,0.76
-Greece,EUR,2011,0.72
-Greece,EUR,2012,0.78
-Greece,EUR,2013,0.75
-Greece,EUR,2014,0.75
-Greece,EUR,2015,0.90
-Greece,EUR,2016,0.90
-Grenada,XCD,2001,2.70
-Grenada,XCD,2002,2.70
-Grenada,XCD,2003,2.70
-Grenada,XCD,2004,2.70
-Grenada,XCD,2005,2.70
-Grenada,XCD,2006,2.70
-Grenada,XCD,2007,2.70
-Grenada,XCD,2008,2.70
-Grenada,XCD,2009,2.70
-Grenada,XCD,2010,2.70
-Grenada,XCD,2011,2.70
-Grenada,XCD,2012,2.70
-Grenada,XCD,2013,2.70
-Grenada,XCD,2014,2.70
-Grenada,XCD,2015,2.70
-Grenada,XCD,2016,2.70
-Guatemala,GTQ,2001,7.86
-Guatemala,GTQ,2002,7.82
-Guatemala,GTQ,2003,7.94
-Guatemala,GTQ,2004,7.95
-Guatemala,GTQ,2005,7.63
-Guatemala,GTQ,2006,7.60
-Guatemala,GTQ,2007,7.67
-Guatemala,GTQ,2008,7.56
-Guatemala,GTQ,2009,8.16
-Guatemala,GTQ,2010,8.06
-Guatemala,GTQ,2011,7.79
-Guatemala,GTQ,2012,7.83
-Guatemala,GTQ,2013,7.86
-Guatemala,GTQ,2014,7.73
-Guatemala,GTQ,2015,7.65
-Guatemala,GTQ,2016,7.60
-Guinea,GNF,2001,"1,950.56"
-Guinea,GNF,2002,"1,975.84"
-Guinea,GNF,2003,"1,984.93"
-Guinea,GNF,2004,"2,243.93"
-Guinea,GNF,2005,"3,644.33"
-Guinea,GNF,2006,"5,148.75"
-Guinea,GNF,2007,"4,197.75"
-Guinea,GNF,2008,"4,601.69"
-Guinea,GNF,2009,"4,801.08"
-Guinea,GNF,2010,"5,726.07"
-Guinea,GNF,2011,"6,658.03"
-Guinea,GNF,2012,"6,985.83"
-Guinea,GNF,2013,"6,907.88"
-Guinea,GNF,2014,"7,014.12"
-Guinea,GNF,2015,"7,485.52"
-Guinea,GNF,2016,"8,959.72"
-Guinea-Bissau,XOF,2001,733.04
-Guinea-Bissau,XOF,2002,696.99
-Guinea-Bissau,XOF,2003,581.20
-Guinea-Bissau,XOF,2004,528.28
-Guinea-Bissau,XOF,2005,527.47
-Guinea-Bissau,XOF,2006,522.89
-Guinea-Bissau,XOF,2007,479.27
-Guinea-Bissau,XOF,2008,447.81
-Guinea-Bissau,XOF,2009,472.19
-Guinea-Bissau,XOF,2010,495.28
-Guinea-Bissau,XOF,2011,471.87
-Guinea-Bissau,XOF,2012,510.53
-Guinea-Bissau,XOF,2013,494.04
-Guinea-Bissau,XOF,2014,494.41
-Guinea-Bissau,XOF,2015,591.66
-Guinea-Bissau,XOF,2016,593.08
-Guyana,GYD,2001,187.32
-Guyana,GYD,2002,190.67
-Guyana,GYD,2003,193.88
-Guyana,GYD,2004,198.31
-Guyana,GYD,2005,199.88
-Guyana,GYD,2006,200.19
-Guyana,GYD,2007,202.35
-Guyana,GYD,2008,203.63
-Guyana,GYD,2009,203.95
-Guyana,GYD,2010,203.64
-Guyana,GYD,2011,204.02
-Guyana,GYD,2012,204.36
-Guyana,GYD,2013,205.39
-Guyana,GYD,2014,206.45
-Guyana,GYD,2015,206.50
-Guyana,GYD,2016,206.50
-Haiti,HTG,2001,24.43
-Haiti,HTG,2002,29.25
-Haiti,HTG,2003,42.37
-Haiti,HTG,2004,38.35
-Haiti,HTG,2005,40.45
-Haiti,HTG,2006,40.41
-Haiti,HTG,2007,36.86
-Haiti,HTG,2008,39.11
-Haiti,HTG,2009,41.20
-Haiti,HTG,2010,39.80
-Haiti,HTG,2011,40.52
-Haiti,HTG,2012,41.95
-Haiti,HTG,2013,43.46
-Haiti,HTG,2014,45.22
-Haiti,HTG,2015,50.71
-Haiti,HTG,2016,63.34
-Honduras,HNL,2001,15.48
-Honduras,HNL,2002,16.44
-Honduras,HNL,2003,17.35
-Honduras,HNL,2004,18.21
-Honduras,HNL,2005,18.83
-Honduras,HNL,2006,18.90
-Honduras,HNL,2007,18.90
-Honduras,HNL,2008,18.90
-Honduras,HNL,2009,18.90
-Honduras,HNL,2010,18.90
-Honduras,HNL,2011,18.92
-Honduras,HNL,2012,19.50
-Honduras,HNL,2013,20.35
-Honduras,HNL,2014,20.99
-Honduras,HNL,2015,21.95
-Honduras,HNL,2016,22.84
-Hong Kong SAR,HKD,2001,7.80
-Hong Kong SAR,HKD,2002,7.80
-Hong Kong SAR,HKD,2003,7.79
-Hong Kong SAR,HKD,2004,7.79
-Hong Kong SAR,HKD,2005,7.78
-Hong Kong SAR,HKD,2006,7.77
-Hong Kong SAR,HKD,2007,7.80
-Hong Kong SAR,HKD,2008,7.79
-Hong Kong SAR,HKD,2009,7.75
-Hong Kong SAR,HKD,2010,7.77
-Hong Kong SAR,HKD,2011,7.78
-Hong Kong SAR,HKD,2012,7.76
-Hong Kong SAR,HKD,2013,7.76
-Hong Kong SAR,HKD,2014,7.75
-Hong Kong SAR,HKD,2015,7.75
-Hong Kong SAR,HKD,2016,7.76
-Hungary,HUF,2001,286.59
-Hungary,HUF,2002,257.82
-Hungary,HUF,2003,224.41
-Hungary,HUF,2004,202.57
-Hungary,HUF,2005,199.77
-Hungary,HUF,2006,210.58
-Hungary,HUF,2007,183.67
-Hungary,HUF,2008,172.26
-Hungary,HUF,2009,201.95
-Hungary,HUF,2010,208.38
-Hungary,HUF,2011,201.18
-Hungary,HUF,2012,225.26
-Hungary,HUF,2013,223.61
-Hungary,HUF,2014,232.77
-Hungary,HUF,2015,279.53
-Hungary,HUF,2016,281.51
-Iceland,ISK,2001,97.76
-Iceland,ISK,2002,91.46
-Iceland,ISK,2003,76.76
-Iceland,ISK,2004,70.12
-Iceland,ISK,2005,62.86
-Iceland,ISK,2006,69.78
-Iceland,ISK,2007,64.02
-Iceland,ISK,2008,88.07
-Iceland,ISK,2009,123.59
-Iceland,ISK,2010,122.04
-Iceland,ISK,2011,116.07
-Iceland,ISK,2012,125.05
-Iceland,ISK,2013,122.23
-Iceland,ISK,2014,116.75
-Iceland,ISK,2015,131.85
-Iceland,ISK,2016,120.67
-India,INR,2001,47.17
-India,INR,2002,48.58
-India,INR,2003,46.54
-India,INR,2004,45.27
-India,INR,2005,44.08
-India,INR,2006,45.26
-India,INR,2007,41.23
-India,INR,2008,43.45
-India,INR,2009,48.36
-India,INR,2010,45.72
-India,INR,2011,46.68
-India,INR,2012,53.43
-India,INR,2013,58.64
-India,INR,2014,61.02
-India,INR,2015,64.18
-India,INR,2016,67.20
-Indonesia,IDR,2001,"10,252.86"
-Indonesia,IDR,2002,"9,315.13"
-Indonesia,IDR,2003,"8,570.07"
-Indonesia,IDR,2004,"8,945.34"
-Indonesia,IDR,2005,"9,714.85"
-Indonesia,IDR,2006,"9,170.49"
-Indonesia,IDR,2007,"9,138.88"
-Indonesia,IDR,2008,"9,682.61"
-Indonesia,IDR,2009,"10,397.55"
-Indonesia,IDR,2010,"9,082.76"
-Indonesia,IDR,2011,"8,775.59"
-Indonesia,IDR,2012,"9,377.96"
-Indonesia,IDR,2013,"10,422.34"
-Indonesia,IDR,2014,"11,864.43"
-Indonesia,IDR,2015,"13,405.44"
-Indonesia,IDR,2016,"13,301.23"
-Iran,IRR,2001,"1,753.29"
-Iran,IRR,2002,"6,327.14"
-Iran,IRR,2003,"8,201.86"
-Iran,IRR,2004,"8,609.17"
-Iran,IRR,2005,"8,974.03"
-Iran,IRR,2006,"9,172.58"
-Iran,IRR,2007,"9,283.54"
-Iran,IRR,2008,"9,434.94"
-Iran,IRR,2009,"9,863.32"
-Iran,IRR,2010,"10,259.12"
-Iran,IRR,2011,"10,613.77"
-Iran,IRR,2012,"12,175.08"
-Iran,IRR,2013,"18,674.52"
-Iran,IRR,2014,"25,934.45"
-Iran,IRR,2015,"29,029.57"
-Iran,IRR,2016,"30,909.12"
-Iraq,IQD,2001,"2,002.40"
-Iraq,IQD,2002,"2,002.37"
-Iraq,IQD,2003,"2,133.78"
-Iraq,IQD,2004,"1,453.42"
-Iraq,IQD,2005,"1,472.00"
-Iraq,IQD,2006,"1,467.42"
-Iraq,IQD,2007,"1,254.57"
-Iraq,IQD,2008,"1,193.08"
-Iraq,IQD,2009,"1,170.00"
-Iraq,IQD,2010,"1,170.00"
-Iraq,IQD,2011,"1,170.00"
-Iraq,IQD,2012,"1,166.17"
-Iraq,IQD,2013,"1,166.00"
-Iraq,IQD,2014,"1,166.00"
-Iraq,IQD,2015,"1,167.33"
-Iraq,IQD,2016,"1,182.00"
-Ireland,EUR,2001,1.12
-Ireland,EUR,2002,1.06
-Ireland,EUR,2003,0.89
-Ireland,EUR,2004,0.80
-Ireland,EUR,2005,0.81
-Ireland,EUR,2006,0.80
-Ireland,EUR,2007,0.73
-Ireland,EUR,2008,0.68
-Ireland,EUR,2009,0.72
-Ireland,EUR,2010,0.76
-Ireland,EUR,2011,0.72
-Ireland,EUR,2012,0.78
-Ireland,EUR,2013,0.75
-Ireland,EUR,2014,0.75
-Ireland,EUR,2015,0.90
-Ireland,EUR,2016,0.90
-Israel,ILS,2001,4.21
-Israel,ILS,2002,4.74
-Israel,ILS,2003,4.54
-Israel,ILS,2004,4.48
-Israel,ILS,2005,4.49
-Israel,ILS,2006,4.46
-Israel,ILS,2007,4.11
-Israel,ILS,2008,3.58
-Israel,ILS,2009,3.93
-Israel,ILS,2010,3.73
-Israel,ILS,2011,3.58
-Israel,ILS,2012,3.86
-Israel,ILS,2013,3.61
-Israel,ILS,2014,3.58
-Israel,ILS,2015,3.89
-Israel,ILS,2016,3.84
-Italy,EUR,2001,1.12
-Italy,EUR,2002,1.06
-Italy,EUR,2003,0.89
-Italy,EUR,2004,0.80
-Italy,EUR,2005,0.81
-Italy,EUR,2006,0.80
-Italy,EUR,2007,0.73
-Italy,EUR,2008,0.68
-Italy,EUR,2009,0.72
-Italy,EUR,2010,0.76
-Italy,EUR,2011,0.72
-Italy,EUR,2012,0.78
-Italy,EUR,2013,0.75
-Italy,EUR,2014,0.75
-Italy,EUR,2015,0.90
-Italy,EUR,2016,0.90
-Jamaica,JMD,2001,46.00
-Jamaica,JMD,2002,48.42
-Jamaica,JMD,2003,57.74
-Jamaica,JMD,2004,61.20
-Jamaica,JMD,2005,62.28
-Jamaica,JMD,2006,65.74
-Jamaica,JMD,2007,69.19
-Jamaica,JMD,2008,72.76
-Jamaica,JMD,2009,87.89
-Jamaica,JMD,2010,87.20
-Jamaica,JMD,2011,85.89
-Jamaica,JMD,2012,88.75
-Jamaica,JMD,2013,100.24
-Jamaica,JMD,2014,110.93
-Jamaica,JMD,2015,116.90
-Jamaica,JMD,2016,125.10
-Japan,JPY,2001,121.41
-Japan,JPY,2002,125.14
-Japan,JPY,2003,115.93
-Japan,JPY,2004,108.16
-Japan,JPY,2005,110.18
-Japan,JPY,2006,116.31
-Japan,JPY,2007,117.77
-Japan,JPY,2008,103.44
-Japan,JPY,2009,93.54
-Japan,JPY,2010,87.71
-Japan,JPY,2011,79.70
-Japan,JPY,2012,79.75
-Japan,JPY,2013,97.62
-Japan,JPY,2014,105.82
-Japan,JPY,2015,121.08
-Japan,JPY,2016,108.65
-Jordan,JOD,2001,0.71
-Jordan,JOD,2002,0.71
-Jordan,JOD,2003,0.71
-Jordan,JOD,2004,0.71
-Jordan,JOD,2005,0.71
-Jordan,JOD,2006,0.71
-Jordan,JOD,2007,0.71
-Jordan,JOD,2008,0.71
-Jordan,JOD,2009,0.71
-Jordan,JOD,2010,0.71
-Jordan,JOD,2011,0.71
-Jordan,JOD,2012,0.71
-Jordan,JOD,2013,0.71
-Jordan,JOD,2014,0.71
-Jordan,JOD,2015,0.71
-Jordan,JOD,2016,0.71
-Kazakhstan,KZT,2001,146.74
-Kazakhstan,KZT,2002,153.28
-Kazakhstan,KZT,2003,149.58
-Kazakhstan,KZT,2004,136.04
-Kazakhstan,KZT,2005,132.88
-Kazakhstan,KZT,2006,124.28
-Kazakhstan,KZT,2007,122.48
-Kazakhstan,KZT,2008,120.29
-Kazakhstan,KZT,2009,147.67
-Kazakhstan,KZT,2010,147.35
-Kazakhstan,KZT,2011,146.62
-Kazakhstan,KZT,2012,149.07
-Kazakhstan,KZT,2013,152.14
-Kazakhstan,KZT,2014,179.30
-Kazakhstan,KZT,2015,220.53
-Kazakhstan,KZT,2016,341.91
-Kenya,KES,2001,78.56
-Kenya,KES,2002,78.75
-Kenya,KES,2003,75.94
-Kenya,KES,2004,79.17
-Kenya,KES,2005,75.55
-Kenya,KES,2006,72.10
-Kenya,KES,2007,67.32
-Kenya,KES,2008,69.18
-Kenya,KES,2009,77.35
-Kenya,KES,2010,79.23
-Kenya,KES,2011,88.81
-Kenya,KES,2012,84.53
-Kenya,KES,2013,86.12
-Kenya,KES,2014,87.92
-Kenya,KES,2015,98.18
-Kenya,KES,2016,101.50
-Kiribati,AUD,2001,1.93
-Kiribati,AUD,2002,1.84
-Kiribati,AUD,2003,1.54
-Kiribati,AUD,2004,1.36
-Kiribati,AUD,2005,1.31
-Kiribati,AUD,2006,1.33
-Kiribati,AUD,2007,1.20
-Kiribati,AUD,2008,1.19
-Kiribati,AUD,2009,1.28
-Kiribati,AUD,2010,1.09
-Kiribati,AUD,2011,0.97
-Kiribati,AUD,2012,0.97
-Kiribati,AUD,2013,1.04
-Kiribati,AUD,2014,1.11
-Kiribati,AUD,2015,1.33
-Kiribati,AUD,2016,1.35
-Kuwait,KWD,2001,0.31
-Kuwait,KWD,2002,0.30
-Kuwait,KWD,2003,0.30
-Kuwait,KWD,2004,0.29
-Kuwait,KWD,2005,0.29
-Kuwait,KWD,2006,0.29
-Kuwait,KWD,2007,0.28
-Kuwait,KWD,2008,0.27
-Kuwait,KWD,2009,0.29
-Kuwait,KWD,2010,0.29
-Kuwait,KWD,2011,0.28
-Kuwait,KWD,2012,0.28
-Kuwait,KWD,2013,0.28
-Kuwait,KWD,2014,0.28
-Kuwait,KWD,2015,0.30
-Kuwait,KWD,2016,0.30
-Kyrgyz Republic,KGS,2001,48.38
-Kyrgyz Republic,KGS,2002,46.94
-Kyrgyz Republic,KGS,2003,43.65
-Kyrgyz Republic,KGS,2004,42.65
-Kyrgyz Republic,KGS,2005,41.01
-Kyrgyz Republic,KGS,2006,40.15
-Kyrgyz Republic,KGS,2007,37.32
-Kyrgyz Republic,KGS,2008,36.57
-Kyrgyz Republic,KGS,2009,42.90
-Kyrgyz Republic,KGS,2010,45.96
-Kyrgyz Republic,KGS,2011,46.14
-Kyrgyz Republic,KGS,2012,47.00
-Kyrgyz Republic,KGS,2013,48.44
-Kyrgyz Republic,KGS,2014,53.65
-Kyrgyz Republic,KGS,2015,64.46
-Kyrgyz Republic,KGS,2016,69.91
-Laos,LAK,2001,"8,954.58"
-Laos,LAK,2002,"10,056.33"
-Laos,LAK,2003,"10,569.04"
-Laos,LAK,2004,"10,585.38"
-Laos,LAK,2005,"10,655.17"
-Laos,LAK,2006,"10,159.94"
-Laos,LAK,2007,"9,603.16"
-Laos,LAK,2008,"8,744.22"
-Laos,LAK,2009,"8,516.05"
-Laos,LAK,2010,"8,258.77"
-Laos,LAK,2011,"8,030.06"
-Laos,LAK,2012,"8,007.76"
-Laos,LAK,2013,"7,860.14"
-Laos,LAK,2014,"8,048.96"
-Laos,LAK,2015,"8,147.91"
-Laos,LAK,2016,"8,179.27"
-Latvia,EUR,2001,0.89
-Latvia,EUR,2002,0.88
-Latvia,EUR,2003,0.81
-Latvia,EUR,2004,0.76
-Latvia,EUR,2005,0.80
-Latvia,EUR,2006,0.79
-Latvia,EUR,2007,0.73
-Latvia,EUR,2008,0.68
-Latvia,EUR,2009,0.72
-Latvia,EUR,2010,0.76
-Latvia,EUR,2011,0.72
-Latvia,EUR,2012,0.77
-Latvia,EUR,2013,0.75
-Latvia,EUR,2014,0.75
-Latvia,EUR,2015,0.90
-Latvia,EUR,2016,0.90
-Lebanon,LBP,2001,"1,507.50"
-Lebanon,LBP,2002,"1,507.50"
-Lebanon,LBP,2003,"1,507.50"
-Lebanon,LBP,2004,"1,507.50"
-Lebanon,LBP,2005,"1,507.50"
-Lebanon,LBP,2006,"1,507.50"
-Lebanon,LBP,2007,"1,507.50"
-Lebanon,LBP,2008,"1,507.50"
-Lebanon,LBP,2009,"1,507.50"
-Lebanon,LBP,2010,"1,507.50"
-Lebanon,LBP,2011,"1,507.50"
-Lebanon,LBP,2012,"1,507.50"
-Lebanon,LBP,2013,"1,507.50"
-Lebanon,LBP,2014,"1,507.50"
-Lebanon,LBP,2015,"1,507.50"
-Lebanon,LBP,2016,"1,507.50"
-Lesotho,LSL,2001,8.61
-Lesotho,LSL,2002,10.54
-Lesotho,LSL,2003,7.56
-Lesotho,LSL,2004,6.46
-Lesotho,LSL,2005,6.36
-Lesotho,LSL,2006,6.77
-Lesotho,LSL,2007,7.05
-Lesotho,LSL,2008,8.26
-Lesotho,LSL,2009,8.47
-Lesotho,LSL,2010,7.32
-Lesotho,LSL,2011,7.26
-Lesotho,LSL,2012,8.21
-Lesotho,LSL,2013,9.66
-Lesotho,LSL,2014,10.85
-Lesotho,LSL,2015,12.76
-Lesotho,LSL,2016,14.71
-Liberia,LRD,2001,48.59
-Liberia,LRD,2002,61.75
-Liberia,LRD,2003,59.38
-Liberia,LRD,2004,54.91
-Liberia,LRD,2005,57.10
-Liberia,LRD,2006,58.01
-Liberia,LRD,2007,61.27
-Liberia,LRD,2008,63.21
-Liberia,LRD,2009,68.29
-Liberia,LRD,2010,71.40
-Liberia,LRD,2011,72.23
-Liberia,LRD,2012,73.51
-Liberia,LRD,2013,77.52
-Liberia,LRD,2014,83.89
-Liberia,LRD,2015,86.19
-Liberia,LRD,2016,94.43
-Libya,LYD,2001,0.61
-Libya,LYD,2002,1.27
-Libya,LYD,2003,1.29
-Libya,LYD,2004,1.30
-Libya,LYD,2005,1.31
-Libya,LYD,2006,1.31
-Libya,LYD,2007,1.26
-Libya,LYD,2008,1.22
-Libya,LYD,2009,1.25
-Libya,LYD,2010,1.27
-Libya,LYD,2011,1.22
-Libya,LYD,2012,1.26
-Libya,LYD,2013,1.27
-Libya,LYD,2014,1.27
-Libya,LYD,2015,1.38
-Libya,LYD,2016,1.39
-Lithuania,EUR,2001,1.16
-Lithuania,EUR,2002,1.06
-Lithuania,EUR,2003,0.89
-Lithuania,EUR,2004,0.80
-Lithuania,EUR,2005,0.81
-Lithuania,EUR,2006,0.80
-Lithuania,EUR,2007,0.73
-Lithuania,EUR,2008,0.68
-Lithuania,EUR,2009,0.72
-Lithuania,EUR,2010,0.76
-Lithuania,EUR,2011,0.72
-Lithuania,EUR,2012,0.78
-Lithuania,EUR,2013,0.75
-Lithuania,EUR,2014,0.75
-Lithuania,EUR,2015,0.90
-Lithuania,EUR,2016,0.90
-Luxembourg,EUR,2001,1.12
-Luxembourg,EUR,2002,1.06
-Luxembourg,EUR,2003,0.89
-Luxembourg,EUR,2004,0.80
-Luxembourg,EUR,2005,0.81
-Luxembourg,EUR,2006,0.80
-Luxembourg,EUR,2007,0.73
-Luxembourg,EUR,2008,0.68
-Luxembourg,EUR,2009,0.72
-Luxembourg,EUR,2010,0.76
-Luxembourg,EUR,2011,0.72
-Luxembourg,EUR,2012,0.78
-Luxembourg,EUR,2013,0.75
-Luxembourg,EUR,2014,0.75
-Luxembourg,EUR,2015,0.90
-Luxembourg,EUR,2016,0.90
-Macao SAR,MOP,2001,8.03
-Macao SAR,MOP,2002,8.03
-Macao SAR,MOP,2003,8.02
-Macao SAR,MOP,2004,8.02
-Macao SAR,MOP,2005,8.01
-Macao SAR,MOP,2006,8.00
-Macao SAR,MOP,2007,8.04
-Macao SAR,MOP,2008,8.02
-Macao SAR,MOP,2009,7.98
-Macao SAR,MOP,2010,8.00
-Macao SAR,MOP,2011,8.02
-Macao SAR,MOP,2012,7.99
-Macao SAR,MOP,2013,7.99
-Macao SAR,MOP,2014,7.99
-Macao SAR,MOP,2015,7.98
-Macao SAR,MOP,2016,8.00
-"Macedonia, FYR",MKD,2001,68.10
-"Macedonia, FYR",MKD,2002,64.72
-"Macedonia, FYR",MKD,2003,54.23
-"Macedonia, FYR",MKD,2004,49.37
-"Macedonia, FYR",MKD,2005,49.34
-"Macedonia, FYR",MKD,2006,48.78
-"Macedonia, FYR",MKD,2007,44.71
-"Macedonia, FYR",MKD,2008,41.80
-"Macedonia, FYR",MKD,2009,44.09
-"Macedonia, FYR",MKD,2010,46.51
-"Macedonia, FYR",MKD,2011,44.25
-"Macedonia, FYR",MKD,2012,47.89
-"Macedonia, FYR",MKD,2013,46.40
-"Macedonia, FYR",MKD,2014,46.46
-"Macedonia, FYR",MKD,2015,55.57
-"Macedonia, FYR",MKD,2016,55.67
-Madagascar,MGA,2001,"1,317.70"
-Madagascar,MGA,2002,"1,366.39"
-Madagascar,MGA,2003,"1,238.33"
-Madagascar,MGA,2004,"1,868.86"
-Madagascar,MGA,2005,"2,003.03"
-Madagascar,MGA,2006,"2,142.30"
-Madagascar,MGA,2007,"1,873.88"
-Madagascar,MGA,2008,"1,708.37"
-Madagascar,MGA,2009,"1,956.21"
-Madagascar,MGA,2010,"2,089.95"
-Madagascar,MGA,2011,"2,025.12"
-Madagascar,MGA,2012,"2,194.97"
-Madagascar,MGA,2013,"2,206.91"
-Madagascar,MGA,2014,"2,414.81"
-Madagascar,MGA,2015,"2,933.51"
-Madagascar,MGA,2016,"3,176.54"
-Malawi,MWK,2001,72.20
-Malawi,MWK,2002,76.69
-Malawi,MWK,2003,97.43
-Malawi,MWK,2004,108.90
-Malawi,MWK,2005,118.42
-Malawi,MWK,2006,136.01
-Malawi,MWK,2007,139.96
-Malawi,MWK,2008,140.52
-Malawi,MWK,2009,141.17
-Malawi,MWK,2010,150.49
-Malawi,MWK,2011,156.52
-Malawi,MWK,2012,249.11
-Malawi,MWK,2013,364.41
-Malawi,MWK,2014,424.90
-Malawi,MWK,2015,499.61
-Malawi,MWK,2016,718.01
-Malaysia,MYR,2001,3.80
-Malaysia,MYR,2002,3.80
-Malaysia,MYR,2003,3.80
-Malaysia,MYR,2004,3.80
-Malaysia,MYR,2005,3.79
-Malaysia,MYR,2006,3.67
-Malaysia,MYR,2007,3.44
-Malaysia,MYR,2008,3.33
-Malaysia,MYR,2009,3.52
-Malaysia,MYR,2010,3.22
-Malaysia,MYR,2011,3.06
-Malaysia,MYR,2012,3.09
-Malaysia,MYR,2013,3.15
-Malaysia,MYR,2014,3.27
-Malaysia,MYR,2015,3.91
-Malaysia,MYR,2016,4.14
-Maldives,MVR,2001,12.24
-Maldives,MVR,2002,12.80
-Maldives,MVR,2003,12.80
-Maldives,MVR,2004,12.80
-Maldives,MVR,2005,12.80
-Maldives,MVR,2006,12.80
-Maldives,MVR,2007,12.80
-Maldives,MVR,2008,12.80
-Maldives,MVR,2009,12.80
-Maldives,MVR,2010,12.80
-Maldives,MVR,2011,14.60
-Maldives,MVR,2012,15.36
-Maldives,MVR,2013,15.37
-Maldives,MVR,2014,15.38
-Maldives,MVR,2015,15.37
-Maldives,MVR,2016,15.37
-Mali,XOF,2001,733.04
-Mali,XOF,2002,696.99
-Mali,XOF,2003,581.20
-Mali,XOF,2004,528.28
-Mali,XOF,2005,527.47
-Mali,XOF,2006,522.89
-Mali,XOF,2007,479.27
-Mali,XOF,2008,447.81
-Mali,XOF,2009,472.19
-Mali,XOF,2010,495.28
-Mali,XOF,2011,471.87
-Mali,XOF,2012,510.53
-Mali,XOF,2013,494.04
-Mali,XOF,2014,494.41
-Mali,XOF,2015,591.45
-Mali,XOF,2016,593.01
-Malta,EUR,2001,1.05
-Malta,EUR,2002,1.01
-Malta,EUR,2003,0.88
-Malta,EUR,2004,0.80
-Malta,EUR,2005,0.81
-Malta,EUR,2006,0.80
-Malta,EUR,2007,0.73
-Malta,EUR,2008,0.68
-Malta,EUR,2009,0.72
-Malta,EUR,2010,0.76
-Malta,EUR,2011,0.72
-Malta,EUR,2012,0.78
-Malta,EUR,2013,0.75
-Malta,EUR,2014,0.75
-Malta,EUR,2015,0.90
-Malta,EUR,2016,0.90
-Mauritania,MRO,2001,255.63
-Mauritania,MRO,2002,271.74
-Mauritania,MRO,2003,263.03
-Mauritania,MRO,2004,264.11
-Mauritania,MRO,2005,265.53
-Mauritania,MRO,2006,268.60
-Mauritania,MRO,2007,258.59
-Mauritania,MRO,2008,238.20
-Mauritania,MRO,2009,262.37
-Mauritania,MRO,2010,275.89
-Mauritania,MRO,2011,281.12
-Mauritania,MRO,2012,296.62
-Mauritania,MRO,2013,300.68
-Mauritania,MRO,2014,302.73
-Mauritania,MRO,2015,324.67
-Mauritania,MRO,2016,352.37
-Mauritius,MUR,2001,29.13
-Mauritius,MUR,2002,29.96
-Mauritius,MUR,2003,27.84
-Mauritius,MUR,2004,27.53
-Mauritius,MUR,2005,29.51
-Mauritius,MUR,2006,31.68
-Mauritius,MUR,2007,31.33
-Mauritius,MUR,2008,28.48
-Mauritius,MUR,2009,31.91
-Mauritius,MUR,2010,30.85
-Mauritius,MUR,2011,28.58
-Mauritius,MUR,2012,30.04
-Mauritius,MUR,2013,30.70
-Mauritius,MUR,2014,30.63
-Mauritius,MUR,2015,35.12
-Mauritius,MUR,2016,35.53
-Mexico,MXN,2001,9.34
-Mexico,MXN,2002,9.67
-Mexico,MXN,2003,10.79
-Mexico,MXN,2004,11.29
-Mexico,MXN,2005,10.90
-Mexico,MXN,2006,10.90
-Mexico,MXN,2007,10.93
-Mexico,MXN,2008,11.15
-Mexico,MXN,2009,13.50
-Mexico,MXN,2010,12.63
-Mexico,MXN,2011,12.44
-Mexico,MXN,2012,13.16
-Mexico,MXN,2013,12.77
-Mexico,MXN,2014,13.30
-Mexico,MXN,2015,15.88
-Mexico,MXN,2016,18.69
-Micronesia,USD,2001,1.00
-Micronesia,USD,2002,1.00
-Micronesia,USD,2003,1.00
-Micronesia,USD,2004,1.00
-Micronesia,USD,2005,1.00
-Micronesia,USD,2006,1.00
-Micronesia,USD,2007,1.00
-Micronesia,USD,2008,1.00
-Micronesia,USD,2009,1.00
-Micronesia,USD,2010,1.00
-Micronesia,USD,2011,1.00
-Micronesia,USD,2012,1.00
-Micronesia,USD,2013,1.00
-Micronesia,USD,2014,1.00
-Micronesia,USD,2015,1.00
-Micronesia,USD,2016,1.00
-Moldova,MDL,2001,12.87
-Moldova,MDL,2002,13.57
-Moldova,MDL,2003,13.94
-Moldova,MDL,2004,12.33
-Moldova,MDL,2005,12.60
-Moldova,MDL,2006,13.13
-Moldova,MDL,2007,12.14
-Moldova,MDL,2008,10.39
-Moldova,MDL,2009,11.11
-Moldova,MDL,2010,12.37
-Moldova,MDL,2011,11.74
-Moldova,MDL,2012,12.11
-Moldova,MDL,2013,12.59
-Moldova,MDL,2014,14.04
-Moldova,MDL,2015,18.82
-Moldova,MDL,2016,19.92
-Mongolia,MNT,2001,"1,097.70"
-Mongolia,MNT,2002,"1,110.31"
-Mongolia,MNT,2003,"1,146.54"
-Mongolia,MNT,2004,"1,185.30"
-Mongolia,MNT,2005,"1,205.25"
-Mongolia,MNT,2006,"1,179.70"
-Mongolia,MNT,2007,"1,170.40"
-Mongolia,MNT,2008,"1,165.80"
-Mongolia,MNT,2009,"1,437.80"
-Mongolia,MNT,2010,"1,357.06"
-Mongolia,MNT,2011,"1,265.52"
-Mongolia,MNT,2012,"1,357.58"
-Mongolia,MNT,2013,"1,523.93"
-Mongolia,MNT,2014,"1,817.94"
-Mongolia,MNT,2015,"1,970.31"
-Mongolia,MNT,2016,"2,140.29"
-Montenegro,EUR,2001,1.12
-Montenegro,EUR,2002,1.06
-Montenegro,EUR,2003,0.89
-Montenegro,EUR,2004,0.81
-Montenegro,EUR,2005,0.80
-Montenegro,EUR,2006,0.80
-Montenegro,EUR,2007,0.73
-Montenegro,EUR,2008,0.68
-Montenegro,EUR,2009,0.72
-Montenegro,EUR,2010,0.76
-Montenegro,EUR,2011,0.72
-Montenegro,EUR,2012,0.78
-Montenegro,EUR,2013,0.75
-Montenegro,EUR,2014,0.75
-Montenegro,EUR,2015,0.90
-Montenegro,EUR,2016,0.90
-Montserrat,XCD,2001,2.70
-Montserrat,XCD,2002,2.70
-Montserrat,XCD,2003,2.70
-Montserrat,XCD,2004,2.70
-Montserrat,XCD,2005,2.70
-Montserrat,XCD,2006,2.70
-Montserrat,XCD,2007,2.70
-Montserrat,XCD,2008,2.70
-Montserrat,XCD,2009,2.70
-Montserrat,XCD,2010,2.70
-Montserrat,XCD,2011,2.70
-Montserrat,XCD,2012,2.70
-Montserrat,XCD,2013,2.70
-Montserrat,XCD,2014,2.70
-Montserrat,XCD,2015,2.70
-Montserrat,XCD,2016,2.70
-Morocco,MAD,2001,11.30
-Morocco,MAD,2002,11.02
-Morocco,MAD,2003,9.57
-Morocco,MAD,2004,8.87
-Morocco,MAD,2005,8.87
-Morocco,MAD,2006,8.80
-Morocco,MAD,2007,8.19
-Morocco,MAD,2008,7.75
-Morocco,MAD,2009,8.06
-Morocco,MAD,2010,8.42
-Morocco,MAD,2011,8.09
-Morocco,MAD,2012,8.63
-Morocco,MAD,2013,8.41
-Morocco,MAD,2014,8.41
-Morocco,MAD,2015,9.76
-Morocco,MAD,2016,9.81
-Mozambique,MZN,2001,20.70
-Mozambique,MZN,2002,23.68
-Mozambique,MZN,2003,23.78
-Mozambique,MZN,2004,22.58
-Mozambique,MZN,2005,23.06
-Mozambique,MZN,2006,25.40
-Mozambique,MZN,2007,25.84
-Mozambique,MZN,2008,24.30
-Mozambique,MZN,2009,27.52
-Mozambique,MZN,2010,33.96
-Mozambique,MZN,2011,29.07
-Mozambique,MZN,2012,28.37
-Mozambique,MZN,2013,30.10
-Mozambique,MZN,2014,31.35
-Mozambique,MZN,2015,39.98
-Mozambique,MZN,2016,63.06
-Myanmar,MMK,2001,6.75
-Myanmar,MMK,2002,6.64
-Myanmar,MMK,2003,6.14
-Myanmar,MMK,2004,5.81
-Myanmar,MMK,2005,5.82
-Myanmar,MMK,2006,5.84
-Myanmar,MMK,2007,5.62
-Myanmar,MMK,2008,5.44
-Myanmar,MMK,2009,5.58
-Myanmar,MMK,2010,5.63
-Myanmar,MMK,2011,5.44
-Myanmar,MMK,2012,640.65
-Myanmar,MMK,2013,933.57
-Myanmar,MMK,2014,984.35
-Myanmar,MMK,2015,"1,162.62"
-Myanmar,MMK,2016,"1,234.87"
-Namibia,NAD,2001,8.61
-Namibia,NAD,2002,10.54
-Namibia,NAD,2003,7.56
-Namibia,NAD,2004,6.46
-Namibia,NAD,2005,6.36
-Namibia,NAD,2006,6.77
-Namibia,NAD,2007,7.05
-Namibia,NAD,2008,8.26
-Namibia,NAD,2009,8.47
-Namibia,NAD,2010,7.32
-Namibia,NAD,2011,7.26
-Namibia,NAD,2012,8.21
-Namibia,NAD,2013,9.66
-Namibia,NAD,2014,10.85
-Namibia,NAD,2015,12.88
-Namibia,NAD,2016,14.71
-Nepal,NPR,2001,75.09
-Nepal,NPR,2002,77.98
-Nepal,NPR,2003,76.05
-Nepal,NPR,2004,73.59
-Nepal,NPR,2005,71.35
-Nepal,NPR,2006,72.83
-Nepal,NPR,2007,65.99
-Nepal,NPR,2008,69.71
-Nepal,NPR,2009,77.40
-Nepal,NPR,2010,73.17
-Nepal,NPR,2011,74.58
-Nepal,NPR,2012,85.39
-Nepal,NPR,2013,93.57
-Nepal,NPR,2014,97.61
-Nepal,NPR,2015,102.69
-Nepal,NPR,2016,107.45
-Netherlands,EUR,2001,1.12
-Netherlands,EUR,2002,1.06
-Netherlands,EUR,2003,0.89
-Netherlands,EUR,2004,0.80
-Netherlands,EUR,2005,0.81
-Netherlands,EUR,2006,0.80
-Netherlands,EUR,2007,0.73
-Netherlands,EUR,2008,0.68
-Netherlands,EUR,2009,0.72
-Netherlands,EUR,2010,0.76
-Netherlands,EUR,2011,0.72
-Netherlands,EUR,2012,0.78
-Netherlands,EUR,2013,0.75
-Netherlands,EUR,2014,0.75
-Netherlands,EUR,2015,0.90
-Netherlands,EUR,2016,0.90
-Netherlands Antilles,ANG,2001,1.79
-Netherlands Antilles,ANG,2002,1.79
-Netherlands Antilles,ANG,2003,1.79
-Netherlands Antilles,ANG,2004,1.79
-Netherlands Antilles,ANG,2005,1.79
-Netherlands Antilles,ANG,2006,1.79
-Netherlands Antilles,ANG,2007,1.79
-Netherlands Antilles,ANG,2008,1.79
-Netherlands Antilles,ANG,2009,1.79
-Netherlands Antilles,ANG,2010,1.79
-Netherlands Antilles,ANG,2011,1.79
-Netherlands Antilles,ANG,2012,1.79
-Netherlands Antilles,ANG,2013,1.79
-Netherlands Antilles,ANG,2014,1.79
-Netherlands Antilles,ANG,2015,1.79
-Netherlands Antilles,ANG,2016,1.79
-New Zealand,NZD,2001,2.38
-New Zealand,NZD,2002,2.16
-New Zealand,NZD,2003,1.72
-New Zealand,NZD,2004,1.51
-New Zealand,NZD,2005,1.42
-New Zealand,NZD,2006,1.54
-New Zealand,NZD,2007,1.36
-New Zealand,NZD,2008,1.42
-New Zealand,NZD,2009,1.60
-New Zealand,NZD,2010,1.39
-New Zealand,NZD,2011,1.27
-New Zealand,NZD,2012,1.24
-New Zealand,NZD,2013,1.22
-New Zealand,NZD,2014,1.21
-New Zealand,NZD,2015,1.44
-New Zealand,NZD,2016,1.44
-Nicaragua,NIO,2001,13.37
-Nicaragua,NIO,2002,14.25
-Nicaragua,NIO,2003,15.10
-Nicaragua,NIO,2004,15.94
-Nicaragua,NIO,2005,16.73
-Nicaragua,NIO,2006,17.57
-Nicaragua,NIO,2007,18.45
-Nicaragua,NIO,2008,19.37
-Nicaragua,NIO,2009,20.34
-Nicaragua,NIO,2010,21.36
-Nicaragua,NIO,2011,22.42
-Nicaragua,NIO,2012,23.55
-Nicaragua,NIO,2013,24.72
-Nicaragua,NIO,2014,25.96
-Nicaragua,NIO,2015,27.26
-Nicaragua,NIO,2016,28.62
-Niger,XOF,2001,733.04
-Niger,XOF,2002,696.99
-Niger,XOF,2003,581.20
-Niger,XOF,2004,528.28
-Niger,XOF,2005,527.47
-Niger,XOF,2006,522.89
-Niger,XOF,2007,479.27
-Niger,XOF,2008,447.81
-Niger,XOF,2009,472.19
-Niger,XOF,2010,495.28
-Niger,XOF,2011,471.87
-Niger,XOF,2012,510.53
-Niger,XOF,2013,494.04
-Niger,XOF,2014,494.41
-Niger,XOF,2015,591.45
-Niger,XOF,2016,593.01
-Nigeria,NGN,2001,111.23
-Nigeria,NGN,2002,120.58
-Nigeria,NGN,2003,129.22
-Nigeria,NGN,2004,132.89
-Nigeria,NGN,2005,131.27
-Nigeria,NGN,2006,128.65
-Nigeria,NGN,2007,125.81
-Nigeria,NGN,2008,118.55
-Nigeria,NGN,2009,148.90
-Nigeria,NGN,2010,150.30
-Nigeria,NGN,2011,153.86
-Nigeria,NGN,2012,157.50
-Nigeria,NGN,2013,157.31
-Nigeria,NGN,2014,158.55
-Nigeria,NGN,2015,192.44
-Nigeria,NGN,2016,253.49
-Norway,NOK,2001,8.99
-Norway,NOK,2002,7.98
-Norway,NOK,2003,7.08
-Norway,NOK,2004,6.74
-Norway,NOK,2005,6.44
-Norway,NOK,2006,6.41
-Norway,NOK,2007,5.86
-Norway,NOK,2008,5.64
-Norway,NOK,2009,6.28
-Norway,NOK,2010,6.05
-Norway,NOK,2011,5.60
-Norway,NOK,2012,5.82
-Norway,NOK,2013,5.88
-Norway,NOK,2014,6.30
-Norway,NOK,2015,8.07
-Norway,NOK,2016,8.40
-Oman,OMR,2001,0.38
-Oman,OMR,2002,0.38
-Oman,OMR,2003,0.38
-Oman,OMR,2004,0.38
-Oman,OMR,2005,0.38
-Oman,OMR,2006,0.38
-Oman,OMR,2007,0.38
-Oman,OMR,2008,0.38
-Oman,OMR,2009,0.38
-Oman,OMR,2010,0.38
-Oman,OMR,2011,0.38
-Oman,OMR,2012,0.38
-Oman,OMR,2013,0.38
-Oman,OMR,2014,0.38
-Oman,OMR,2015,0.38
-Oman,OMR,2016,0.38
-Pakistan,PKR,2001,62.17
-Pakistan,PKR,2002,59.72
-Pakistan,PKR,2003,57.76
-Pakistan,PKR,2004,58.15
-Pakistan,PKR,2005,59.52
-Pakistan,PKR,2006,60.25
-Pakistan,PKR,2007,60.72
-Pakistan,PKR,2008,71.48
-Pakistan,PKR,2009,81.72
-Pakistan,PKR,2010,85.17
-Pakistan,PKR,2011,86.34
-Pakistan,PKR,2012,93.28
-Pakistan,PKR,2013,101.53
-Pakistan,PKR,2014,100.98
-Pakistan,PKR,2015,102.77
-Pakistan,PKR,2016,104.77
-Panama,PAB,2001,1.00
-Panama,PAB,2002,1.00
-Panama,PAB,2003,1.00
-Panama,PAB,2004,1.00
-Panama,PAB,2005,1.00
-Panama,PAB,2006,1.00
-Panama,PAB,2007,1.00
-Panama,PAB,2008,1.00
-Panama,PAB,2009,1.00
-Panama,PAB,2010,1.00
-Panama,PAB,2011,1.00
-Panama,PAB,2012,1.00
-Panama,PAB,2013,1.00
-Panama,PAB,2014,1.00
-Panama,PAB,2015,1.00
-Panama,PAB,2016,1.00
-Papua New Guinea,PGK,2001,3.39
-Papua New Guinea,PGK,2002,3.90
-Papua New Guinea,PGK,2003,3.56
-Papua New Guinea,PGK,2004,3.22
-Papua New Guinea,PGK,2005,3.10
-Papua New Guinea,PGK,2006,3.06
-Papua New Guinea,PGK,2007,2.97
-Papua New Guinea,PGK,2008,2.70
-Papua New Guinea,PGK,2009,2.76
-Papua New Guinea,PGK,2010,2.72
-Papua New Guinea,PGK,2011,2.37
-Papua New Guinea,PGK,2012,2.08
-Papua New Guinea,PGK,2013,2.24
-Papua New Guinea,PGK,2014,2.46
-Papua New Guinea,PGK,2015,2.77
-Papua New Guinea,PGK,2016,3.13
-Paraguay,PYG,2001,"4,105.93"
-Paraguay,PYG,2002,"5,716.26"
-Paraguay,PYG,2003,"6,424.34"
-Paraguay,PYG,2004,"5,974.58"
-Paraguay,PYG,2005,"6,177.96"
-Paraguay,PYG,2006,"5,635.46"
-Paraguay,PYG,2007,"5,032.72"
-Paraguay,PYG,2008,"4,363.24"
-Paraguay,PYG,2009,"4,965.39"
-Paraguay,PYG,2010,"4,735.46"
-Paraguay,PYG,2011,"4,191.42"
-Paraguay,PYG,2012,"4,424.92"
-Paraguay,PYG,2013,"4,320.67"
-Paraguay,PYG,2014,"4,462.19"
-Paraguay,PYG,2015,"5,204.91"
-Paraguay,PYG,2016,"5,670.52"
-Peru,PEN,2001,3.51
-Peru,PEN,2002,3.52
-Peru,PEN,2003,3.48
-Peru,PEN,2004,3.41
-Peru,PEN,2005,3.30
-Peru,PEN,2006,3.27
-Peru,PEN,2007,3.13
-Peru,PEN,2008,2.92
-Peru,PEN,2009,3.01
-Peru,PEN,2010,2.82
-Peru,PEN,2011,2.75
-Peru,PEN,2012,2.64
-Peru,PEN,2013,2.70
-Peru,PEN,2014,2.84
-Peru,PEN,2015,3.19
-Peru,PEN,2016,3.38
-Philippines,PHP,2001,51.00
-Philippines,PHP,2002,51.61
-Philippines,PHP,2003,54.21
-Philippines,PHP,2004,56.05
-Philippines,PHP,2005,55.06
-Philippines,PHP,2006,51.29
-Philippines,PHP,2007,46.07
-Philippines,PHP,2008,44.46
-Philippines,PHP,2009,47.58
-Philippines,PHP,2010,45.08
-Philippines,PHP,2011,43.30
-Philippines,PHP,2012,42.22
-Philippines,PHP,2013,42.47
-Philippines,PHP,2014,44.40
-Philippines,PHP,2015,45.54
-Philippines,PHP,2016,47.50
-Poland,PLN,2001,4.10
-Poland,PLN,2002,4.08
-Poland,PLN,2003,3.89
-Poland,PLN,2004,3.65
-Poland,PLN,2005,3.24
-Poland,PLN,2006,3.11
-Poland,PLN,2007,2.77
-Poland,PLN,2008,2.41
-Poland,PLN,2009,3.12
-Poland,PLN,2010,3.02
-Poland,PLN,2011,2.97
-Poland,PLN,2012,3.26
-Poland,PLN,2013,3.16
-Poland,PLN,2014,3.16
-Poland,PLN,2015,3.77
-Poland,PLN,2016,3.94
-Portugal,EUR,2001,1.12
-Portugal,EUR,2002,1.06
-Portugal,EUR,2003,0.89
-Portugal,EUR,2004,0.80
-Portugal,EUR,2005,0.81
-Portugal,EUR,2006,0.80
-Portugal,EUR,2007,0.73
-Portugal,EUR,2008,0.68
-Portugal,EUR,2009,0.72
-Portugal,EUR,2010,0.76
-Portugal,EUR,2011,0.72
-Portugal,EUR,2012,0.78
-Portugal,EUR,2013,0.75
-Portugal,EUR,2014,0.75
-Portugal,EUR,2015,0.90
-Portugal,EUR,2016,0.90
-Qatar,QAR,2001,3.64
-Qatar,QAR,2002,3.64
-Qatar,QAR,2003,3.64
-Qatar,QAR,2004,3.64
-Qatar,QAR,2005,3.64
-Qatar,QAR,2006,3.64
-Qatar,QAR,2007,3.64
-Qatar,QAR,2008,3.64
-Qatar,QAR,2009,3.64
-Qatar,QAR,2010,3.64
-Qatar,QAR,2011,3.64
-Qatar,QAR,2012,3.64
-Qatar,QAR,2013,3.64
-Qatar,QAR,2014,3.64
-Qatar,QAR,2015,3.64
-Qatar,QAR,2016,3.64
-Romania,RON,2001,2.91
-Romania,RON,2002,3.31
-Romania,RON,2003,3.32
-Romania,RON,2004,3.26
-Romania,RON,2005,2.91
-Romania,RON,2006,2.81
-Romania,RON,2007,2.44
-Romania,RON,2008,2.52
-Romania,RON,2009,3.05
-Romania,RON,2010,3.18
-Romania,RON,2011,3.05
-Romania,RON,2012,3.47
-Romania,RON,2013,3.33
-Romania,RON,2014,3.35
-Romania,RON,2015,4.01
-Romania,RON,2016,4.06
-Russia,RUB,2001,29.20
-Russia,RUB,2002,31.39
-Russia,RUB,2003,30.68
-Russia,RUB,2004,28.81
-Russia,RUB,2005,28.30
-Russia,RUB,2006,27.19
-Russia,RUB,2007,25.58
-Russia,RUB,2008,24.86
-Russia,RUB,2009,31.74
-Russia,RUB,2010,30.39
-Russia,RUB,2011,29.41
-Russia,RUB,2012,31.10
-Russia,RUB,2013,31.87
-Russia,RUB,2014,38.57
-Russia,RUB,2015,61.34
-Russia,RUB,2016,66.98
-Rwanda,RWF,2001,442.99
-Rwanda,RWF,2002,475.37
-Rwanda,RWF,2003,537.65
-Rwanda,RWF,2004,577.45
-Rwanda,RWF,2005,557.82
-Rwanda,RWF,2006,551.71
-Rwanda,RWF,2007,546.96
-Rwanda,RWF,2008,546.85
-Rwanda,RWF,2009,568.28
-Rwanda,RWF,2010,583.13
-Rwanda,RWF,2011,600.31
-Rwanda,RWF,2012,614.30
-Rwanda,RWF,2013,646.64
-Rwanda,RWF,2014,681.86
-Rwanda,RWF,2015,720.98
-Rwanda,RWF,2016,787.25
-Samoa,WST,2001,3.48
-Samoa,WST,2002,3.38
-Samoa,WST,2003,2.97
-Samoa,WST,2004,2.78
-Samoa,WST,2005,2.71
-Samoa,WST,2006,2.78
-Samoa,WST,2007,2.62
-Samoa,WST,2008,2.64
-Samoa,WST,2009,2.73
-Samoa,WST,2010,2.48
-Samoa,WST,2011,2.32
-Samoa,WST,2012,2.29
-Samoa,WST,2013,2.31
-Samoa,WST,2014,2.33
-Samoa,WST,2015,2.56
-Samoa,WST,2016,2.56
-San Marino,EUR,2001,1.12
-San Marino,EUR,2002,1.06
-San Marino,EUR,2003,0.89
-San Marino,EUR,2004,0.81
-San Marino,EUR,2005,0.80
-San Marino,EUR,2006,0.80
-San Marino,EUR,2007,0.73
-San Marino,EUR,2008,0.68
-San Marino,EUR,2009,0.72
-San Marino,EUR,2010,0.76
-San Marino,EUR,2011,0.72
-San Marino,EUR,2012,0.78
-San Marino,EUR,2013,0.75
-San Marino,EUR,2014,0.75
-San Marino,EUR,2015,0.90
-San Marino,EUR,2016,0.90
-Sao Tome and Principe,STD,2001,"8,842.11"
-Sao Tome and Principe,STD,2002,"9,088.33"
-Sao Tome and Principe,STD,2003,"9,347.58"
-Sao Tome and Principe,STD,2004,"9,902.32"
-Sao Tome and Principe,STD,2005,"10,557.97"
-Sao Tome and Principe,STD,2006,"12,448.64"
-Sao Tome and Principe,STD,2007,"13,536.76"
-Sao Tome and Principe,STD,2008,"14,695.20"
-Sao Tome and Principe,STD,2009,"16,208.45"
-Sao Tome and Principe,STD,2010,"18,498.60"
-Sao Tome and Principe,STD,2011,"17,622.94"
-Sao Tome and Principe,STD,2012,"19,068.42"
-Sao Tome and Principe,STD,2013,"18,449.95"
-Sao Tome and Principe,STD,2014,"18,466.40"
-Sao Tome and Principe,STD,2015,"22,090.64"
-Sao Tome and Principe,STD,2016,"22,148.86"
-Saudi Arabia,SAR,2001,3.75
-Saudi Arabia,SAR,2002,3.75
-Saudi Arabia,SAR,2003,3.75
-Saudi Arabia,SAR,2004,3.75
-Saudi Arabia,SAR,2005,3.75
-Saudi Arabia,SAR,2006,3.75
-Saudi Arabia,SAR,2007,3.75
-Saudi Arabia,SAR,2008,3.75
-Saudi Arabia,SAR,2009,3.75
-Saudi Arabia,SAR,2010,3.75
-Saudi Arabia,SAR,2011,3.75
-Saudi Arabia,SAR,2012,3.75
-Saudi Arabia,SAR,2013,3.75
-Saudi Arabia,SAR,2014,3.75
-Saudi Arabia,SAR,2015,3.75
-Saudi Arabia,SAR,2016,3.75
-Senegal,XOF,2001,733.04
-Senegal,XOF,2002,696.99
-Senegal,XOF,2003,581.20
-Senegal,XOF,2004,528.28
-Senegal,XOF,2005,527.47
-Senegal,XOF,2006,522.89
-Senegal,XOF,2007,479.27
-Senegal,XOF,2008,447.81
-Senegal,XOF,2009,472.19
-Senegal,XOF,2010,495.28
-Senegal,XOF,2011,471.87
-Senegal,XOF,2012,510.53
-Senegal,XOF,2013,494.04
-Senegal,XOF,2014,494.41
-Senegal,XOF,2015,591.45
-Senegal,XOF,2016,593.01
-Serbia,RSD,2001,66.42
-Serbia,RSD,2002,64.30
-Serbia,RSD,2003,57.56
-Serbia,RSD,2004,58.44
-Serbia,RSD,2005,66.89
-Serbia,RSD,2006,67.01
-Serbia,RSD,2007,58.39
-Serbia,RSD,2008,55.76
-Serbia,RSD,2009,67.47
-Serbia,RSD,2010,77.91
-Serbia,RSD,2011,73.34
-Serbia,RSD,2012,88.12
-Serbia,RSD,2013,85.17
-Serbia,RSD,2014,88.54
-Serbia,RSD,2015,108.85
-Serbia,RSD,2016,111.29
-Seychelles,SCR,2001,5.86
-Seychelles,SCR,2002,5.48
-Seychelles,SCR,2003,5.40
-Seychelles,SCR,2004,5.50
-Seychelles,SCR,2005,5.50
-Seychelles,SCR,2006,5.52
-Seychelles,SCR,2007,6.70
-Seychelles,SCR,2008,9.46
-Seychelles,SCR,2009,13.61
-Seychelles,SCR,2010,12.07
-Seychelles,SCR,2011,12.38
-Seychelles,SCR,2012,13.70
-Seychelles,SCR,2013,12.06
-Seychelles,SCR,2014,12.75
-Seychelles,SCR,2015,13.31
-Seychelles,SCR,2016,13.32
-Sierra Leone,SLL,2001,"1,986.15"
-Sierra Leone,SLL,2002,"2,099.03"
-Sierra Leone,SLL,2003,"2,347.94"
-Sierra Leone,SLL,2004,"2,701.30"
-Sierra Leone,SLL,2005,"2,889.59"
-Sierra Leone,SLL,2006,"2,961.91"
-Sierra Leone,SLL,2007,"2,985.19"
-Sierra Leone,SLL,2008,"2,981.51"
-Sierra Leone,SLL,2009,"3,385.65"
-Sierra Leone,SLL,2010,"3,978.09"
-Sierra Leone,SLL,2011,"4,349.16"
-Sierra Leone,SLL,2012,"4,344.04"
-Sierra Leone,SLL,2013,"4,332.50"
-Sierra Leone,SLL,2014,"4,524.16"
-Sierra Leone,SLL,2015,"5,080.75"
-Sierra Leone,SLL,2016,"6,289.94"
-Singapore,SGD,2001,1.79
-Singapore,SGD,2002,1.79
-Singapore,SGD,2003,1.74
-Singapore,SGD,2004,1.69
-Singapore,SGD,2005,1.66
-Singapore,SGD,2006,1.59
-Singapore,SGD,2007,1.51
-Singapore,SGD,2008,1.42
-Singapore,SGD,2009,1.45
-Singapore,SGD,2010,1.36
-Singapore,SGD,2011,1.26
-Singapore,SGD,2012,1.25
-Singapore,SGD,2013,1.25
-Singapore,SGD,2014,1.27
-Singapore,SGD,2015,1.38
-Singapore,SGD,2016,1.38
-Slovakia,EUR,2001,1.61
-Slovakia,EUR,2002,1.50
-Slovakia,EUR,2003,1.22
-Slovakia,EUR,2004,1.07
-Slovakia,EUR,2005,1.03
-Slovakia,EUR,2006,0.99
-Slovakia,EUR,2007,0.82
-Slovakia,EUR,2008,0.71
-Slovakia,EUR,2009,0.72
-Slovakia,EUR,2010,0.76
-Slovakia,EUR,2011,0.72
-Slovakia,EUR,2012,0.78
-Slovakia,EUR,2013,0.75
-Slovakia,EUR,2014,0.75
-Slovakia,EUR,2015,0.90
-Slovakia,EUR,2016,0.90
-Slovenia,EUR,2001,1.02
-Slovenia,EUR,2002,1.00
-Slovenia,EUR,2003,0.86
-Slovenia,EUR,2004,0.80
-Slovenia,EUR,2005,0.80
-Slovenia,EUR,2006,0.80
-Slovenia,EUR,2007,0.73
-Slovenia,EUR,2008,0.68
-Slovenia,EUR,2009,0.72
-Slovenia,EUR,2010,0.76
-Slovenia,EUR,2011,0.72
-Slovenia,EUR,2012,0.78
-Slovenia,EUR,2013,0.75
-Slovenia,EUR,2014,0.75
-Slovenia,EUR,2015,0.90
-Slovenia,EUR,2016,0.90
-Solomon Islands,SBD,2001,5.28
-Solomon Islands,SBD,2002,6.75
-Solomon Islands,SBD,2003,7.51
-Solomon Islands,SBD,2004,7.48
-Solomon Islands,SBD,2005,7.53
-Solomon Islands,SBD,2006,7.61
-Solomon Islands,SBD,2007,7.65
-Solomon Islands,SBD,2008,7.75
-Solomon Islands,SBD,2009,8.06
-Solomon Islands,SBD,2010,8.06
-Solomon Islands,SBD,2011,7.64
-Solomon Islands,SBD,2012,7.36
-Solomon Islands,SBD,2013,7.30
-Solomon Islands,SBD,2014,7.38
-Solomon Islands,SBD,2015,7.91
-Solomon Islands,SBD,2016,7.95
-South Africa,ZAR,2001,8.59
-South Africa,ZAR,2002,10.51
-South Africa,ZAR,2003,7.56
-South Africa,ZAR,2004,6.45
-South Africa,ZAR,2005,6.37
-South Africa,ZAR,2006,6.78
-South Africa,ZAR,2007,7.06
-South Africa,ZAR,2008,8.26
-South Africa,ZAR,2009,8.42
-South Africa,ZAR,2010,7.32
-South Africa,ZAR,2011,7.27
-South Africa,ZAR,2012,8.22
-South Africa,ZAR,2013,9.66
-South Africa,ZAR,2014,10.85
-South Africa,ZAR,2015,12.78
-South Africa,ZAR,2016,14.69
-South Korea,KRW,2001,"1,289.62"
-South Korea,KRW,2002,"1,245.96"
-South Korea,KRW,2003,"1,191.02"
-South Korea,KRW,2004,"1,144.74"
-South Korea,KRW,2005,"1,024.02"
-South Korea,KRW,2006,955.01
-South Korea,KRW,2007,929.10
-South Korea,KRW,2008,"1,101.96"
-South Korea,KRW,2009,"1,275.99"
-South Korea,KRW,2010,"1,156.68"
-South Korea,KRW,2011,"1,108.13"
-South Korea,KRW,2012,"1,127.09"
-South Korea,KRW,2013,"1,095.11"
-South Korea,KRW,2014,"1,053.05"
-South Korea,KRW,2015,"1,132.72"
-South Korea,KRW,2016,"1,160.50"
-South Sudan,SSP,2001,0.00
-South Sudan,SSP,2002,0.00
-South Sudan,SSP,2003,0.00
-South Sudan,SSP,2004,0.00
-South Sudan,SSP,2005,0.00
-South Sudan,SSP,2006,0.00
-South Sudan,SSP,2007,0.00
-South Sudan,SSP,2008,0.00
-South Sudan,SSP,2009,0.00
-South Sudan,SSP,2010,0.00
-South Sudan,SSP,2011,2.99
-South Sudan,SSP,2012,2.95
-South Sudan,SSP,2013,2.95
-South Sudan,SSP,2014,2.95
-South Sudan,SSP,2015,4.09
-South Sudan,SSP,2016,49.41
-Spain,EUR,2001,1.12
-Spain,EUR,2002,1.06
-Spain,EUR,2003,0.89
-Spain,EUR,2004,0.80
-Spain,EUR,2005,0.81
-Spain,EUR,2006,0.80
-Spain,EUR,2007,0.73
-Spain,EUR,2008,0.68
-Spain,EUR,2009,0.72
-Spain,EUR,2010,0.76
-Spain,EUR,2011,0.72
-Spain,EUR,2012,0.78
-Spain,EUR,2013,0.75
-Spain,EUR,2014,0.75
-Spain,EUR,2015,0.90
-Spain,EUR,2016,0.90
-Sri Lanka,LKR,2001,89.60
-Sri Lanka,LKR,2002,95.77
-Sri Lanka,LKR,2003,96.54
-Sri Lanka,LKR,2004,101.27
-Sri Lanka,LKR,2005,100.38
-Sri Lanka,LKR,2006,103.94
-Sri Lanka,LKR,2007,110.62
-Sri Lanka,LKR,2008,108.30
-Sri Lanka,LKR,2009,114.91
-Sri Lanka,LKR,2010,112.99
-Sri Lanka,LKR,2011,110.47
-Sri Lanka,LKR,2012,127.54
-Sri Lanka,LKR,2013,129.05
-Sri Lanka,LKR,2014,130.54
-Sri Lanka,LKR,2015,135.88
-Sri Lanka,LKR,2016,145.73
-St. Lucia,XCD,2001,2.70
-St. Lucia,XCD,2002,2.70
-St. Lucia,XCD,2003,2.70
-St. Lucia,XCD,2004,2.70
-St. Lucia,XCD,2005,2.70
-St. Lucia,XCD,2006,2.70
-St. Lucia,XCD,2007,2.70
-St. Lucia,XCD,2008,2.70
-St. Lucia,XCD,2009,2.70
-St. Lucia,XCD,2010,2.70
-St. Lucia,XCD,2011,2.70
-St. Lucia,XCD,2012,2.70
-St. Lucia,XCD,2013,2.70
-St. Lucia,XCD,2014,2.70
-St. Lucia,XCD,2015,2.70
-St. Lucia,XCD,2016,2.70
-St. Vincent and the Grenadines,XCD,2001,2.70
-St. Vincent and the Grenadines,XCD,2002,2.70
-St. Vincent and the Grenadines,XCD,2003,2.70
-St. Vincent and the Grenadines,XCD,2004,2.70
-St. Vincent and the Grenadines,XCD,2005,2.70
-St. Vincent and the Grenadines,XCD,2006,2.70
-St. Vincent and the Grenadines,XCD,2007,2.70
-St. Vincent and the Grenadines,XCD,2008,2.70
-St. Vincent and the Grenadines,XCD,2009,2.70
-St. Vincent and the Grenadines,XCD,2010,2.70
-St. Vincent and the Grenadines,XCD,2011,2.70
-St. Vincent and the Grenadines,XCD,2012,2.70
-St. Vincent and the Grenadines,XCD,2013,2.70
-St. Vincent and the Grenadines,XCD,2014,2.70
-St. Vincent and the Grenadines,XCD,2015,2.70
-St. Vincent and the Grenadines,XCD,2016,2.70
-St.Kitts - Nevis,XCD,2001,2.70
-St.Kitts - Nevis,XCD,2002,2.70
-St.Kitts - Nevis,XCD,2003,2.70
-St.Kitts - Nevis,XCD,2004,2.70
-St.Kitts - Nevis,XCD,2005,2.70
-St.Kitts - Nevis,XCD,2006,2.70
-St.Kitts - Nevis,XCD,2007,2.70
-St.Kitts - Nevis,XCD,2008,2.70
-St.Kitts - Nevis,XCD,2009,2.70
-St.Kitts - Nevis,XCD,2010,2.70
-St.Kitts - Nevis,XCD,2011,2.70
-St.Kitts - Nevis,XCD,2012,2.70
-St.Kitts - Nevis,XCD,2013,2.70
-St.Kitts - Nevis,XCD,2014,2.70
-St.Kitts - Nevis,XCD,2015,2.70
-St.Kitts - Nevis,XCD,2016,2.70
-Sudan,SDG,2001,2.59
-Sudan,SDG,2002,2.63
-Sudan,SDG,2003,2.61
-Sudan,SDG,2004,2.58
-Sudan,SDG,2005,2.44
-Sudan,SDG,2006,2.17
-Sudan,SDG,2007,2.02
-Sudan,SDG,2008,2.09
-Sudan,SDG,2009,2.30
-Sudan,SDG,2010,2.31
-Sudan,SDG,2011,2.67
-Sudan,SDG,2012,3.57
-Sudan,SDG,2013,4.76
-Sudan,SDG,2014,5.74
-Sudan,SDG,2015,6.03
-Sudan,SDG,2016,6.21
-Suriname,SRD,2001,2.18
-Suriname,SRD,2002,2.35
-Suriname,SRD,2003,2.60
-Suriname,SRD,2004,2.73
-Suriname,SRD,2005,2.73
-Suriname,SRD,2006,2.74
-Suriname,SRD,2007,2.75
-Suriname,SRD,2008,2.75
-Suriname,SRD,2009,2.75
-Suriname,SRD,2010,2.75
-Suriname,SRD,2011,3.27
-Suriname,SRD,2012,3.30
-Suriname,SRD,2013,3.30
-Suriname,SRD,2014,3.30
-Suriname,SRD,2015,3.42
-Suriname,SRD,2016,6.23
-Swaziland,SZL,2001,8.61
-Swaziland,SZL,2002,10.54
-Swaziland,SZL,2003,7.56
-Swaziland,SZL,2004,6.46
-Swaziland,SZL,2005,6.36
-Swaziland,SZL,2006,6.77
-Swaziland,SZL,2007,7.05
-Swaziland,SZL,2008,8.26
-Swaziland,SZL,2009,8.47
-Swaziland,SZL,2010,7.32
-Swaziland,SZL,2011,7.26
-Swaziland,SZL,2012,8.21
-Swaziland,SZL,2013,9.66
-Swaziland,SZL,2014,10.85
-Swaziland,SZL,2015,12.76
-Swaziland,SZL,2016,14.71
-Sweden,SEK,2001,10.34
-Sweden,SEK,2002,9.72
-Sweden,SEK,2003,8.08
-Sweden,SEK,2004,7.35
-Sweden,SEK,2005,7.48
-Sweden,SEK,2006,7.38
-Sweden,SEK,2007,6.76
-Sweden,SEK,2008,6.59
-Sweden,SEK,2009,7.64
-Sweden,SEK,2010,7.21
-Sweden,SEK,2011,6.49
-Sweden,SEK,2012,6.78
-Sweden,SEK,2013,6.51
-Sweden,SEK,2014,6.86
-Sweden,SEK,2015,8.43
-Sweden,SEK,2016,8.56
-Switzerland,CHF,2001,1.69
-Switzerland,CHF,2002,1.56
-Switzerland,CHF,2003,1.35
-Switzerland,CHF,2004,1.24
-Switzerland,CHF,2005,1.25
-Switzerland,CHF,2006,1.25
-Switzerland,CHF,2007,1.20
-Switzerland,CHF,2008,1.08
-Switzerland,CHF,2009,1.09
-Switzerland,CHF,2010,1.04
-Switzerland,CHF,2011,0.89
-Switzerland,CHF,2012,0.94
-Switzerland,CHF,2013,0.93
-Switzerland,CHF,2014,0.92
-Switzerland,CHF,2015,0.96
-Switzerland,CHF,2016,0.99
-Syria,SYP,2001,11.23
-Syria,SYP,2002,11.23
-Syria,SYP,2003,11.23
-Syria,SYP,2004,11.23
-Syria,SYP,2005,11.23
-Syria,SYP,2006,11.23
-Syria,SYP,2007,11.23
-Syria,SYP,2008,11.23
-Syria,SYP,2009,11.23
-Syria,SYP,2010,11.23
-Syria,SYP,2011,11.23
-Syria,SYP,2012,11.23
-Syria,SYP,2013,11.23
-Syria,SYP,2014,11.23
-Syria,SYP,2015,11.23
-Syria,SYP,2016,11.23
-Tajikistan,TJS,2001,2.37
-Tajikistan,TJS,2002,2.76
-Tajikistan,TJS,2003,3.06
-Tajikistan,TJS,2004,2.97
-Tajikistan,TJS,2005,3.12
-Tajikistan,TJS,2006,3.30
-Tajikistan,TJS,2007,3.44
-Tajikistan,TJS,2008,3.43
-Tajikistan,TJS,2009,4.14
-Tajikistan,TJS,2010,4.38
-Tajikistan,TJS,2011,4.61
-Tajikistan,TJS,2012,4.74
-Tajikistan,TJS,2013,4.76
-Tajikistan,TJS,2014,4.94
-Tajikistan,TJS,2015,6.16
-Tajikistan,TJS,2016,7.84
-Tanzania,TZS,2001,876.41
-Tanzania,TZS,2002,966.58
-Tanzania,TZS,2003,"1,038.42"
-Tanzania,TZS,2004,"1,089.33"
-Tanzania,TZS,2005,"1,128.93"
-Tanzania,TZS,2006,"1,251.90"
-Tanzania,TZS,2007,"1,245.04"
-Tanzania,TZS,2008,"1,196.31"
-Tanzania,TZS,2009,"1,320.31"
-Tanzania,TZS,2010,"1,395.62"
-Tanzania,TZS,2011,"1,557.43"
-Tanzania,TZS,2012,"1,571.70"
-Tanzania,TZS,2013,"1,597.56"
-Tanzania,TZS,2014,"1,653.23"
-Tanzania,TZS,2015,"1,991.39"
-Tanzania,TZS,2016,"2,177.09"
-Thailand,THB,2001,44.50
-Thailand,THB,2002,43.00
-Thailand,THB,2003,41.52
-Thailand,THB,2004,40.27
-Thailand,THB,2005,40.29
-Thailand,THB,2006,37.93
-Thailand,THB,2007,32.30
-Thailand,THB,2008,33.03
-Thailand,THB,2009,34.32
-Thailand,THB,2010,31.70
-Thailand,THB,2011,30.49
-Thailand,THB,2012,31.09
-Thailand,THB,2013,30.73
-Thailand,THB,2014,32.48
-Thailand,THB,2015,34.28
-Thailand,THB,2016,35.28
-Togo,XOF,2001,733.04
-Togo,XOF,2002,696.99
-Togo,XOF,2003,581.20
-Togo,XOF,2004,528.28
-Togo,XOF,2005,527.47
-Togo,XOF,2006,522.89
-Togo,XOF,2007,479.27
-Togo,XOF,2008,447.81
-Togo,XOF,2009,472.19
-Togo,XOF,2010,495.28
-Togo,XOF,2011,471.87
-Togo,XOF,2012,510.53
-Togo,XOF,2013,494.04
-Togo,XOF,2014,494.41
-Togo,XOF,2015,591.45
-Togo,XOF,2016,593.01
-Tonga,TOP,2001,2.12
-Tonga,TOP,2002,2.20
-Tonga,TOP,2003,2.15
-Tonga,TOP,2004,1.97
-Tonga,TOP,2005,1.94
-Tonga,TOP,2006,2.03
-Tonga,TOP,2007,1.97
-Tonga,TOP,2008,1.94
-Tonga,TOP,2009,2.03
-Tonga,TOP,2010,1.91
-Tonga,TOP,2011,1.73
-Tonga,TOP,2012,1.72
-Tonga,TOP,2013,1.77
-Tonga,TOP,2014,1.85
-Tonga,TOP,2015,2.11
-Tonga,TOP,2016,2.22
-Trinidad and Tobago,TTD,2001,6.20
-Trinidad and Tobago,TTD,2002,6.21
-Trinidad and Tobago,TTD,2003,6.26
-Trinidad and Tobago,TTD,2004,6.27
-Trinidad and Tobago,TTD,2005,6.27
-Trinidad and Tobago,TTD,2006,6.28
-Trinidad and Tobago,TTD,2007,6.30
-Trinidad and Tobago,TTD,2008,6.26
-Trinidad and Tobago,TTD,2009,6.30
-Trinidad and Tobago,TTD,2010,6.35
-Trinidad and Tobago,TTD,2011,6.40
-Trinidad and Tobago,TTD,2012,6.40
-Trinidad and Tobago,TTD,2013,6.42
-Trinidad and Tobago,TTD,2014,6.38
-Trinidad and Tobago,TTD,2015,6.35
-Trinidad and Tobago,TTD,2016,6.64
-Tunisia,TND,2001,1.44
-Tunisia,TND,2002,1.42
-Tunisia,TND,2003,1.29
-Tunisia,TND,2004,1.25
-Tunisia,TND,2005,1.30
-Tunisia,TND,2006,1.33
-Tunisia,TND,2007,1.28
-Tunisia,TND,2008,1.23
-Tunisia,TND,2009,1.35
-Tunisia,TND,2010,1.45
-Tunisia,TND,2011,1.41
-Tunisia,TND,2012,1.56
-Tunisia,TND,2013,1.63
-Tunisia,TND,2014,1.70
-Tunisia,TND,2015,1.96
-Tunisia,TND,2016,2.14
-Turkey,TRY,2001,1.23
-Turkey,TRY,2002,1.52
-Turkey,TRY,2003,1.50
-Turkey,TRY,2004,1.43
-Turkey,TRY,2005,1.35
-Turkey,TRY,2006,1.44
-Turkey,TRY,2007,1.31
-Turkey,TRY,2008,1.30
-Turkey,TRY,2009,1.55
-Turkey,TRY,2010,1.51
-Turkey,TRY,2011,1.68
-Turkey,TRY,2012,1.80
-Turkey,TRY,2013,1.91
-Turkey,TRY,2014,2.19
-Turkey,TRY,2015,2.73
-Turkey,TRY,2016,3.02
-Turkmenistan,TMT,2001,1.04
-Turkmenistan,TMT,2002,1.04
-Turkmenistan,TMT,2003,1.04
-Turkmenistan,TMT,2004,1.04
-Turkmenistan,TMT,2005,1.04
-Turkmenistan,TMT,2006,1.04
-Turkmenistan,TMT,2007,1.04
-Turkmenistan,TMT,2008,2.32
-Turkmenistan,TMT,2009,2.85
-Turkmenistan,TMT,2010,2.85
-Turkmenistan,TMT,2011,2.85
-Turkmenistan,TMT,2012,2.85
-Turkmenistan,TMT,2013,2.85
-Turkmenistan,TMT,2014,2.85
-Turkmenistan,TMT,2015,3.50
-Turkmenistan,TMT,2016,3.50
-Uganda,UGX,2001,"1,755.66"
-Uganda,UGX,2002,"1,797.55"
-Uganda,UGX,2003,"1,963.72"
-Uganda,UGX,2004,"1,810.30"
-Uganda,UGX,2005,"1,780.67"
-Uganda,UGX,2006,"1,831.45"
-Uganda,UGX,2007,"1,723.49"
-Uganda,UGX,2008,"1,720.44"
-Uganda,UGX,2009,"2,030.49"
-Uganda,UGX,2010,"2,177.56"
-Uganda,UGX,2011,"2,522.75"
-Uganda,UGX,2012,"2,504.56"
-Uganda,UGX,2013,"2,586.89"
-Uganda,UGX,2014,"2,599.79"
-Uganda,UGX,2015,"3,240.65"
-Uganda,UGX,2016,"3,420.10"
-Ukraine,UAH,2001,5.37
-Ukraine,UAH,2002,5.33
-Ukraine,UAH,2003,5.33
-Ukraine,UAH,2004,5.32
-Ukraine,UAH,2005,5.12
-Ukraine,UAH,2006,5.05
-Ukraine,UAH,2007,5.05
-Ukraine,UAH,2008,5.28
-Ukraine,UAH,2009,7.79
-Ukraine,UAH,2010,7.94
-Ukraine,UAH,2011,7.97
-Ukraine,UAH,2012,7.99
-Ukraine,UAH,2013,7.99
-Ukraine,UAH,2014,11.87
-Ukraine,UAH,2015,21.81
-Ukraine,UAH,2016,25.59
-United Arab Emirates,AED,2001,3.67
-United Arab Emirates,AED,2002,3.67
-United Arab Emirates,AED,2003,3.67
-United Arab Emirates,AED,2004,3.67
-United Arab Emirates,AED,2005,3.67
-United Arab Emirates,AED,2006,3.67
-United Arab Emirates,AED,2007,3.67
-United Arab Emirates,AED,2008,3.67
-United Arab Emirates,AED,2009,3.67
-United Arab Emirates,AED,2010,3.67
-United Arab Emirates,AED,2011,3.67
-United Arab Emirates,AED,2012,3.67
-United Arab Emirates,AED,2013,3.67
-United Arab Emirates,AED,2014,3.67
-United Arab Emirates,AED,2015,3.67
-United Arab Emirates,AED,2016,3.67
-United Kingdom,GBP,2001,0.69
-United Kingdom,GBP,2002,0.67
-United Kingdom,GBP,2003,0.61
-United Kingdom,GBP,2004,0.55
-United Kingdom,GBP,2005,0.55
-United Kingdom,GBP,2006,0.54
-United Kingdom,GBP,2007,0.50
-United Kingdom,GBP,2008,0.55
-United Kingdom,GBP,2009,0.64
-United Kingdom,GBP,2010,0.65
-United Kingdom,GBP,2011,0.62
-United Kingdom,GBP,2012,0.63
-United Kingdom,GBP,2013,0.64
-United Kingdom,GBP,2014,0.61
-United Kingdom,GBP,2015,0.65
-United Kingdom,GBP,2016,0.74
-United States,USD,2001,1.00
-United States,USD,2002,1.00
-United States,USD,2003,1.00
-United States,USD,2004,1.00
-United States,USD,2005,1.00
-United States,USD,2006,1.00
-United States,USD,2007,1.00
-United States,USD,2008,1.00
-United States,USD,2009,1.00
-United States,USD,2010,1.00
-United States,USD,2011,1.00
-United States,USD,2012,1.00
-United States,USD,2013,1.00
-United States,USD,2014,1.00
-United States,USD,2015,1.00
-United States,USD,2016,1.00
-Uruguay,UYU,2001,13.32
-Uruguay,UYU,2002,21.40
-Uruguay,UYU,2003,28.20
-Uruguay,UYU,2004,28.66
-Uruguay,UYU,2005,24.43
-Uruguay,UYU,2006,24.04
-Uruguay,UYU,2007,23.43
-Uruguay,UYU,2008,20.96
-Uruguay,UYU,2009,22.53
-Uruguay,UYU,2010,20.07
-Uruguay,UYU,2011,19.30
-Uruguay,UYU,2012,20.32
-Uruguay,UYU,2013,20.50
-Uruguay,UYU,2014,23.23
-Uruguay,UYU,2015,27.33
-Uruguay,UYU,2016,30.08
-Uzbekistan,UZS,2001,427.73
-Uzbekistan,UZS,2002,782.53
-Uzbekistan,UZS,2003,971.98
-Uzbekistan,UZS,2004,"1,022.35"
-Uzbekistan,UZS,2005,"1,117.80"
-Uzbekistan,UZS,2006,"1,221.73"
-Uzbekistan,UZS,2007,"1,265.58"
-Uzbekistan,UZS,2008,"1,323.92"
-Uzbekistan,UZS,2009,"1,470.44"
-Uzbekistan,UZS,2010,"1,591.32"
-Uzbekistan,UZS,2011,"1,720.91"
-Uzbekistan,UZS,2012,"1,897.54"
-Uzbekistan,UZS,2013,"2,103.74"
-Uzbekistan,UZS,2014,"2,319.55"
-Uzbekistan,UZS,2015,"2,583.54"
-Uzbekistan,UZS,2016,"2,981.89"
-Vanuatu,VUV,2001,145.31
-Vanuatu,VUV,2002,139.20
-Vanuatu,VUV,2003,122.19
-Vanuatu,VUV,2004,111.79
-Vanuatu,VUV,2005,109.25
-Vanuatu,VUV,2006,110.64
-Vanuatu,VUV,2007,102.44
-Vanuatu,VUV,2008,101.33
-Vanuatu,VUV,2009,106.74
-Vanuatu,VUV,2010,96.91
-Vanuatu,VUV,2011,89.47
-Vanuatu,VUV,2012,92.64
-Vanuatu,VUV,2013,94.54
-Vanuatu,VUV,2014,97.07
-Vanuatu,VUV,2015,108.99
-Vanuatu,VUV,2016,108.48
-Venezuela,VEF,2001,0.72
-Venezuela,VEF,2002,1.16
-Venezuela,VEF,2003,1.61
-Venezuela,VEF,2004,1.89
-Venezuela,VEF,2005,2.10
-Venezuela,VEF,2006,2.14
-Venezuela,VEF,2007,2.14
-Venezuela,VEF,2008,2.14
-Venezuela,VEF,2009,2.14
-Venezuela,VEF,2010,4.24
-Venezuela,VEF,2011,4.29
-Venezuela,VEF,2012,4.29
-Venezuela,VEF,2013,6.07
-Venezuela,VEF,2014,6.28
-Venezuela,VEF,2015,6.28
-Venezuela,VEF,2016,9.30
-Vietnam,VND,2001,"14,725.17"
-Vietnam,VND,2002,"15,279.50"
-Vietnam,VND,2003,"15,509.58"
-Vietnam,VND,2004,"15,746.00"
-Vietnam,VND,2005,"15,858.92"
-Vietnam,VND,2006,"15,994.25"
-Vietnam,VND,2007,"16,105.13"
-Vietnam,VND,2008,"16,302.25"
-Vietnam,VND,2009,"17,065.08"
-Vietnam,VND,2010,"18,612.92"
-Vietnam,VND,2011,"20,509.75"
-Vietnam,VND,2012,"20,828.00"
-Vietnam,VND,2013,"20,933.42"
-Vietnam,VND,2014,"21,148.00"
-Vietnam,VND,2015,"21,697.57"
-Vietnam,VND,2016,"21,935.00"
-Waemu,XOF,2001,733.04
-Waemu,XOF,2002,696.99
-Waemu,XOF,2003,581.20
-Waemu,XOF,2004,528.28
-Waemu,XOF,2005,527.47
-Waemu,XOF,2006,522.89
-Waemu,XOF,2007,479.27
-Waemu,XOF,2008,447.81
-Waemu,XOF,2009,472.19
-Waemu,XOF,2010,495.28
-Waemu,XOF,2011,471.87
-Waemu,XOF,2012,510.53
-Waemu,XOF,2013,494.04
-Waemu,XOF,2014,494.41
-Waemu,XOF,2015,591.45
-Waemu,XOF,2016,593.01
-World,XDR,2001,0.79
-World,XDR,2002,0.77
-World,XDR,2003,0.71
-World,XDR,2004,0.68
-World,XDR,2005,0.68
-World,XDR,2006,0.68
-World,XDR,2007,0.65
-World,XDR,2008,0.63
-World,XDR,2009,0.65
-World,XDR,2010,0.66
-World,XDR,2011,0.63
-World,XDR,2012,0.65
-World,XDR,2013,0.66
-World,XDR,2014,0.66
-World,XDR,2015,0.72
-World,XDR,2016,0.72
-Yemen,YER,2001,168.67
-Yemen,YER,2002,175.63
-Yemen,YER,2003,183.45
-Yemen,YER,2004,184.78
-Yemen,YER,2005,191.51
-Yemen,YER,2006,197.05
-Yemen,YER,2007,198.95
-Yemen,YER,2008,199.76
-Yemen,YER,2009,202.85
-Yemen,YER,2010,219.59
-Yemen,YER,2011,213.80
-Yemen,YER,2012,214.35
-Yemen,YER,2013,214.89
-Yemen,YER,2014,214.89
-Yemen,YER,2015,214.89
-Yemen,YER,2016,214.89
-Zambia,ZMW,2001,3.61
-Zambia,ZMW,2002,4.40
-Zambia,ZMW,2003,4.73
-Zambia,ZMW,2004,4.78
-Zambia,ZMW,2005,4.46
-Zambia,ZMW,2006,3.60
-Zambia,ZMW,2007,4.00
-Zambia,ZMW,2008,3.75
-Zambia,ZMW,2009,5.05
-Zambia,ZMW,2010,4.80
-Zambia,ZMW,2011,4.86
-Zambia,ZMW,2012,5.15
-Zambia,ZMW,2013,5.40
-Zambia,ZMW,2014,6.15
-Zambia,ZMW,2015,8.63
-Zambia,ZMW,2016,10.31
-Zimbabwe,ZWL,2001,0.06
-Zimbabwe,ZWL,2002,0.06
-Zimbabwe,ZWL,2003,0.70
-Zimbabwe,ZWL,2004,5.07
-Zimbabwe,ZWL,2005,22.39
-Zimbabwe,ZWL,2006,164.55
-Zimbabwe,ZWL,2007,"9,686.77"
-Zimbabwe,ZWL,2008,"6,723,052,073.34"
-Zimbabwe,ZWL,2009,0.00
-Zimbabwe,ZWL,2010,0.00
-Zimbabwe,ZWL,2011,0.00
-Zimbabwe,ZWL,2012,0.00
-Zimbabwe,ZWL,2013,0.00
-Zimbabwe,ZWL,2014,0.00
-Zimbabwe,ZWL,2015,0.00
-Zimbabwe,ZWL,2016,0.00
+,Country,Currency,Year,Rate
+0,Afghanistan,AFN,2001,47.5
+1,Afghanistan,AFN,2002,47.26
+2,Afghanistan,AFN,2003,48.76
+3,Afghanistan,AFN,2004,47.85
+4,Afghanistan,AFN,2005,49.49
+5,Afghanistan,AFN,2006,49.93
+6,Afghanistan,AFN,2007,49.96
+7,Afghanistan,AFN,2008,50.25
+8,Afghanistan,AFN,2009,50.33
+9,Afghanistan,AFN,2010,46.45
+10,Afghanistan,AFN,2011,46.75
+11,Afghanistan,AFN,2012,50.92
+12,Afghanistan,AFN,2013,55.38
+13,Afghanistan,AFN,2014,57.25
+14,Afghanistan,AFN,2015,61.14
+15,Afghanistan,AFN,2016,67.87
+16,Albania,ALL,2001,143.48
+17,Albania,ALL,2002,140.15
+18,Albania,ALL,2003,121.86
+19,Albania,ALL,2004,102.78
+20,Albania,ALL,2005,99.87
+21,Albania,ALL,2006,98.1
+22,Albania,ALL,2007,90.43
+23,Albania,ALL,2008,83.89
+24,Albania,ALL,2009,94.98
+25,Albania,ALL,2010,103.94
+26,Albania,ALL,2011,100.89
+27,Albania,ALL,2012,108.18
+28,Albania,ALL,2013,105.67
+29,Albania,ALL,2014,105.48
+30,Albania,ALL,2015,125.96
+31,Albania,ALL,2016,124.14
+32,Algeria,DZD,2001,76.5
+33,Algeria,DZD,2002,79.27
+34,Algeria,DZD,2003,76.29
+35,Algeria,DZD,2004,71.74
+36,Algeria,DZD,2005,72.78
+37,Algeria,DZD,2006,72.9
+38,Algeria,DZD,2007,69.69
+39,Algeria,DZD,2008,64.58
+40,Algeria,DZD,2009,72.51
+41,Algeria,DZD,2010,73.88
+42,Algeria,DZD,2011,73.04
+43,Algeria,DZD,2012,77.66
+44,Algeria,DZD,2013,79.59
+45,Algeria,DZD,2014,80.58
+46,Algeria,DZD,2015,100.45
+47,Algeria,DZD,2016,109.4
+48,Angola,AOA,2001,22.06
+49,Angola,AOA,2002,43.53
+50,Angola,AOA,2003,74.61
+51,Angola,AOA,2004,83.54
+52,Angola,AOA,2005,87.16
+53,Angola,AOA,2006,80.37
+54,Angola,AOA,2007,76.71
+55,Angola,AOA,2008,75.03
+56,Angola,AOA,2009,79.33
+57,Angola,AOA,2010,91.91
+58,Angola,AOA,2011,93.93
+59,Angola,AOA,2012,95.47
+60,Angola,AOA,2013,96.52
+61,Angola,AOA,2014,98.3
+62,Angola,AOA,2015,120.06
+63,Angola,AOA,2016,163.66
+64,Anguillla,XCD,2001,2.7
+65,Anguillla,XCD,2002,2.7
+66,Anguillla,XCD,2003,2.7
+67,Anguillla,XCD,2004,2.7
+68,Anguillla,XCD,2005,2.7
+69,Anguillla,XCD,2006,2.7
+70,Anguillla,XCD,2007,2.7
+71,Anguillla,XCD,2008,2.7
+72,Anguillla,XCD,2009,2.7
+73,Anguillla,XCD,2010,2.7
+74,Anguillla,XCD,2011,2.7
+75,Anguillla,XCD,2012,2.7
+76,Anguillla,XCD,2013,2.7
+77,Anguillla,XCD,2014,2.7
+78,Anguillla,XCD,2015,2.7
+79,Anguillla,XCD,2016,2.7
+80,Antigua and Barbuda,XCD,2001,2.7
+81,Antigua and Barbuda,XCD,2002,2.7
+82,Antigua and Barbuda,XCD,2003,2.7
+83,Antigua and Barbuda,XCD,2004,2.7
+84,Antigua and Barbuda,XCD,2005,2.7
+85,Antigua and Barbuda,XCD,2006,2.7
+86,Antigua and Barbuda,XCD,2007,2.7
+87,Antigua and Barbuda,XCD,2008,2.7
+88,Antigua and Barbuda,XCD,2009,2.7
+89,Antigua and Barbuda,XCD,2010,2.7
+90,Antigua and Barbuda,XCD,2011,2.7
+91,Antigua and Barbuda,XCD,2012,2.7
+92,Antigua and Barbuda,XCD,2013,2.7
+93,Antigua and Barbuda,XCD,2014,2.7
+94,Antigua and Barbuda,XCD,2015,2.7
+95,Antigua and Barbuda,XCD,2016,2.7
+96,Argentina,ARS,2001,1.0
+97,Argentina,ARS,2002,3.29
+98,Argentina,ARS,2003,2.95
+99,Argentina,ARS,2004,2.95
+100,Argentina,ARS,2005,2.93
+101,Argentina,ARS,2006,3.08
+102,Argentina,ARS,2007,3.12
+103,Argentina,ARS,2008,3.16
+104,Argentina,ARS,2009,3.73
+105,Argentina,ARS,2010,3.91
+106,Argentina,ARS,2011,4.13
+107,Argentina,ARS,2012,4.54
+108,Argentina,ARS,2013,5.47
+109,Argentina,ARS,2014,8.12
+110,Argentina,ARS,2015,9.25
+111,Argentina,ARS,2016,14.77
+112,Armenia,AMD,2001,555.08
+113,Armenia,AMD,2002,573.35
+114,Armenia,AMD,2003,578.76
+115,Armenia,AMD,2004,533.45
+116,Armenia,AMD,2005,457.69
+117,Armenia,AMD,2006,416.04
+118,Armenia,AMD,2007,342.08
+119,Armenia,AMD,2008,305.97
+120,Armenia,AMD,2009,363.28
+121,Armenia,AMD,2010,373.66
+122,Armenia,AMD,2011,372.5
+123,Armenia,AMD,2012,401.76
+124,Armenia,AMD,2013,409.63
+125,Armenia,AMD,2014,415.92
+126,Armenia,AMD,2015,477.92
+127,Armenia,AMD,2016,480.49
+128,Aruba,AWG,2001,1.79
+129,Aruba,AWG,2002,1.79
+130,Aruba,AWG,2003,1.79
+131,Aruba,AWG,2004,1.79
+132,Aruba,AWG,2005,1.79
+133,Aruba,AWG,2006,1.79
+134,Aruba,AWG,2007,1.79
+135,Aruba,AWG,2008,1.79
+136,Aruba,AWG,2009,1.79
+137,Aruba,AWG,2010,1.79
+138,Aruba,AWG,2011,1.79
+139,Aruba,AWG,2012,1.79
+140,Aruba,AWG,2013,1.79
+141,Aruba,AWG,2014,1.79
+142,Aruba,AWG,2015,1.79
+143,Aruba,AWG,2016,1.79
+144,Australia,AUD,2001,1.93
+145,Australia,AUD,2002,1.84
+146,Australia,AUD,2003,1.54
+147,Australia,AUD,2004,1.36
+148,Australia,AUD,2005,1.31
+149,Australia,AUD,2006,1.33
+150,Australia,AUD,2007,1.19
+151,Australia,AUD,2008,1.2
+152,Australia,AUD,2009,1.28
+153,Australia,AUD,2010,1.09
+154,Australia,AUD,2011,0.97
+155,Australia,AUD,2012,0.97
+156,Australia,AUD,2013,1.04
+157,Australia,AUD,2014,1.11
+158,Australia,AUD,2015,1.33
+159,Australia,AUD,2016,1.34
+160,Austria,EUR,2001,1.12
+161,Austria,EUR,2002,1.06
+162,Austria,EUR,2003,0.89
+163,Austria,EUR,2004,0.8
+164,Austria,EUR,2005,0.81
+165,Austria,EUR,2006,0.8
+166,Austria,EUR,2007,0.73
+167,Austria,EUR,2008,0.68
+168,Austria,EUR,2009,0.72
+169,Austria,EUR,2010,0.76
+170,Austria,EUR,2011,0.72
+171,Austria,EUR,2012,0.78
+172,Austria,EUR,2013,0.75
+173,Austria,EUR,2014,0.75
+174,Austria,EUR,2015,0.9
+175,Austria,EUR,2016,0.9
+176,Azerbaijan,AZN,2001,0.93
+177,Azerbaijan,AZN,2002,0.97
+178,Azerbaijan,AZN,2003,0.98
+179,Azerbaijan,AZN,2004,0.98
+180,Azerbaijan,AZN,2005,0.95
+181,Azerbaijan,AZN,2006,0.89
+182,Azerbaijan,AZN,2007,0.86
+183,Azerbaijan,AZN,2008,0.82
+184,Azerbaijan,AZN,2009,0.8
+185,Azerbaijan,AZN,2010,0.8
+186,Azerbaijan,AZN,2011,0.79
+187,Azerbaijan,AZN,2012,0.79
+188,Azerbaijan,AZN,2013,0.78
+189,Azerbaijan,AZN,2014,0.78
+190,Azerbaijan,AZN,2015,1.02
+191,Azerbaijan,AZN,2016,1.6
+192,Bahamas,BSD,2001,1.0
+193,Bahamas,BSD,2002,1.0
+194,Bahamas,BSD,2003,1.0
+195,Bahamas,BSD,2004,1.0
+196,Bahamas,BSD,2005,1.0
+197,Bahamas,BSD,2006,1.0
+198,Bahamas,BSD,2007,1.0
+199,Bahamas,BSD,2008,1.0
+200,Bahamas,BSD,2009,1.0
+201,Bahamas,BSD,2010,1.0
+202,Bahamas,BSD,2011,1.0
+203,Bahamas,BSD,2012,1.0
+204,Bahamas,BSD,2013,1.0
+205,Bahamas,BSD,2014,1.0
+206,Bahamas,BSD,2015,1.0
+207,Bahamas,BSD,2016,1.0
+208,Bahrain,BHD,2001,0.38
+209,Bahrain,BHD,2002,0.38
+210,Bahrain,BHD,2003,0.38
+211,Bahrain,BHD,2004,0.38
+212,Bahrain,BHD,2005,0.38
+213,Bahrain,BHD,2006,0.38
+214,Bahrain,BHD,2007,0.38
+215,Bahrain,BHD,2008,0.38
+216,Bahrain,BHD,2009,0.38
+217,Bahrain,BHD,2010,0.38
+218,Bahrain,BHD,2011,0.38
+219,Bahrain,BHD,2012,0.38
+220,Bahrain,BHD,2013,0.38
+221,Bahrain,BHD,2014,0.38
+222,Bahrain,BHD,2015,0.38
+223,Bahrain,BHD,2016,0.38
+224,Bangladesh,BDT,2001,55.81
+225,Bangladesh,BDT,2002,57.89
+226,Bangladesh,BDT,2003,58.15
+227,Bangladesh,BDT,2004,59.51
+228,Bangladesh,BDT,2005,64.33
+229,Bangladesh,BDT,2006,68.93
+230,Bangladesh,BDT,2007,68.87
+231,Bangladesh,BDT,2008,68.6
+232,Bangladesh,BDT,2009,69.04
+233,Bangladesh,BDT,2010,69.65
+234,Bangladesh,BDT,2011,74.15
+235,Bangladesh,BDT,2012,81.86
+236,Bangladesh,BDT,2013,78.1
+237,Bangladesh,BDT,2014,77.64
+238,Bangladesh,BDT,2015,77.95
+239,Bangladesh,BDT,2016,78.47
+240,Barbados,BBD,2001,2.0
+241,Barbados,BBD,2002,2.0
+242,Barbados,BBD,2003,2.0
+243,Barbados,BBD,2004,2.0
+244,Barbados,BBD,2005,2.0
+245,Barbados,BBD,2006,2.0
+246,Barbados,BBD,2007,2.0
+247,Barbados,BBD,2008,2.0
+248,Barbados,BBD,2009,2.0
+249,Barbados,BBD,2010,2.0
+250,Barbados,BBD,2011,2.0
+251,Barbados,BBD,2012,2.0
+252,Barbados,BBD,2013,2.0
+253,Barbados,BBD,2014,2.0
+254,Barbados,BBD,2015,2.0
+255,Barbados,BBD,2016,2.0
+256,Belarus,BYN,2001,0.14
+257,Belarus,BYN,2002,0.18
+258,Belarus,BYN,2003,0.21
+259,Belarus,BYN,2004,0.22
+260,Belarus,BYN,2005,0.22
+261,Belarus,BYN,2006,0.21
+262,Belarus,BYN,2007,0.21
+263,Belarus,BYN,2008,0.21
+264,Belarus,BYN,2009,0.28
+265,Belarus,BYN,2010,0.3
+266,Belarus,BYN,2011,0.53
+267,Belarus,BYN,2012,0.83
+268,Belarus,BYN,2013,0.89
+269,Belarus,BYN,2014,1.04
+270,Belarus,BYN,2015,1.62
+271,Belarus,BYN,2016,1.99
+272,Belgium,EUR,2001,1.12
+273,Belgium,EUR,2002,1.06
+274,Belgium,EUR,2003,0.89
+275,Belgium,EUR,2004,0.8
+276,Belgium,EUR,2005,0.81
+277,Belgium,EUR,2006,0.8
+278,Belgium,EUR,2007,0.73
+279,Belgium,EUR,2008,0.68
+280,Belgium,EUR,2009,0.72
+281,Belgium,EUR,2010,0.76
+282,Belgium,EUR,2011,0.72
+283,Belgium,EUR,2012,0.78
+284,Belgium,EUR,2013,0.75
+285,Belgium,EUR,2014,0.75
+286,Belgium,EUR,2015,0.9
+287,Belgium,EUR,2016,0.9
+288,Belize,BZD,2001,2.0
+289,Belize,BZD,2002,2.0
+290,Belize,BZD,2003,2.0
+291,Belize,BZD,2004,2.0
+292,Belize,BZD,2005,2.0
+293,Belize,BZD,2006,2.0
+294,Belize,BZD,2007,2.0
+295,Belize,BZD,2008,2.0
+296,Belize,BZD,2009,2.0
+297,Belize,BZD,2010,2.0
+298,Belize,BZD,2011,2.0
+299,Belize,BZD,2012,2.0
+300,Belize,BZD,2013,2.0
+301,Belize,BZD,2014,2.0
+302,Belize,BZD,2015,2.0
+303,Belize,BZD,2016,2.0
+304,Benin,XOF,2001,733.04
+305,Benin,XOF,2002,696.99
+306,Benin,XOF,2003,581.2
+307,Benin,XOF,2004,528.28
+308,Benin,XOF,2005,527.47
+309,Benin,XOF,2006,522.89
+310,Benin,XOF,2007,479.27
+311,Benin,XOF,2008,447.81
+312,Benin,XOF,2009,472.19
+313,Benin,XOF,2010,495.28
+314,Benin,XOF,2011,471.87
+315,Benin,XOF,2012,510.53
+316,Benin,XOF,2013,494.04
+317,Benin,XOF,2014,494.41
+318,Benin,XOF,2015,591.45
+319,Benin,XOF,2016,593.01
+320,Bhutan,BTN,2001,47.19
+321,Bhutan,BTN,2002,48.61
+322,Bhutan,BTN,2003,46.58
+323,Bhutan,BTN,2004,45.32
+324,Bhutan,BTN,2005,44.1
+325,Bhutan,BTN,2006,45.31
+326,Bhutan,BTN,2007,41.35
+327,Bhutan,BTN,2008,43.51
+328,Bhutan,BTN,2009,48.41
+329,Bhutan,BTN,2010,45.73
+330,Bhutan,BTN,2011,46.67
+331,Bhutan,BTN,2012,53.44
+332,Bhutan,BTN,2013,58.6
+333,Bhutan,BTN,2014,61.03
+334,Bhutan,BTN,2015,64.15
+335,Bhutan,BTN,2016,67.2
+336,Bolivia,BOB,2001,6.61
+337,Bolivia,BOB,2002,7.17
+338,Bolivia,BOB,2003,7.66
+339,Bolivia,BOB,2004,7.94
+340,Bolivia,BOB,2005,8.07
+341,Bolivia,BOB,2006,8.01
+342,Bolivia,BOB,2007,7.85
+343,Bolivia,BOB,2008,7.24
+344,Bolivia,BOB,2009,7.02
+345,Bolivia,BOB,2010,7.02
+346,Bolivia,BOB,2011,6.94
+347,Bolivia,BOB,2012,6.91
+348,Bolivia,BOB,2013,6.91
+349,Bolivia,BOB,2014,6.91
+350,Bolivia,BOB,2015,6.91
+351,Bolivia,BOB,2016,6.91
+352,Bosnia and Herzegovina,BAM,2001,2.19
+353,Bosnia and Herzegovina,BAM,2002,2.08
+354,Bosnia and Herzegovina,BAM,2003,1.73
+355,Bosnia and Herzegovina,BAM,2004,1.58
+356,Bosnia and Herzegovina,BAM,2005,1.57
+357,Bosnia and Herzegovina,BAM,2006,1.56
+358,Bosnia and Herzegovina,BAM,2007,1.43
+359,Bosnia and Herzegovina,BAM,2008,1.34
+360,Bosnia and Herzegovina,BAM,2009,1.41
+361,Bosnia and Herzegovina,BAM,2010,1.47
+362,Bosnia and Herzegovina,BAM,2011,1.41
+363,Bosnia and Herzegovina,BAM,2012,1.52
+364,Bosnia and Herzegovina,BAM,2013,1.47
+365,Bosnia and Herzegovina,BAM,2014,1.47
+366,Bosnia and Herzegovina,BAM,2015,1.76
+367,Bosnia and Herzegovina,BAM,2016,1.77
+368,Botswana,BWP,2001,5.84
+369,Botswana,BWP,2002,6.33
+370,Botswana,BWP,2003,4.95
+371,Botswana,BWP,2004,4.69
+372,Botswana,BWP,2005,5.12
+373,Botswana,BWP,2006,5.83
+374,Botswana,BWP,2007,6.14
+375,Botswana,BWP,2008,6.83
+376,Botswana,BWP,2009,7.16
+377,Botswana,BWP,2010,6.79
+378,Botswana,BWP,2011,6.84
+379,Botswana,BWP,2012,6.84
+380,Botswana,BWP,2013,8.4
+381,Botswana,BWP,2014,8.98
+382,Botswana,BWP,2015,10.13
+383,Botswana,BWP,2016,10.9
+384,Brazil,BRL,2001,2.35
+385,Brazil,BRL,2002,2.92
+386,Brazil,BRL,2003,3.08
+387,Brazil,BRL,2004,2.93
+388,Brazil,BRL,2005,2.43
+389,Brazil,BRL,2006,2.18
+390,Brazil,BRL,2007,1.95
+391,Brazil,BRL,2008,1.84
+392,Brazil,BRL,2009,2.0
+393,Brazil,BRL,2010,1.76
+394,Brazil,BRL,2011,1.67
+395,Brazil,BRL,2012,1.95
+396,Brazil,BRL,2013,2.16
+397,Brazil,BRL,2014,2.35
+398,Brazil,BRL,2015,3.34
+399,Brazil,BRL,2016,3.48
+400,Brunei,BND,2001,1.79
+401,Brunei,BND,2002,1.79
+402,Brunei,BND,2003,1.74
+403,Brunei,BND,2004,1.69
+404,Brunei,BND,2005,1.66
+405,Brunei,BND,2006,1.59
+406,Brunei,BND,2007,1.51
+407,Brunei,BND,2008,1.41
+408,Brunei,BND,2009,1.45
+409,Brunei,BND,2010,1.37
+410,Brunei,BND,2011,1.26
+411,Brunei,BND,2012,1.25
+412,Brunei,BND,2013,1.25
+413,Brunei,BND,2014,1.27
+414,Brunei,BND,2015,1.38
+415,Brunei,BND,2016,1.38
+416,Bulgaria,BGN,2001,2.18
+417,Bulgaria,BGN,2002,2.07
+418,Bulgaria,BGN,2003,1.73
+419,Bulgaria,BGN,2004,1.57
+420,Bulgaria,BGN,2005,1.57
+421,Bulgaria,BGN,2006,1.56
+422,Bulgaria,BGN,2007,1.43
+423,Bulgaria,BGN,2008,1.34
+424,Bulgaria,BGN,2009,1.41
+425,Bulgaria,BGN,2010,1.48
+426,Bulgaria,BGN,2011,1.41
+427,Bulgaria,BGN,2012,1.52
+428,Bulgaria,BGN,2013,1.47
+429,Bulgaria,BGN,2014,1.47
+430,Bulgaria,BGN,2015,1.76
+431,Bulgaria,BGN,2016,1.77
+432,Burkina Faso,XOF,2001,733.04
+433,Burkina Faso,XOF,2002,696.99
+434,Burkina Faso,XOF,2003,581.2
+435,Burkina Faso,XOF,2004,528.28
+436,Burkina Faso,XOF,2005,527.47
+437,Burkina Faso,XOF,2006,522.89
+438,Burkina Faso,XOF,2007,479.27
+439,Burkina Faso,XOF,2008,447.81
+440,Burkina Faso,XOF,2009,472.19
+441,Burkina Faso,XOF,2010,495.28
+442,Burkina Faso,XOF,2011,471.87
+443,Burkina Faso,XOF,2012,510.53
+444,Burkina Faso,XOF,2013,494.04
+445,Burkina Faso,XOF,2014,494.41
+446,Burkina Faso,XOF,2015,591.45
+447,Burkina Faso,XOF,2016,593.01
+448,Burundi,BIF,2001,830.35
+449,Burundi,BIF,2002,930.75
+450,Burundi,BIF,2003,1082.62
+451,Burundi,BIF,2004,1100.9
+452,Burundi,BIF,2005,1081.58
+453,Burundi,BIF,2006,1028.68
+454,Burundi,BIF,2007,1081.87
+455,Burundi,BIF,2008,1185.69
+456,Burundi,BIF,2009,1230.18
+457,Burundi,BIF,2010,1230.75
+458,Burundi,BIF,2011,1261.07
+459,Burundi,BIF,2012,1442.51
+460,Burundi,BIF,2013,1555.09
+461,Burundi,BIF,2014,1546.69
+462,Burundi,BIF,2015,1571.9
+463,Burundi,BIF,2016,1654.63
+464,Cambodia,KHR,2001,3916.33
+465,Cambodia,KHR,2002,3912.08
+466,Cambodia,KHR,2003,3973.33
+467,Cambodia,KHR,2004,4016.25
+468,Cambodia,KHR,2005,4092.5
+469,Cambodia,KHR,2006,4103.25
+470,Cambodia,KHR,2007,4056.17
+471,Cambodia,KHR,2008,4054.17
+472,Cambodia,KHR,2009,4139.33
+473,Cambodia,KHR,2010,4184.92
+474,Cambodia,KHR,2011,4058.5
+475,Cambodia,KHR,2012,4033.0
+476,Cambodia,KHR,2013,4027.25
+477,Cambodia,KHR,2014,4037.5
+478,Cambodia,KHR,2015,4067.75
+479,Cambodia,KHR,2016,4058.69
+480,Cameroon,XAF,2001,733.04
+481,Cameroon,XAF,2002,696.99
+482,Cameroon,XAF,2003,581.2
+483,Cameroon,XAF,2004,528.28
+484,Cameroon,XAF,2005,527.47
+485,Cameroon,XAF,2006,522.89
+486,Cameroon,XAF,2007,479.27
+487,Cameroon,XAF,2008,447.81
+488,Cameroon,XAF,2009,472.19
+489,Cameroon,XAF,2010,495.28
+490,Cameroon,XAF,2011,471.87
+491,Cameroon,XAF,2012,510.53
+492,Cameroon,XAF,2013,494.04
+493,Cameroon,XAF,2014,494.41
+494,Cameroon,XAF,2015,591.45
+495,Cameroon,XAF,2016,593.01
+496,Canada,CAD,2001,1.55
+497,Canada,CAD,2002,1.57
+498,Canada,CAD,2003,1.4
+499,Canada,CAD,2004,1.3
+500,Canada,CAD,2005,1.21
+501,Canada,CAD,2006,1.13
+502,Canada,CAD,2007,1.07
+503,Canada,CAD,2008,1.07
+504,Canada,CAD,2009,1.14
+505,Canada,CAD,2010,1.03
+506,Canada,CAD,2011,0.99
+507,Canada,CAD,2012,1.0
+508,Canada,CAD,2013,1.03
+509,Canada,CAD,2014,1.1
+510,Canada,CAD,2015,1.28
+511,Canada,CAD,2016,1.32
+512,Cape Verde,CVE,2001,123.21
+513,Cape Verde,CVE,2002,117.26
+514,Cape Verde,CVE,2003,97.79
+515,Cape Verde,CVE,2004,88.75
+516,Cape Verde,CVE,2005,88.65
+517,Cape Verde,CVE,2006,87.93
+518,Cape Verde,CVE,2007,80.62
+519,Cape Verde,CVE,2008,75.34
+520,Cape Verde,CVE,2009,80.04
+521,Cape Verde,CVE,2010,83.28
+522,Cape Verde,CVE,2011,79.28
+523,Cape Verde,CVE,2012,86.32
+524,Cape Verde,CVE,2013,83.07
+525,Cape Verde,CVE,2014,83.03
+526,Cape Verde,CVE,2015,99.39
+527,Cape Verde,CVE,2016,99.69
+528,Cayman Islands,KYD,2001,1.2
+529,Cayman Islands,KYD,2002,1.2
+530,Cayman Islands,KYD,2003,1.2
+531,Cayman Islands,KYD,2004,1.2
+532,Cayman Islands,KYD,2005,1.2
+533,Cayman Islands,KYD,2006,1.2
+534,Cayman Islands,KYD,2007,1.2
+535,Cayman Islands,KYD,2008,1.2
+536,Cayman Islands,KYD,2009,1.2
+537,Cayman Islands,KYD,2010,1.2
+538,Cayman Islands,KYD,2011,1.2
+539,Cayman Islands,KYD,2012,1.2
+540,Cayman Islands,KYD,2013,1.2
+541,Cayman Islands,KYD,2014,1.2
+542,Cayman Islands,KYD,2015,1.2
+543,Cayman Islands,KYD,2016,1.2
+544,Central African Republic,XAF,2001,733.04
+545,Central African Republic,XAF,2002,696.99
+546,Central African Republic,XAF,2003,581.2
+547,Central African Republic,XAF,2004,528.28
+548,Central African Republic,XAF,2005,527.47
+549,Central African Republic,XAF,2006,522.89
+550,Central African Republic,XAF,2007,479.27
+551,Central African Republic,XAF,2008,447.81
+552,Central African Republic,XAF,2009,472.19
+553,Central African Republic,XAF,2010,495.28
+554,Central African Republic,XAF,2011,471.87
+555,Central African Republic,XAF,2012,510.53
+556,Central African Republic,XAF,2013,494.04
+557,Central African Republic,XAF,2014,494.41
+558,Central African Republic,XAF,2015,591.45
+559,Central African Republic,XAF,2016,593.01
+560,Chad,XAF,2001,733.04
+561,Chad,XAF,2002,696.99
+562,Chad,XAF,2003,581.2
+563,Chad,XAF,2004,528.28
+564,Chad,XAF,2005,527.47
+565,Chad,XAF,2006,522.89
+566,Chad,XAF,2007,479.27
+567,Chad,XAF,2008,447.81
+568,Chad,XAF,2009,472.19
+569,Chad,XAF,2010,495.28
+570,Chad,XAF,2011,471.87
+571,Chad,XAF,2012,510.53
+572,Chad,XAF,2013,494.04
+573,Chad,XAF,2014,494.41
+574,Chad,XAF,2015,591.45
+575,Chad,XAF,2016,593.01
+576,Chile,CLP,2001,634.43
+577,Chile,CLP,2002,689.24
+578,Chile,CLP,2003,691.54
+579,Chile,CLP,2004,609.55
+580,Chile,CLP,2005,559.86
+581,Chile,CLP,2006,530.26
+582,Chile,CLP,2007,522.69
+583,Chile,CLP,2008,521.79
+584,Chile,CLP,2009,559.67
+585,Chile,CLP,2010,510.38
+586,Chile,CLP,2011,483.36
+587,Chile,CLP,2012,486.75
+588,Chile,CLP,2013,495.0
+589,Chile,CLP,2014,570.01
+590,Chile,CLP,2015,654.25
+591,Chile,CLP,2016,676.83
+592,China,CNY,2001,8.28
+593,China,CNY,2002,8.28
+594,China,CNY,2003,8.28
+595,China,CNY,2004,8.28
+596,China,CNY,2005,8.19
+597,China,CNY,2006,7.97
+598,China,CNY,2007,7.61
+599,China,CNY,2008,6.95
+600,China,CNY,2009,6.83
+601,China,CNY,2010,6.77
+602,China,CNY,2011,6.46
+603,China,CNY,2012,6.31
+604,China,CNY,2013,6.15
+605,China,CNY,2014,6.16
+606,China,CNY,2015,6.29
+607,China,CNY,2016,6.64
+608,Chinese Taipei,TWD,2001,33.82
+609,Chinese Taipei,TWD,2002,34.57
+610,Chinese Taipei,TWD,2003,34.41
+611,Chinese Taipei,TWD,2004,33.42
+612,Chinese Taipei,TWD,2005,32.18
+613,Chinese Taipei,TWD,2006,32.53
+614,Chinese Taipei,TWD,2007,32.85
+615,Chinese Taipei,TWD,2008,31.54
+616,Chinese Taipei,TWD,2009,33.04
+617,Chinese Taipei,TWD,2010,31.53
+618,Chinese Taipei,TWD,2011,29.4
+619,Chinese Taipei,TWD,2012,29.58
+620,Chinese Taipei,TWD,2013,29.69
+621,Chinese Taipei,TWD,2014,30.31
+622,Chinese Taipei,TWD,2015,31.77
+623,Chinese Taipei,TWD,2016,32.24
+624,Colombia,COP,2001,2300.1
+625,Colombia,COP,2002,2506.55
+626,Colombia,COP,2003,2875.91
+627,Colombia,COP,2004,2628.47
+628,Colombia,COP,2005,2321.49
+629,Colombia,COP,2006,2358.96
+630,Colombia,COP,2007,2076.24
+631,Colombia,COP,2008,1967.11
+632,Colombia,COP,2009,2153.3
+633,Colombia,COP,2010,1898.68
+634,Colombia,COP,2011,1846.97
+635,Colombia,COP,2012,1797.79
+636,Colombia,COP,2013,1869.1
+637,Colombia,COP,2014,2000.33
+638,Colombia,COP,2015,2743.39
+639,Colombia,COP,2016,3050.98
+640,Comoros,KMF,2001,549.78
+641,Comoros,KMF,2002,522.74
+642,Comoros,KMF,2003,435.9
+643,Comoros,KMF,2004,396.21
+644,Comoros,KMF,2005,395.6
+645,Comoros,KMF,2006,392.17
+646,Comoros,KMF,2007,359.45
+647,Comoros,KMF,2008,335.85
+648,Comoros,KMF,2009,354.14
+649,Comoros,KMF,2010,371.46
+650,Comoros,KMF,2011,353.9
+651,Comoros,KMF,2012,382.9
+652,Comoros,KMF,2013,370.53
+653,Comoros,KMF,2014,370.81
+654,Comoros,KMF,2015,443.59
+655,Comoros,KMF,2016,444.76
+656,Congo,XAF,2001,733.04
+657,Congo,XAF,2002,696.99
+658,Congo,XAF,2003,581.2
+659,Congo,XAF,2004,528.28
+660,Congo,XAF,2005,527.47
+661,Congo,XAF,2006,522.89
+662,Congo,XAF,2007,479.27
+663,Congo,XAF,2008,447.81
+664,Congo,XAF,2009,472.19
+665,Congo,XAF,2010,495.28
+666,Congo,XAF,2011,471.87
+667,Congo,XAF,2012,510.53
+668,Congo,XAF,2013,494.04
+669,Congo,XAF,2014,494.41
+670,Congo,XAF,2015,591.45
+671,Congo,XAF,2016,593.01
+672,Democratic Republic of the Congo,CDF,2001,206.62
+673,Democratic Republic of the Congo,CDF,2002,346.48
+674,Democratic Republic of the Congo,CDF,2003,405.18
+675,Democratic Republic of the Congo,CDF,2004,399.48
+676,Democratic Republic of the Congo,CDF,2005,473.91
+677,Democratic Republic of the Congo,CDF,2006,468.28
+678,Democratic Republic of the Congo,CDF,2007,516.75
+679,Democratic Republic of the Congo,CDF,2008,559.29
+680,Democratic Republic of the Congo,CDF,2009,809.79
+681,Democratic Republic of the Congo,CDF,2010,905.91
+682,Democratic Republic of the Congo,CDF,2011,919.49
+683,Democratic Republic of the Congo,CDF,2012,919.76
+684,Democratic Republic of the Congo,CDF,2013,919.57
+685,Democratic Republic of the Congo,CDF,2014,925.23
+686,Democratic Republic of the Congo,CDF,2015,925.98
+687,Democratic Republic of the Congo,CDF,2016,1010.3
+688,Costa Rica,CRC,2001,328.87
+689,Costa Rica,CRC,2002,359.82
+690,Costa Rica,CRC,2003,398.66
+691,Costa Rica,CRC,2004,437.94
+692,Costa Rica,CRC,2005,477.79
+693,Costa Rica,CRC,2006,511.3
+694,Costa Rica,CRC,2007,516.62
+695,Costa Rica,CRC,2008,526.24
+696,Costa Rica,CRC,2009,573.29
+697,Costa Rica,CRC,2010,525.83
+698,Costa Rica,CRC,2011,505.66
+699,Costa Rica,CRC,2012,502.9
+700,Costa Rica,CRC,2013,499.77
+701,Costa Rica,CRC,2014,538.32
+702,Costa Rica,CRC,2015,534.57
+703,Costa Rica,CRC,2016,544.74
+704,Cote d'Ivoire,XOF,2001,733.04
+705,Cote d'Ivoire,XOF,2002,696.99
+706,Cote d'Ivoire,XOF,2003,581.2
+707,Cote d'Ivoire,XOF,2004,528.28
+708,Cote d'Ivoire,XOF,2005,527.47
+709,Cote d'Ivoire,XOF,2006,522.89
+710,Cote d'Ivoire,XOF,2007,479.27
+711,Cote d'Ivoire,XOF,2008,447.81
+712,Cote d'Ivoire,XOF,2009,472.19
+713,Cote d'Ivoire,XOF,2010,495.28
+714,Cote d'Ivoire,XOF,2011,471.87
+715,Cote d'Ivoire,XOF,2012,510.53
+716,Cote d'Ivoire,XOF,2013,494.04
+717,Cote d'Ivoire,XOF,2014,494.41
+718,Cote d'Ivoire,XOF,2015,591.45
+719,Cote d'Ivoire,XOF,2016,593.01
+720,Croatia,HRK,2001,8.36
+721,Croatia,HRK,2002,7.87
+722,Croatia,HRK,2003,6.7
+723,Croatia,HRK,2004,6.03
+724,Croatia,HRK,2005,5.96
+725,Croatia,HRK,2006,5.84
+726,Croatia,HRK,2007,5.36
+727,Croatia,HRK,2008,4.94
+728,Croatia,HRK,2009,5.28
+729,Croatia,HRK,2010,5.51
+730,Croatia,HRK,2011,5.35
+731,Croatia,HRK,2012,5.86
+732,Croatia,HRK,2013,5.71
+733,Croatia,HRK,2014,5.76
+734,Croatia,HRK,2015,6.87
+735,Croatia,HRK,2016,6.81
+736,Cyprus,EUR,2001,1.1
+737,Cyprus,EUR,2002,1.04
+738,Cyprus,EUR,2003,0.88
+739,Cyprus,EUR,2004,0.8
+740,Cyprus,EUR,2005,0.79
+741,Cyprus,EUR,2006,0.78
+742,Cyprus,EUR,2007,0.73
+743,Cyprus,EUR,2008,0.68
+744,Cyprus,EUR,2009,0.72
+745,Cyprus,EUR,2010,0.76
+746,Cyprus,EUR,2011,0.72
+747,Cyprus,EUR,2012,0.78
+748,Cyprus,EUR,2013,0.75
+749,Cyprus,EUR,2014,0.75
+750,Cyprus,EUR,2015,0.9
+751,Cyprus,EUR,2016,0.9
+752,Czech Republic,CZK,2001,38.06
+753,Czech Republic,CZK,2002,32.7
+754,Czech Republic,CZK,2003,28.2
+755,Czech Republic,CZK,2004,25.68
+756,Czech Republic,CZK,2005,23.97
+757,Czech Republic,CZK,2006,22.6
+758,Czech Republic,CZK,2007,20.3
+759,Czech Republic,CZK,2008,17.06
+760,Czech Republic,CZK,2009,19.03
+761,Czech Republic,CZK,2010,19.11
+762,Czech Republic,CZK,2011,17.69
+763,Czech Republic,CZK,2012,19.59
+764,Czech Republic,CZK,2013,19.57
+765,Czech Republic,CZK,2014,20.76
+766,Czech Republic,CZK,2015,24.6
+767,Czech Republic,CZK,2016,24.44
+768,Denmark,DKK,2001,8.33
+769,Denmark,DKK,2002,7.88
+770,Denmark,DKK,2003,6.58
+771,Denmark,DKK,2004,5.99
+772,Denmark,DKK,2005,6.0
+773,Denmark,DKK,2006,5.95
+774,Denmark,DKK,2007,5.44
+775,Denmark,DKK,2008,5.1
+776,Denmark,DKK,2009,5.35
+777,Denmark,DKK,2010,5.63
+778,Denmark,DKK,2011,5.36
+779,Denmark,DKK,2012,5.8
+780,Denmark,DKK,2013,5.62
+781,Denmark,DKK,2014,5.62
+782,Denmark,DKK,2015,6.73
+783,Denmark,DKK,2016,6.73
+784,Djibouti,DJF,2001,177.72
+785,Djibouti,DJF,2002,177.72
+786,Djibouti,DJF,2003,177.72
+787,Djibouti,DJF,2004,177.72
+788,Djibouti,DJF,2005,177.72
+789,Djibouti,DJF,2006,177.72
+790,Djibouti,DJF,2007,177.72
+791,Djibouti,DJF,2008,177.72
+792,Djibouti,DJF,2009,177.72
+793,Djibouti,DJF,2010,177.72
+794,Djibouti,DJF,2011,177.72
+795,Djibouti,DJF,2012,177.72
+796,Djibouti,DJF,2013,177.72
+797,Djibouti,DJF,2014,177.72
+798,Djibouti,DJF,2015,177.72
+799,Djibouti,DJF,2016,177.72
+800,Dominica,XCD,2001,2.7
+801,Dominica,XCD,2002,2.7
+802,Dominica,XCD,2003,2.7
+803,Dominica,XCD,2004,2.7
+804,Dominica,XCD,2005,2.7
+805,Dominica,XCD,2006,2.7
+806,Dominica,XCD,2007,2.7
+807,Dominica,XCD,2008,2.7
+808,Dominica,XCD,2009,2.7
+809,Dominica,XCD,2010,2.7
+810,Dominica,XCD,2011,2.7
+811,Dominica,XCD,2012,2.7
+812,Dominica,XCD,2013,2.7
+813,Dominica,XCD,2014,2.7
+814,Dominica,XCD,2015,2.7
+815,Dominica,XCD,2016,2.7
+816,Dominican Republic,DOP,2001,16.95
+817,Dominican Republic,DOP,2002,18.61
+818,Dominican Republic,DOP,2003,30.83
+819,Dominican Republic,DOP,2004,42.1
+820,Dominican Republic,DOP,2005,30.51
+821,Dominican Republic,DOP,2006,33.25
+822,Dominican Republic,DOP,2007,33.31
+823,Dominican Republic,DOP,2008,34.87
+824,Dominican Republic,DOP,2009,36.11
+825,Dominican Republic,DOP,2010,37.31
+826,Dominican Republic,DOP,2011,38.23
+827,Dominican Republic,DOP,2012,39.34
+828,Dominican Republic,DOP,2013,41.81
+829,Dominican Republic,DOP,2014,43.56
+830,Dominican Republic,DOP,2015,45.05
+831,Dominican Republic,DOP,2016,46.08
+832,Egypt,EGP,2001,3.97
+833,Egypt,EGP,2002,4.5
+834,Egypt,EGP,2003,5.85
+835,Egypt,EGP,2004,6.2
+836,Egypt,EGP,2005,5.78
+837,Egypt,EGP,2006,5.73
+838,Egypt,EGP,2007,5.64
+839,Egypt,EGP,2008,5.43
+840,Egypt,EGP,2009,5.54
+841,Egypt,EGP,2010,5.62
+842,Egypt,EGP,2011,5.93
+843,Egypt,EGP,2012,6.06
+844,Egypt,EGP,2013,6.87
+845,Egypt,EGP,2014,7.08
+846,Egypt,EGP,2015,7.69
+847,Egypt,EGP,2016,10.03
+848,El Salvador,SVC,2001,8.75
+849,El Salvador,SVC,2002,8.75
+850,El Salvador,SVC,2003,8.75
+851,El Salvador,SVC,2004,8.75
+852,El Salvador,SVC,2005,8.75
+853,El Salvador,SVC,2006,8.75
+854,El Salvador,SVC,2007,8.75
+855,El Salvador,SVC,2008,8.75
+856,El Salvador,SVC,2009,8.75
+857,El Salvador,SVC,2010,8.75
+858,El Salvador,SVC,2011,8.75
+859,El Salvador,SVC,2012,8.75
+860,El Salvador,SVC,2013,8.75
+861,El Salvador,SVC,2014,8.75
+862,El Salvador,SVC,2015,8.75
+863,El Salvador,SVC,2016,8.75
+864,Equatorial Guinea,XAF,2001,733.04
+865,Equatorial Guinea,XAF,2002,696.99
+866,Equatorial Guinea,XAF,2003,581.2
+867,Equatorial Guinea,XAF,2004,528.28
+868,Equatorial Guinea,XAF,2005,527.47
+869,Equatorial Guinea,XAF,2006,522.89
+870,Equatorial Guinea,XAF,2007,479.27
+871,Equatorial Guinea,XAF,2008,447.81
+872,Equatorial Guinea,XAF,2009,472.19
+873,Equatorial Guinea,XAF,2010,495.28
+874,Equatorial Guinea,XAF,2011,471.87
+875,Equatorial Guinea,XAF,2012,510.53
+876,Equatorial Guinea,XAF,2013,494.04
+877,Equatorial Guinea,XAF,2014,494.41
+878,Equatorial Guinea,XAF,2015,591.45
+879,Equatorial Guinea,XAF,2016,593.01
+880,Eritrea,ERN,2001,11.31
+881,Eritrea,ERN,2002,13.96
+882,Eritrea,ERN,2003,13.88
+883,Eritrea,ERN,2004,13.79
+884,Eritrea,ERN,2005,15.37
+885,Eritrea,ERN,2006,15.38
+886,Eritrea,ERN,2007,15.38
+887,Eritrea,ERN,2008,15.38
+888,Eritrea,ERN,2009,15.38
+889,Eritrea,ERN,2010,15.38
+890,Eritrea,ERN,2011,15.38
+891,Eritrea,ERN,2012,15.38
+892,Eritrea,ERN,2013,15.38
+893,Eritrea,ERN,2014,15.38
+894,Eritrea,ERN,2015,15.38
+895,Eritrea,ERN,2016,15.38
+896,Estonia,EUR,2001,1.12
+897,Estonia,EUR,2002,1.06
+898,Estonia,EUR,2003,0.89
+899,Estonia,EUR,2004,0.8
+900,Estonia,EUR,2005,0.81
+901,Estonia,EUR,2006,0.8
+902,Estonia,EUR,2007,0.73
+903,Estonia,EUR,2008,0.68
+904,Estonia,EUR,2009,0.72
+905,Estonia,EUR,2010,0.76
+906,Estonia,EUR,2011,0.72
+907,Estonia,EUR,2012,0.78
+908,Estonia,EUR,2013,0.75
+909,Estonia,EUR,2014,0.75
+910,Estonia,EUR,2015,0.9
+911,Estonia,EUR,2016,0.9
+912,Ethiopia,ETB,2001,8.46
+913,Ethiopia,ETB,2002,8.57
+914,Ethiopia,ETB,2003,8.6
+915,Ethiopia,ETB,2004,8.64
+916,Ethiopia,ETB,2005,8.67
+917,Ethiopia,ETB,2006,8.7
+918,Ethiopia,ETB,2007,8.97
+919,Ethiopia,ETB,2008,9.6
+920,Ethiopia,ETB,2009,11.78
+921,Ethiopia,ETB,2010,14.41
+922,Ethiopia,ETB,2011,16.9
+923,Ethiopia,ETB,2012,17.7
+924,Ethiopia,ETB,2013,18.63
+925,Ethiopia,ETB,2014,19.59
+926,Ethiopia,ETB,2015,20.58
+927,Ethiopia,ETB,2016,21.73
+928,Euro area,EUR,2001,1.12
+929,Euro area,EUR,2002,1.06
+930,Euro area,EUR,2003,0.89
+931,Euro area,EUR,2004,0.8
+932,Euro area,EUR,2005,0.81
+933,Euro area,EUR,2006,0.8
+934,Euro area,EUR,2007,0.73
+935,Euro area,EUR,2008,0.68
+936,Euro area,EUR,2009,0.72
+937,Euro area,EUR,2010,0.76
+938,Euro area,EUR,2011,0.72
+939,Euro area,EUR,2012,0.78
+940,Euro area,EUR,2013,0.75
+941,Euro area,EUR,2014,0.75
+942,Euro area,EUR,2015,0.9
+943,Euro area,EUR,2016,0.9
+944,Fiji,FJD,2001,2.28
+945,Fiji,FJD,2002,2.19
+946,Fiji,FJD,2003,1.9
+947,Fiji,FJD,2004,1.73
+948,Fiji,FJD,2005,1.69
+949,Fiji,FJD,2006,1.73
+950,Fiji,FJD,2007,1.61
+951,Fiji,FJD,2008,1.59
+952,Fiji,FJD,2009,1.96
+953,Fiji,FJD,2010,1.92
+954,Fiji,FJD,2011,1.79
+955,Fiji,FJD,2012,1.79
+956,Fiji,FJD,2013,1.84
+957,Fiji,FJD,2014,1.89
+958,Fiji,FJD,2015,2.1
+959,Fiji,FJD,2016,2.09
+960,Finland,EUR,2001,1.12
+961,Finland,EUR,2002,1.06
+962,Finland,EUR,2003,0.89
+963,Finland,EUR,2004,0.8
+964,Finland,EUR,2005,0.81
+965,Finland,EUR,2006,0.8
+966,Finland,EUR,2007,0.73
+967,Finland,EUR,2008,0.68
+968,Finland,EUR,2009,0.72
+969,Finland,EUR,2010,0.76
+970,Finland,EUR,2011,0.72
+971,Finland,EUR,2012,0.78
+972,Finland,EUR,2013,0.75
+973,Finland,EUR,2014,0.75
+974,Finland,EUR,2015,0.9
+975,Finland,EUR,2016,0.9
+976,France,EUR,2001,1.12
+977,France,EUR,2002,1.06
+978,France,EUR,2003,0.89
+979,France,EUR,2004,0.8
+980,France,EUR,2005,0.81
+981,France,EUR,2006,0.8
+982,France,EUR,2007,0.73
+983,France,EUR,2008,0.68
+984,France,EUR,2009,0.72
+985,France,EUR,2010,0.76
+986,France,EUR,2011,0.72
+987,France,EUR,2012,0.78
+988,France,EUR,2013,0.75
+989,France,EUR,2014,0.75
+990,France,EUR,2015,0.9
+991,France,EUR,2016,0.9
+992,Gabon,XAF,2001,733.04
+993,Gabon,XAF,2002,696.99
+994,Gabon,XAF,2003,581.2
+995,Gabon,XAF,2004,528.28
+996,Gabon,XAF,2005,527.47
+997,Gabon,XAF,2006,522.89
+998,Gabon,XAF,2007,479.27
+999,Gabon,XAF,2008,447.81
+1000,Gabon,XAF,2009,472.19
+1001,Gabon,XAF,2010,495.28
+1002,Gabon,XAF,2011,471.87
+1003,Gabon,XAF,2012,510.53
+1004,Gabon,XAF,2013,494.04
+1005,Gabon,XAF,2014,494.41
+1006,Gabon,XAF,2015,591.45
+1007,Gabon,XAF,2016,593.01
+1008,Gambia,GMD,2001,15.69
+1009,Gambia,GMD,2002,19.92
+1010,Gambia,GMD,2003,28.53
+1011,Gambia,GMD,2004,30.03
+1012,Gambia,GMD,2005,28.58
+1013,Gambia,GMD,2006,28.07
+1014,Gambia,GMD,2007,24.87
+1015,Gambia,GMD,2008,22.19
+1016,Gambia,GMD,2009,26.64
+1017,Gambia,GMD,2010,28.01
+1018,Gambia,GMD,2011,29.46
+1019,Gambia,GMD,2012,32.08
+1020,Gambia,GMD,2013,35.96
+1021,Gambia,GMD,2014,41.73
+1022,Gambia,GMD,2015,42.51
+1023,Gambia,GMD,2016,43.88
+1024,Georgia,GEL,2001,2.07
+1025,Georgia,GEL,2002,2.2
+1026,Georgia,GEL,2003,2.15
+1027,Georgia,GEL,2004,1.92
+1028,Georgia,GEL,2005,1.81
+1029,Georgia,GEL,2006,1.78
+1030,Georgia,GEL,2007,1.67
+1031,Georgia,GEL,2008,1.49
+1032,Georgia,GEL,2009,1.67
+1033,Georgia,GEL,2010,1.78
+1034,Georgia,GEL,2011,1.69
+1035,Georgia,GEL,2012,1.65
+1036,Georgia,GEL,2013,1.66
+1037,Georgia,GEL,2014,1.77
+1038,Georgia,GEL,2015,2.27
+1039,Georgia,GEL,2016,2.37
+1040,Germany,EUR,2001,1.12
+1041,Germany,EUR,2002,1.06
+1042,Germany,EUR,2003,0.89
+1043,Germany,EUR,2004,0.8
+1044,Germany,EUR,2005,0.81
+1045,Germany,EUR,2006,0.8
+1046,Germany,EUR,2007,0.73
+1047,Germany,EUR,2008,0.68
+1048,Germany,EUR,2009,0.72
+1049,Germany,EUR,2010,0.76
+1050,Germany,EUR,2011,0.72
+1051,Germany,EUR,2012,0.78
+1052,Germany,EUR,2013,0.75
+1053,Germany,EUR,2014,0.75
+1054,Germany,EUR,2015,0.9
+1055,Germany,EUR,2016,0.9
+1056,Ghana,GHS,2001,0.72
+1057,Ghana,GHS,2002,0.79
+1058,Ghana,GHS,2003,0.87
+1059,Ghana,GHS,2004,0.9
+1060,Ghana,GHS,2005,0.91
+1061,Ghana,GHS,2006,0.92
+1062,Ghana,GHS,2007,0.94
+1063,Ghana,GHS,2008,1.06
+1064,Ghana,GHS,2009,1.41
+1065,Ghana,GHS,2010,1.43
+1066,Ghana,GHS,2011,1.51
+1067,Ghana,GHS,2012,1.8
+1068,Ghana,GHS,2013,1.95
+1069,Ghana,GHS,2014,2.9
+1070,Ghana,GHS,2015,3.67
+1071,Ghana,GHS,2016,3.91
+1072,Greece,EUR,2001,1.12
+1073,Greece,EUR,2002,1.06
+1074,Greece,EUR,2003,0.89
+1075,Greece,EUR,2004,0.8
+1076,Greece,EUR,2005,0.81
+1077,Greece,EUR,2006,0.8
+1078,Greece,EUR,2007,0.73
+1079,Greece,EUR,2008,0.68
+1080,Greece,EUR,2009,0.72
+1081,Greece,EUR,2010,0.76
+1082,Greece,EUR,2011,0.72
+1083,Greece,EUR,2012,0.78
+1084,Greece,EUR,2013,0.75
+1085,Greece,EUR,2014,0.75
+1086,Greece,EUR,2015,0.9
+1087,Greece,EUR,2016,0.9
+1088,Grenada,XCD,2001,2.7
+1089,Grenada,XCD,2002,2.7
+1090,Grenada,XCD,2003,2.7
+1091,Grenada,XCD,2004,2.7
+1092,Grenada,XCD,2005,2.7
+1093,Grenada,XCD,2006,2.7
+1094,Grenada,XCD,2007,2.7
+1095,Grenada,XCD,2008,2.7
+1096,Grenada,XCD,2009,2.7
+1097,Grenada,XCD,2010,2.7
+1098,Grenada,XCD,2011,2.7
+1099,Grenada,XCD,2012,2.7
+1100,Grenada,XCD,2013,2.7
+1101,Grenada,XCD,2014,2.7
+1102,Grenada,XCD,2015,2.7
+1103,Grenada,XCD,2016,2.7
+1104,Guatemala,GTQ,2001,7.86
+1105,Guatemala,GTQ,2002,7.82
+1106,Guatemala,GTQ,2003,7.94
+1107,Guatemala,GTQ,2004,7.95
+1108,Guatemala,GTQ,2005,7.63
+1109,Guatemala,GTQ,2006,7.6
+1110,Guatemala,GTQ,2007,7.67
+1111,Guatemala,GTQ,2008,7.56
+1112,Guatemala,GTQ,2009,8.16
+1113,Guatemala,GTQ,2010,8.06
+1114,Guatemala,GTQ,2011,7.79
+1115,Guatemala,GTQ,2012,7.83
+1116,Guatemala,GTQ,2013,7.86
+1117,Guatemala,GTQ,2014,7.73
+1118,Guatemala,GTQ,2015,7.65
+1119,Guatemala,GTQ,2016,7.6
+1120,Guinea,GNF,2001,1950.56
+1121,Guinea,GNF,2002,1975.84
+1122,Guinea,GNF,2003,1984.93
+1123,Guinea,GNF,2004,2243.93
+1124,Guinea,GNF,2005,3644.33
+1125,Guinea,GNF,2006,5148.75
+1126,Guinea,GNF,2007,4197.75
+1127,Guinea,GNF,2008,4601.69
+1128,Guinea,GNF,2009,4801.08
+1129,Guinea,GNF,2010,5726.07
+1130,Guinea,GNF,2011,6658.03
+1131,Guinea,GNF,2012,6985.83
+1132,Guinea,GNF,2013,6907.88
+1133,Guinea,GNF,2014,7014.12
+1134,Guinea,GNF,2015,7485.52
+1135,Guinea,GNF,2016,8959.72
+1136,Guinea-Bissau,XOF,2001,733.04
+1137,Guinea-Bissau,XOF,2002,696.99
+1138,Guinea-Bissau,XOF,2003,581.2
+1139,Guinea-Bissau,XOF,2004,528.28
+1140,Guinea-Bissau,XOF,2005,527.47
+1141,Guinea-Bissau,XOF,2006,522.89
+1142,Guinea-Bissau,XOF,2007,479.27
+1143,Guinea-Bissau,XOF,2008,447.81
+1144,Guinea-Bissau,XOF,2009,472.19
+1145,Guinea-Bissau,XOF,2010,495.28
+1146,Guinea-Bissau,XOF,2011,471.87
+1147,Guinea-Bissau,XOF,2012,510.53
+1148,Guinea-Bissau,XOF,2013,494.04
+1149,Guinea-Bissau,XOF,2014,494.41
+1150,Guinea-Bissau,XOF,2015,591.66
+1151,Guinea-Bissau,XOF,2016,593.08
+1152,Guyana,GYD,2001,187.32
+1153,Guyana,GYD,2002,190.67
+1154,Guyana,GYD,2003,193.88
+1155,Guyana,GYD,2004,198.31
+1156,Guyana,GYD,2005,199.88
+1157,Guyana,GYD,2006,200.19
+1158,Guyana,GYD,2007,202.35
+1159,Guyana,GYD,2008,203.63
+1160,Guyana,GYD,2009,203.95
+1161,Guyana,GYD,2010,203.64
+1162,Guyana,GYD,2011,204.02
+1163,Guyana,GYD,2012,204.36
+1164,Guyana,GYD,2013,205.39
+1165,Guyana,GYD,2014,206.45
+1166,Guyana,GYD,2015,206.5
+1167,Guyana,GYD,2016,206.5
+1168,Haiti,HTG,2001,24.43
+1169,Haiti,HTG,2002,29.25
+1170,Haiti,HTG,2003,42.37
+1171,Haiti,HTG,2004,38.35
+1172,Haiti,HTG,2005,40.45
+1173,Haiti,HTG,2006,40.41
+1174,Haiti,HTG,2007,36.86
+1175,Haiti,HTG,2008,39.11
+1176,Haiti,HTG,2009,41.2
+1177,Haiti,HTG,2010,39.8
+1178,Haiti,HTG,2011,40.52
+1179,Haiti,HTG,2012,41.95
+1180,Haiti,HTG,2013,43.46
+1181,Haiti,HTG,2014,45.22
+1182,Haiti,HTG,2015,50.71
+1183,Haiti,HTG,2016,63.34
+1184,Honduras,HNL,2001,15.48
+1185,Honduras,HNL,2002,16.44
+1186,Honduras,HNL,2003,17.35
+1187,Honduras,HNL,2004,18.21
+1188,Honduras,HNL,2005,18.83
+1189,Honduras,HNL,2006,18.9
+1190,Honduras,HNL,2007,18.9
+1191,Honduras,HNL,2008,18.9
+1192,Honduras,HNL,2009,18.9
+1193,Honduras,HNL,2010,18.9
+1194,Honduras,HNL,2011,18.92
+1195,Honduras,HNL,2012,19.5
+1196,Honduras,HNL,2013,20.35
+1197,Honduras,HNL,2014,20.99
+1198,Honduras,HNL,2015,21.95
+1199,Honduras,HNL,2016,22.84
+1200,Hong Kong SAR,HKD,2001,7.8
+1201,Hong Kong SAR,HKD,2002,7.8
+1202,Hong Kong SAR,HKD,2003,7.79
+1203,Hong Kong SAR,HKD,2004,7.79
+1204,Hong Kong SAR,HKD,2005,7.78
+1205,Hong Kong SAR,HKD,2006,7.77
+1206,Hong Kong SAR,HKD,2007,7.8
+1207,Hong Kong SAR,HKD,2008,7.79
+1208,Hong Kong SAR,HKD,2009,7.75
+1209,Hong Kong SAR,HKD,2010,7.77
+1210,Hong Kong SAR,HKD,2011,7.78
+1211,Hong Kong SAR,HKD,2012,7.76
+1212,Hong Kong SAR,HKD,2013,7.76
+1213,Hong Kong SAR,HKD,2014,7.75
+1214,Hong Kong SAR,HKD,2015,7.75
+1215,Hong Kong SAR,HKD,2016,7.76
+1216,Hungary,HUF,2001,286.59
+1217,Hungary,HUF,2002,257.82
+1218,Hungary,HUF,2003,224.41
+1219,Hungary,HUF,2004,202.57
+1220,Hungary,HUF,2005,199.77
+1221,Hungary,HUF,2006,210.58
+1222,Hungary,HUF,2007,183.67
+1223,Hungary,HUF,2008,172.26
+1224,Hungary,HUF,2009,201.95
+1225,Hungary,HUF,2010,208.38
+1226,Hungary,HUF,2011,201.18
+1227,Hungary,HUF,2012,225.26
+1228,Hungary,HUF,2013,223.61
+1229,Hungary,HUF,2014,232.77
+1230,Hungary,HUF,2015,279.53
+1231,Hungary,HUF,2016,281.51
+1232,Iceland,ISK,2001,97.76
+1233,Iceland,ISK,2002,91.46
+1234,Iceland,ISK,2003,76.76
+1235,Iceland,ISK,2004,70.12
+1236,Iceland,ISK,2005,62.86
+1237,Iceland,ISK,2006,69.78
+1238,Iceland,ISK,2007,64.02
+1239,Iceland,ISK,2008,88.07
+1240,Iceland,ISK,2009,123.59
+1241,Iceland,ISK,2010,122.04
+1242,Iceland,ISK,2011,116.07
+1243,Iceland,ISK,2012,125.05
+1244,Iceland,ISK,2013,122.23
+1245,Iceland,ISK,2014,116.75
+1246,Iceland,ISK,2015,131.85
+1247,Iceland,ISK,2016,120.67
+1248,India,INR,2001,47.17
+1249,India,INR,2002,48.58
+1250,India,INR,2003,46.54
+1251,India,INR,2004,45.27
+1252,India,INR,2005,44.08
+1253,India,INR,2006,45.26
+1254,India,INR,2007,41.23
+1255,India,INR,2008,43.45
+1256,India,INR,2009,48.36
+1257,India,INR,2010,45.72
+1258,India,INR,2011,46.68
+1259,India,INR,2012,53.43
+1260,India,INR,2013,58.64
+1261,India,INR,2014,61.02
+1262,India,INR,2015,64.18
+1263,India,INR,2016,67.2
+1264,Indonesia,IDR,2001,10252.86
+1265,Indonesia,IDR,2002,9315.13
+1266,Indonesia,IDR,2003,8570.07
+1267,Indonesia,IDR,2004,8945.34
+1268,Indonesia,IDR,2005,9714.85
+1269,Indonesia,IDR,2006,9170.49
+1270,Indonesia,IDR,2007,9138.88
+1271,Indonesia,IDR,2008,9682.61
+1272,Indonesia,IDR,2009,10397.55
+1273,Indonesia,IDR,2010,9082.76
+1274,Indonesia,IDR,2011,8775.59
+1275,Indonesia,IDR,2012,9377.96
+1276,Indonesia,IDR,2013,10422.34
+1277,Indonesia,IDR,2014,11864.43
+1278,Indonesia,IDR,2015,13405.44
+1279,Indonesia,IDR,2016,13301.23
+1280,Iran  (Islamic Republic of),IRR,2001,1753.29
+1281,Iran  (Islamic Republic of),IRR,2002,6327.14
+1282,Iran  (Islamic Republic of),IRR,2003,8201.86
+1283,Iran  (Islamic Republic of),IRR,2004,8609.17
+1284,Iran  (Islamic Republic of),IRR,2005,8974.03
+1285,Iran  (Islamic Republic of),IRR,2006,9172.58
+1286,Iran  (Islamic Republic of),IRR,2007,9283.54
+1287,Iran  (Islamic Republic of),IRR,2008,9434.94
+1288,Iran  (Islamic Republic of),IRR,2009,9863.32
+1289,Iran  (Islamic Republic of),IRR,2010,10259.12
+1290,Iran  (Islamic Republic of),IRR,2011,10613.77
+1291,Iran  (Islamic Republic of),IRR,2012,12175.08
+1292,Iran  (Islamic Republic of),IRR,2013,18674.52
+1293,Iran  (Islamic Republic of),IRR,2014,25934.45
+1294,Iran  (Islamic Republic of),IRR,2015,29029.57
+1295,Iran  (Islamic Republic of),IRR,2016,30909.12
+1296,Iraq,IQD,2001,2002.4
+1297,Iraq,IQD,2002,2002.37
+1298,Iraq,IQD,2003,2133.78
+1299,Iraq,IQD,2004,1453.42
+1300,Iraq,IQD,2005,1472.0
+1301,Iraq,IQD,2006,1467.42
+1302,Iraq,IQD,2007,1254.57
+1303,Iraq,IQD,2008,1193.08
+1304,Iraq,IQD,2009,1170.0
+1305,Iraq,IQD,2010,1170.0
+1306,Iraq,IQD,2011,1170.0
+1307,Iraq,IQD,2012,1166.17
+1308,Iraq,IQD,2013,1166.0
+1309,Iraq,IQD,2014,1166.0
+1310,Iraq,IQD,2015,1167.33
+1311,Iraq,IQD,2016,1182.0
+1312,Ireland,EUR,2001,1.12
+1313,Ireland,EUR,2002,1.06
+1314,Ireland,EUR,2003,0.89
+1315,Ireland,EUR,2004,0.8
+1316,Ireland,EUR,2005,0.81
+1317,Ireland,EUR,2006,0.8
+1318,Ireland,EUR,2007,0.73
+1319,Ireland,EUR,2008,0.68
+1320,Ireland,EUR,2009,0.72
+1321,Ireland,EUR,2010,0.76
+1322,Ireland,EUR,2011,0.72
+1323,Ireland,EUR,2012,0.78
+1324,Ireland,EUR,2013,0.75
+1325,Ireland,EUR,2014,0.75
+1326,Ireland,EUR,2015,0.9
+1327,Ireland,EUR,2016,0.9
+1328,Israel,ILS,2001,4.21
+1329,Israel,ILS,2002,4.74
+1330,Israel,ILS,2003,4.54
+1331,Israel,ILS,2004,4.48
+1332,Israel,ILS,2005,4.49
+1333,Israel,ILS,2006,4.46
+1334,Israel,ILS,2007,4.11
+1335,Israel,ILS,2008,3.58
+1336,Israel,ILS,2009,3.93
+1337,Israel,ILS,2010,3.73
+1338,Israel,ILS,2011,3.58
+1339,Israel,ILS,2012,3.86
+1340,Israel,ILS,2013,3.61
+1341,Israel,ILS,2014,3.58
+1342,Israel,ILS,2015,3.89
+1343,Israel,ILS,2016,3.84
+1344,Italy,EUR,2001,1.12
+1345,Italy,EUR,2002,1.06
+1346,Italy,EUR,2003,0.89
+1347,Italy,EUR,2004,0.8
+1348,Italy,EUR,2005,0.81
+1349,Italy,EUR,2006,0.8
+1350,Italy,EUR,2007,0.73
+1351,Italy,EUR,2008,0.68
+1352,Italy,EUR,2009,0.72
+1353,Italy,EUR,2010,0.76
+1354,Italy,EUR,2011,0.72
+1355,Italy,EUR,2012,0.78
+1356,Italy,EUR,2013,0.75
+1357,Italy,EUR,2014,0.75
+1358,Italy,EUR,2015,0.9
+1359,Italy,EUR,2016,0.9
+1360,Jamaica,JMD,2001,46.0
+1361,Jamaica,JMD,2002,48.42
+1362,Jamaica,JMD,2003,57.74
+1363,Jamaica,JMD,2004,61.2
+1364,Jamaica,JMD,2005,62.28
+1365,Jamaica,JMD,2006,65.74
+1366,Jamaica,JMD,2007,69.19
+1367,Jamaica,JMD,2008,72.76
+1368,Jamaica,JMD,2009,87.89
+1369,Jamaica,JMD,2010,87.2
+1370,Jamaica,JMD,2011,85.89
+1371,Jamaica,JMD,2012,88.75
+1372,Jamaica,JMD,2013,100.24
+1373,Jamaica,JMD,2014,110.93
+1374,Jamaica,JMD,2015,116.9
+1375,Jamaica,JMD,2016,125.1
+1376,Japan,JPY,2001,121.41
+1377,Japan,JPY,2002,125.14
+1378,Japan,JPY,2003,115.93
+1379,Japan,JPY,2004,108.16
+1380,Japan,JPY,2005,110.18
+1381,Japan,JPY,2006,116.31
+1382,Japan,JPY,2007,117.77
+1383,Japan,JPY,2008,103.44
+1384,Japan,JPY,2009,93.54
+1385,Japan,JPY,2010,87.71
+1386,Japan,JPY,2011,79.7
+1387,Japan,JPY,2012,79.75
+1388,Japan,JPY,2013,97.62
+1389,Japan,JPY,2014,105.82
+1390,Japan,JPY,2015,121.08
+1391,Japan,JPY,2016,108.65
+1392,Jordan,JOD,2001,0.71
+1393,Jordan,JOD,2002,0.71
+1394,Jordan,JOD,2003,0.71
+1395,Jordan,JOD,2004,0.71
+1396,Jordan,JOD,2005,0.71
+1397,Jordan,JOD,2006,0.71
+1398,Jordan,JOD,2007,0.71
+1399,Jordan,JOD,2008,0.71
+1400,Jordan,JOD,2009,0.71
+1401,Jordan,JOD,2010,0.71
+1402,Jordan,JOD,2011,0.71
+1403,Jordan,JOD,2012,0.71
+1404,Jordan,JOD,2013,0.71
+1405,Jordan,JOD,2014,0.71
+1406,Jordan,JOD,2015,0.71
+1407,Jordan,JOD,2016,0.71
+1408,Kazakhstan,KZT,2001,146.74
+1409,Kazakhstan,KZT,2002,153.28
+1410,Kazakhstan,KZT,2003,149.58
+1411,Kazakhstan,KZT,2004,136.04
+1412,Kazakhstan,KZT,2005,132.88
+1413,Kazakhstan,KZT,2006,124.28
+1414,Kazakhstan,KZT,2007,122.48
+1415,Kazakhstan,KZT,2008,120.29
+1416,Kazakhstan,KZT,2009,147.67
+1417,Kazakhstan,KZT,2010,147.35
+1418,Kazakhstan,KZT,2011,146.62
+1419,Kazakhstan,KZT,2012,149.07
+1420,Kazakhstan,KZT,2013,152.14
+1421,Kazakhstan,KZT,2014,179.3
+1422,Kazakhstan,KZT,2015,220.53
+1423,Kazakhstan,KZT,2016,341.91
+1424,Kenya,KES,2001,78.56
+1425,Kenya,KES,2002,78.75
+1426,Kenya,KES,2003,75.94
+1427,Kenya,KES,2004,79.17
+1428,Kenya,KES,2005,75.55
+1429,Kenya,KES,2006,72.1
+1430,Kenya,KES,2007,67.32
+1431,Kenya,KES,2008,69.18
+1432,Kenya,KES,2009,77.35
+1433,Kenya,KES,2010,79.23
+1434,Kenya,KES,2011,88.81
+1435,Kenya,KES,2012,84.53
+1436,Kenya,KES,2013,86.12
+1437,Kenya,KES,2014,87.92
+1438,Kenya,KES,2015,98.18
+1439,Kenya,KES,2016,101.5
+1440,Kiribati,AUD,2001,1.93
+1441,Kiribati,AUD,2002,1.84
+1442,Kiribati,AUD,2003,1.54
+1443,Kiribati,AUD,2004,1.36
+1444,Kiribati,AUD,2005,1.31
+1445,Kiribati,AUD,2006,1.33
+1446,Kiribati,AUD,2007,1.2
+1447,Kiribati,AUD,2008,1.19
+1448,Kiribati,AUD,2009,1.28
+1449,Kiribati,AUD,2010,1.09
+1450,Kiribati,AUD,2011,0.97
+1451,Kiribati,AUD,2012,0.97
+1452,Kiribati,AUD,2013,1.04
+1453,Kiribati,AUD,2014,1.11
+1454,Kiribati,AUD,2015,1.33
+1455,Kiribati,AUD,2016,1.35
+1456,Kuwait,KWD,2001,0.31
+1457,Kuwait,KWD,2002,0.3
+1458,Kuwait,KWD,2003,0.3
+1459,Kuwait,KWD,2004,0.29
+1460,Kuwait,KWD,2005,0.29
+1461,Kuwait,KWD,2006,0.29
+1462,Kuwait,KWD,2007,0.28
+1463,Kuwait,KWD,2008,0.27
+1464,Kuwait,KWD,2009,0.29
+1465,Kuwait,KWD,2010,0.29
+1466,Kuwait,KWD,2011,0.28
+1467,Kuwait,KWD,2012,0.28
+1468,Kuwait,KWD,2013,0.28
+1469,Kuwait,KWD,2014,0.28
+1470,Kuwait,KWD,2015,0.3
+1471,Kuwait,KWD,2016,0.3
+1472,Kyrgyzstan,KGS,2001,48.38
+1473,Kyrgyzstan,KGS,2002,46.94
+1474,Kyrgyzstan,KGS,2003,43.65
+1475,Kyrgyzstan,KGS,2004,42.65
+1476,Kyrgyzstan,KGS,2005,41.01
+1477,Kyrgyzstan,KGS,2006,40.15
+1478,Kyrgyzstan,KGS,2007,37.32
+1479,Kyrgyzstan,KGS,2008,36.57
+1480,Kyrgyzstan,KGS,2009,42.9
+1481,Kyrgyzstan,KGS,2010,45.96
+1482,Kyrgyzstan,KGS,2011,46.14
+1483,Kyrgyzstan,KGS,2012,47.0
+1484,Kyrgyzstan,KGS,2013,48.44
+1485,Kyrgyzstan,KGS,2014,53.65
+1486,Kyrgyzstan,KGS,2015,64.46
+1487,Kyrgyzstan,KGS,2016,69.91
+1488,Lao People's Democratic Republic,LAK,2001,8954.58
+1489,Lao People's Democratic Republic,LAK,2002,10056.33
+1490,Lao People's Democratic Republic,LAK,2003,10569.04
+1491,Lao People's Democratic Republic,LAK,2004,10585.38
+1492,Lao People's Democratic Republic,LAK,2005,10655.17
+1493,Lao People's Democratic Republic,LAK,2006,10159.94
+1494,Lao People's Democratic Republic,LAK,2007,9603.16
+1495,Lao People's Democratic Republic,LAK,2008,8744.22
+1496,Lao People's Democratic Republic,LAK,2009,8516.05
+1497,Lao People's Democratic Republic,LAK,2010,8258.77
+1498,Lao People's Democratic Republic,LAK,2011,8030.06
+1499,Lao People's Democratic Republic,LAK,2012,8007.76
+1500,Lao People's Democratic Republic,LAK,2013,7860.14
+1501,Lao People's Democratic Republic,LAK,2014,8048.96
+1502,Lao People's Democratic Republic,LAK,2015,8147.91
+1503,Lao People's Democratic Republic,LAK,2016,8179.27
+1504,Latvia,EUR,2001,0.89
+1505,Latvia,EUR,2002,0.88
+1506,Latvia,EUR,2003,0.81
+1507,Latvia,EUR,2004,0.76
+1508,Latvia,EUR,2005,0.8
+1509,Latvia,EUR,2006,0.79
+1510,Latvia,EUR,2007,0.73
+1511,Latvia,EUR,2008,0.68
+1512,Latvia,EUR,2009,0.72
+1513,Latvia,EUR,2010,0.76
+1514,Latvia,EUR,2011,0.72
+1515,Latvia,EUR,2012,0.77
+1516,Latvia,EUR,2013,0.75
+1517,Latvia,EUR,2014,0.75
+1518,Latvia,EUR,2015,0.9
+1519,Latvia,EUR,2016,0.9
+1520,Lebanon,LBP,2001,1507.5
+1521,Lebanon,LBP,2002,1507.5
+1522,Lebanon,LBP,2003,1507.5
+1523,Lebanon,LBP,2004,1507.5
+1524,Lebanon,LBP,2005,1507.5
+1525,Lebanon,LBP,2006,1507.5
+1526,Lebanon,LBP,2007,1507.5
+1527,Lebanon,LBP,2008,1507.5
+1528,Lebanon,LBP,2009,1507.5
+1529,Lebanon,LBP,2010,1507.5
+1530,Lebanon,LBP,2011,1507.5
+1531,Lebanon,LBP,2012,1507.5
+1532,Lebanon,LBP,2013,1507.5
+1533,Lebanon,LBP,2014,1507.5
+1534,Lebanon,LBP,2015,1507.5
+1535,Lebanon,LBP,2016,1507.5
+1536,Lesotho,LSL,2001,8.61
+1537,Lesotho,LSL,2002,10.54
+1538,Lesotho,LSL,2003,7.56
+1539,Lesotho,LSL,2004,6.46
+1540,Lesotho,LSL,2005,6.36
+1541,Lesotho,LSL,2006,6.77
+1542,Lesotho,LSL,2007,7.05
+1543,Lesotho,LSL,2008,8.26
+1544,Lesotho,LSL,2009,8.47
+1545,Lesotho,LSL,2010,7.32
+1546,Lesotho,LSL,2011,7.26
+1547,Lesotho,LSL,2012,8.21
+1548,Lesotho,LSL,2013,9.66
+1549,Lesotho,LSL,2014,10.85
+1550,Lesotho,LSL,2015,12.76
+1551,Lesotho,LSL,2016,14.71
+1552,Liberia,LRD,2001,48.59
+1553,Liberia,LRD,2002,61.75
+1554,Liberia,LRD,2003,59.38
+1555,Liberia,LRD,2004,54.91
+1556,Liberia,LRD,2005,57.1
+1557,Liberia,LRD,2006,58.01
+1558,Liberia,LRD,2007,61.27
+1559,Liberia,LRD,2008,63.21
+1560,Liberia,LRD,2009,68.29
+1561,Liberia,LRD,2010,71.4
+1562,Liberia,LRD,2011,72.23
+1563,Liberia,LRD,2012,73.51
+1564,Liberia,LRD,2013,77.52
+1565,Liberia,LRD,2014,83.89
+1566,Liberia,LRD,2015,86.19
+1567,Liberia,LRD,2016,94.43
+1568,Libya,LYD,2001,0.61
+1569,Libya,LYD,2002,1.27
+1570,Libya,LYD,2003,1.29
+1571,Libya,LYD,2004,1.3
+1572,Libya,LYD,2005,1.31
+1573,Libya,LYD,2006,1.31
+1574,Libya,LYD,2007,1.26
+1575,Libya,LYD,2008,1.22
+1576,Libya,LYD,2009,1.25
+1577,Libya,LYD,2010,1.27
+1578,Libya,LYD,2011,1.22
+1579,Libya,LYD,2012,1.26
+1580,Libya,LYD,2013,1.27
+1581,Libya,LYD,2014,1.27
+1582,Libya,LYD,2015,1.38
+1583,Libya,LYD,2016,1.39
+1584,Lithuania,EUR,2001,1.16
+1585,Lithuania,EUR,2002,1.06
+1586,Lithuania,EUR,2003,0.89
+1587,Lithuania,EUR,2004,0.8
+1588,Lithuania,EUR,2005,0.81
+1589,Lithuania,EUR,2006,0.8
+1590,Lithuania,EUR,2007,0.73
+1591,Lithuania,EUR,2008,0.68
+1592,Lithuania,EUR,2009,0.72
+1593,Lithuania,EUR,2010,0.76
+1594,Lithuania,EUR,2011,0.72
+1595,Lithuania,EUR,2012,0.78
+1596,Lithuania,EUR,2013,0.75
+1597,Lithuania,EUR,2014,0.75
+1598,Lithuania,EUR,2015,0.9
+1599,Lithuania,EUR,2016,0.9
+1600,Luxembourg,EUR,2001,1.12
+1601,Luxembourg,EUR,2002,1.06
+1602,Luxembourg,EUR,2003,0.89
+1603,Luxembourg,EUR,2004,0.8
+1604,Luxembourg,EUR,2005,0.81
+1605,Luxembourg,EUR,2006,0.8
+1606,Luxembourg,EUR,2007,0.73
+1607,Luxembourg,EUR,2008,0.68
+1608,Luxembourg,EUR,2009,0.72
+1609,Luxembourg,EUR,2010,0.76
+1610,Luxembourg,EUR,2011,0.72
+1611,Luxembourg,EUR,2012,0.78
+1612,Luxembourg,EUR,2013,0.75
+1613,Luxembourg,EUR,2014,0.75
+1614,Luxembourg,EUR,2015,0.9
+1615,Luxembourg,EUR,2016,0.9
+1616,Macao SAR,MOP,2001,8.03
+1617,Macao SAR,MOP,2002,8.03
+1618,Macao SAR,MOP,2003,8.02
+1619,Macao SAR,MOP,2004,8.02
+1620,Macao SAR,MOP,2005,8.01
+1621,Macao SAR,MOP,2006,8.0
+1622,Macao SAR,MOP,2007,8.04
+1623,Macao SAR,MOP,2008,8.02
+1624,Macao SAR,MOP,2009,7.98
+1625,Macao SAR,MOP,2010,8.0
+1626,Macao SAR,MOP,2011,8.02
+1627,Macao SAR,MOP,2012,7.99
+1628,Macao SAR,MOP,2013,7.99
+1629,Macao SAR,MOP,2014,7.99
+1630,Macao SAR,MOP,2015,7.98
+1631,Macao SAR,MOP,2016,8.0
+1632,"Macedonia, FYR",MKD,2001,68.1
+1633,"Macedonia, FYR",MKD,2002,64.72
+1634,"Macedonia, FYR",MKD,2003,54.23
+1635,"Macedonia, FYR",MKD,2004,49.37
+1636,"Macedonia, FYR",MKD,2005,49.34
+1637,"Macedonia, FYR",MKD,2006,48.78
+1638,"Macedonia, FYR",MKD,2007,44.71
+1639,"Macedonia, FYR",MKD,2008,41.8
+1640,"Macedonia, FYR",MKD,2009,44.09
+1641,"Macedonia, FYR",MKD,2010,46.51
+1642,"Macedonia, FYR",MKD,2011,44.25
+1643,"Macedonia, FYR",MKD,2012,47.89
+1644,"Macedonia, FYR",MKD,2013,46.4
+1645,"Macedonia, FYR",MKD,2014,46.46
+1646,"Macedonia, FYR",MKD,2015,55.57
+1647,"Macedonia, FYR",MKD,2016,55.67
+1648,Madagascar,MGA,2001,1317.7
+1649,Madagascar,MGA,2002,1366.39
+1650,Madagascar,MGA,2003,1238.33
+1651,Madagascar,MGA,2004,1868.86
+1652,Madagascar,MGA,2005,2003.03
+1653,Madagascar,MGA,2006,2142.3
+1654,Madagascar,MGA,2007,1873.88
+1655,Madagascar,MGA,2008,1708.37
+1656,Madagascar,MGA,2009,1956.21
+1657,Madagascar,MGA,2010,2089.95
+1658,Madagascar,MGA,2011,2025.12
+1659,Madagascar,MGA,2012,2194.97
+1660,Madagascar,MGA,2013,2206.91
+1661,Madagascar,MGA,2014,2414.81
+1662,Madagascar,MGA,2015,2933.51
+1663,Madagascar,MGA,2016,3176.54
+1664,Malawi,MWK,2001,72.2
+1665,Malawi,MWK,2002,76.69
+1666,Malawi,MWK,2003,97.43
+1667,Malawi,MWK,2004,108.9
+1668,Malawi,MWK,2005,118.42
+1669,Malawi,MWK,2006,136.01
+1670,Malawi,MWK,2007,139.96
+1671,Malawi,MWK,2008,140.52
+1672,Malawi,MWK,2009,141.17
+1673,Malawi,MWK,2010,150.49
+1674,Malawi,MWK,2011,156.52
+1675,Malawi,MWK,2012,249.11
+1676,Malawi,MWK,2013,364.41
+1677,Malawi,MWK,2014,424.9
+1678,Malawi,MWK,2015,499.61
+1679,Malawi,MWK,2016,718.01
+1680,Malaysia,MYR,2001,3.8
+1681,Malaysia,MYR,2002,3.8
+1682,Malaysia,MYR,2003,3.8
+1683,Malaysia,MYR,2004,3.8
+1684,Malaysia,MYR,2005,3.79
+1685,Malaysia,MYR,2006,3.67
+1686,Malaysia,MYR,2007,3.44
+1687,Malaysia,MYR,2008,3.33
+1688,Malaysia,MYR,2009,3.52
+1689,Malaysia,MYR,2010,3.22
+1690,Malaysia,MYR,2011,3.06
+1691,Malaysia,MYR,2012,3.09
+1692,Malaysia,MYR,2013,3.15
+1693,Malaysia,MYR,2014,3.27
+1694,Malaysia,MYR,2015,3.91
+1695,Malaysia,MYR,2016,4.14
+1696,Maldives,MVR,2001,12.24
+1697,Maldives,MVR,2002,12.8
+1698,Maldives,MVR,2003,12.8
+1699,Maldives,MVR,2004,12.8
+1700,Maldives,MVR,2005,12.8
+1701,Maldives,MVR,2006,12.8
+1702,Maldives,MVR,2007,12.8
+1703,Maldives,MVR,2008,12.8
+1704,Maldives,MVR,2009,12.8
+1705,Maldives,MVR,2010,12.8
+1706,Maldives,MVR,2011,14.6
+1707,Maldives,MVR,2012,15.36
+1708,Maldives,MVR,2013,15.37
+1709,Maldives,MVR,2014,15.38
+1710,Maldives,MVR,2015,15.37
+1711,Maldives,MVR,2016,15.37
+1712,Mali,XOF,2001,733.04
+1713,Mali,XOF,2002,696.99
+1714,Mali,XOF,2003,581.2
+1715,Mali,XOF,2004,528.28
+1716,Mali,XOF,2005,527.47
+1717,Mali,XOF,2006,522.89
+1718,Mali,XOF,2007,479.27
+1719,Mali,XOF,2008,447.81
+1720,Mali,XOF,2009,472.19
+1721,Mali,XOF,2010,495.28
+1722,Mali,XOF,2011,471.87
+1723,Mali,XOF,2012,510.53
+1724,Mali,XOF,2013,494.04
+1725,Mali,XOF,2014,494.41
+1726,Mali,XOF,2015,591.45
+1727,Mali,XOF,2016,593.01
+1728,Malta,EUR,2001,1.05
+1729,Malta,EUR,2002,1.01
+1730,Malta,EUR,2003,0.88
+1731,Malta,EUR,2004,0.8
+1732,Malta,EUR,2005,0.81
+1733,Malta,EUR,2006,0.8
+1734,Malta,EUR,2007,0.73
+1735,Malta,EUR,2008,0.68
+1736,Malta,EUR,2009,0.72
+1737,Malta,EUR,2010,0.76
+1738,Malta,EUR,2011,0.72
+1739,Malta,EUR,2012,0.78
+1740,Malta,EUR,2013,0.75
+1741,Malta,EUR,2014,0.75
+1742,Malta,EUR,2015,0.9
+1743,Malta,EUR,2016,0.9
+1744,Mauritania,MRO,2001,255.63
+1745,Mauritania,MRO,2002,271.74
+1746,Mauritania,MRO,2003,263.03
+1747,Mauritania,MRO,2004,264.11
+1748,Mauritania,MRO,2005,265.53
+1749,Mauritania,MRO,2006,268.6
+1750,Mauritania,MRO,2007,258.59
+1751,Mauritania,MRO,2008,238.2
+1752,Mauritania,MRO,2009,262.37
+1753,Mauritania,MRO,2010,275.89
+1754,Mauritania,MRO,2011,281.12
+1755,Mauritania,MRO,2012,296.62
+1756,Mauritania,MRO,2013,300.68
+1757,Mauritania,MRO,2014,302.73
+1758,Mauritania,MRO,2015,324.67
+1759,Mauritania,MRO,2016,352.37
+1760,Mauritius,MUR,2001,29.13
+1761,Mauritius,MUR,2002,29.96
+1762,Mauritius,MUR,2003,27.84
+1763,Mauritius,MUR,2004,27.53
+1764,Mauritius,MUR,2005,29.51
+1765,Mauritius,MUR,2006,31.68
+1766,Mauritius,MUR,2007,31.33
+1767,Mauritius,MUR,2008,28.48
+1768,Mauritius,MUR,2009,31.91
+1769,Mauritius,MUR,2010,30.85
+1770,Mauritius,MUR,2011,28.58
+1771,Mauritius,MUR,2012,30.04
+1772,Mauritius,MUR,2013,30.7
+1773,Mauritius,MUR,2014,30.63
+1774,Mauritius,MUR,2015,35.12
+1775,Mauritius,MUR,2016,35.53
+1776,Mexico,MXN,2001,9.34
+1777,Mexico,MXN,2002,9.67
+1778,Mexico,MXN,2003,10.79
+1779,Mexico,MXN,2004,11.29
+1780,Mexico,MXN,2005,10.9
+1781,Mexico,MXN,2006,10.9
+1782,Mexico,MXN,2007,10.93
+1783,Mexico,MXN,2008,11.15
+1784,Mexico,MXN,2009,13.5
+1785,Mexico,MXN,2010,12.63
+1786,Mexico,MXN,2011,12.44
+1787,Mexico,MXN,2012,13.16
+1788,Mexico,MXN,2013,12.77
+1789,Mexico,MXN,2014,13.3
+1790,Mexico,MXN,2015,15.88
+1791,Mexico,MXN,2016,18.69
+1792,Micronesia,USD,2001,1.0
+1793,Micronesia,USD,2002,1.0
+1794,Micronesia,USD,2003,1.0
+1795,Micronesia,USD,2004,1.0
+1796,Micronesia,USD,2005,1.0
+1797,Micronesia,USD,2006,1.0
+1798,Micronesia,USD,2007,1.0
+1799,Micronesia,USD,2008,1.0
+1800,Micronesia,USD,2009,1.0
+1801,Micronesia,USD,2010,1.0
+1802,Micronesia,USD,2011,1.0
+1803,Micronesia,USD,2012,1.0
+1804,Micronesia,USD,2013,1.0
+1805,Micronesia,USD,2014,1.0
+1806,Micronesia,USD,2015,1.0
+1807,Micronesia,USD,2016,1.0
+1808,Moldova,MDL,2001,12.87
+1809,Moldova,MDL,2002,13.57
+1810,Moldova,MDL,2003,13.94
+1811,Moldova,MDL,2004,12.33
+1812,Moldova,MDL,2005,12.6
+1813,Moldova,MDL,2006,13.13
+1814,Moldova,MDL,2007,12.14
+1815,Moldova,MDL,2008,10.39
+1816,Moldova,MDL,2009,11.11
+1817,Moldova,MDL,2010,12.37
+1818,Moldova,MDL,2011,11.74
+1819,Moldova,MDL,2012,12.11
+1820,Moldova,MDL,2013,12.59
+1821,Moldova,MDL,2014,14.04
+1822,Moldova,MDL,2015,18.82
+1823,Moldova,MDL,2016,19.92
+1824,Mongolia,MNT,2001,1097.7
+1825,Mongolia,MNT,2002,1110.31
+1826,Mongolia,MNT,2003,1146.54
+1827,Mongolia,MNT,2004,1185.3
+1828,Mongolia,MNT,2005,1205.25
+1829,Mongolia,MNT,2006,1179.7
+1830,Mongolia,MNT,2007,1170.4
+1831,Mongolia,MNT,2008,1165.8
+1832,Mongolia,MNT,2009,1437.8
+1833,Mongolia,MNT,2010,1357.06
+1834,Mongolia,MNT,2011,1265.52
+1835,Mongolia,MNT,2012,1357.58
+1836,Mongolia,MNT,2013,1523.93
+1837,Mongolia,MNT,2014,1817.94
+1838,Mongolia,MNT,2015,1970.31
+1839,Mongolia,MNT,2016,2140.29
+1840,Montenegro,EUR,2001,1.12
+1841,Montenegro,EUR,2002,1.06
+1842,Montenegro,EUR,2003,0.89
+1843,Montenegro,EUR,2004,0.81
+1844,Montenegro,EUR,2005,0.8
+1845,Montenegro,EUR,2006,0.8
+1846,Montenegro,EUR,2007,0.73
+1847,Montenegro,EUR,2008,0.68
+1848,Montenegro,EUR,2009,0.72
+1849,Montenegro,EUR,2010,0.76
+1850,Montenegro,EUR,2011,0.72
+1851,Montenegro,EUR,2012,0.78
+1852,Montenegro,EUR,2013,0.75
+1853,Montenegro,EUR,2014,0.75
+1854,Montenegro,EUR,2015,0.9
+1855,Montenegro,EUR,2016,0.9
+1856,Montserrat,XCD,2001,2.7
+1857,Montserrat,XCD,2002,2.7
+1858,Montserrat,XCD,2003,2.7
+1859,Montserrat,XCD,2004,2.7
+1860,Montserrat,XCD,2005,2.7
+1861,Montserrat,XCD,2006,2.7
+1862,Montserrat,XCD,2007,2.7
+1863,Montserrat,XCD,2008,2.7
+1864,Montserrat,XCD,2009,2.7
+1865,Montserrat,XCD,2010,2.7
+1866,Montserrat,XCD,2011,2.7
+1867,Montserrat,XCD,2012,2.7
+1868,Montserrat,XCD,2013,2.7
+1869,Montserrat,XCD,2014,2.7
+1870,Montserrat,XCD,2015,2.7
+1871,Montserrat,XCD,2016,2.7
+1872,Morocco,MAD,2001,11.3
+1873,Morocco,MAD,2002,11.02
+1874,Morocco,MAD,2003,9.57
+1875,Morocco,MAD,2004,8.87
+1876,Morocco,MAD,2005,8.87
+1877,Morocco,MAD,2006,8.8
+1878,Morocco,MAD,2007,8.19
+1879,Morocco,MAD,2008,7.75
+1880,Morocco,MAD,2009,8.06
+1881,Morocco,MAD,2010,8.42
+1882,Morocco,MAD,2011,8.09
+1883,Morocco,MAD,2012,8.63
+1884,Morocco,MAD,2013,8.41
+1885,Morocco,MAD,2014,8.41
+1886,Morocco,MAD,2015,9.76
+1887,Morocco,MAD,2016,9.81
+1888,Mozambique,MZN,2001,20.7
+1889,Mozambique,MZN,2002,23.68
+1890,Mozambique,MZN,2003,23.78
+1891,Mozambique,MZN,2004,22.58
+1892,Mozambique,MZN,2005,23.06
+1893,Mozambique,MZN,2006,25.4
+1894,Mozambique,MZN,2007,25.84
+1895,Mozambique,MZN,2008,24.3
+1896,Mozambique,MZN,2009,27.52
+1897,Mozambique,MZN,2010,33.96
+1898,Mozambique,MZN,2011,29.07
+1899,Mozambique,MZN,2012,28.37
+1900,Mozambique,MZN,2013,30.1
+1901,Mozambique,MZN,2014,31.35
+1902,Mozambique,MZN,2015,39.98
+1903,Mozambique,MZN,2016,63.06
+1904,Myanmar,MMK,2001,6.75
+1905,Myanmar,MMK,2002,6.64
+1906,Myanmar,MMK,2003,6.14
+1907,Myanmar,MMK,2004,5.81
+1908,Myanmar,MMK,2005,5.82
+1909,Myanmar,MMK,2006,5.84
+1910,Myanmar,MMK,2007,5.62
+1911,Myanmar,MMK,2008,5.44
+1912,Myanmar,MMK,2009,5.58
+1913,Myanmar,MMK,2010,5.63
+1914,Myanmar,MMK,2011,5.44
+1915,Myanmar,MMK,2012,640.65
+1916,Myanmar,MMK,2013,933.57
+1917,Myanmar,MMK,2014,984.35
+1918,Myanmar,MMK,2015,1162.62
+1919,Myanmar,MMK,2016,1234.87
+1920,Namibia,NAD,2001,8.61
+1921,Namibia,NAD,2002,10.54
+1922,Namibia,NAD,2003,7.56
+1923,Namibia,NAD,2004,6.46
+1924,Namibia,NAD,2005,6.36
+1925,Namibia,NAD,2006,6.77
+1926,Namibia,NAD,2007,7.05
+1927,Namibia,NAD,2008,8.26
+1928,Namibia,NAD,2009,8.47
+1929,Namibia,NAD,2010,7.32
+1930,Namibia,NAD,2011,7.26
+1931,Namibia,NAD,2012,8.21
+1932,Namibia,NAD,2013,9.66
+1933,Namibia,NAD,2014,10.85
+1934,Namibia,NAD,2015,12.88
+1935,Namibia,NAD,2016,14.71
+1936,Nepal,NPR,2001,75.09
+1937,Nepal,NPR,2002,77.98
+1938,Nepal,NPR,2003,76.05
+1939,Nepal,NPR,2004,73.59
+1940,Nepal,NPR,2005,71.35
+1941,Nepal,NPR,2006,72.83
+1942,Nepal,NPR,2007,65.99
+1943,Nepal,NPR,2008,69.71
+1944,Nepal,NPR,2009,77.4
+1945,Nepal,NPR,2010,73.17
+1946,Nepal,NPR,2011,74.58
+1947,Nepal,NPR,2012,85.39
+1948,Nepal,NPR,2013,93.57
+1949,Nepal,NPR,2014,97.61
+1950,Nepal,NPR,2015,102.69
+1951,Nepal,NPR,2016,107.45
+1952,Netherlands,EUR,2001,1.12
+1953,Netherlands,EUR,2002,1.06
+1954,Netherlands,EUR,2003,0.89
+1955,Netherlands,EUR,2004,0.8
+1956,Netherlands,EUR,2005,0.81
+1957,Netherlands,EUR,2006,0.8
+1958,Netherlands,EUR,2007,0.73
+1959,Netherlands,EUR,2008,0.68
+1960,Netherlands,EUR,2009,0.72
+1961,Netherlands,EUR,2010,0.76
+1962,Netherlands,EUR,2011,0.72
+1963,Netherlands,EUR,2012,0.78
+1964,Netherlands,EUR,2013,0.75
+1965,Netherlands,EUR,2014,0.75
+1966,Netherlands,EUR,2015,0.9
+1967,Netherlands,EUR,2016,0.9
+1968,Netherlands Antilles,ANG,2001,1.79
+1969,Netherlands Antilles,ANG,2002,1.79
+1970,Netherlands Antilles,ANG,2003,1.79
+1971,Netherlands Antilles,ANG,2004,1.79
+1972,Netherlands Antilles,ANG,2005,1.79
+1973,Netherlands Antilles,ANG,2006,1.79
+1974,Netherlands Antilles,ANG,2007,1.79
+1975,Netherlands Antilles,ANG,2008,1.79
+1976,Netherlands Antilles,ANG,2009,1.79
+1977,Netherlands Antilles,ANG,2010,1.79
+1978,Netherlands Antilles,ANG,2011,1.79
+1979,Netherlands Antilles,ANG,2012,1.79
+1980,Netherlands Antilles,ANG,2013,1.79
+1981,Netherlands Antilles,ANG,2014,1.79
+1982,Netherlands Antilles,ANG,2015,1.79
+1983,Netherlands Antilles,ANG,2016,1.79
+1984,New Zealand,NZD,2001,2.38
+1985,New Zealand,NZD,2002,2.16
+1986,New Zealand,NZD,2003,1.72
+1987,New Zealand,NZD,2004,1.51
+1988,New Zealand,NZD,2005,1.42
+1989,New Zealand,NZD,2006,1.54
+1990,New Zealand,NZD,2007,1.36
+1991,New Zealand,NZD,2008,1.42
+1992,New Zealand,NZD,2009,1.6
+1993,New Zealand,NZD,2010,1.39
+1994,New Zealand,NZD,2011,1.27
+1995,New Zealand,NZD,2012,1.24
+1996,New Zealand,NZD,2013,1.22
+1997,New Zealand,NZD,2014,1.21
+1998,New Zealand,NZD,2015,1.44
+1999,New Zealand,NZD,2016,1.44
+2000,Nicaragua,NIO,2001,13.37
+2001,Nicaragua,NIO,2002,14.25
+2002,Nicaragua,NIO,2003,15.1
+2003,Nicaragua,NIO,2004,15.94
+2004,Nicaragua,NIO,2005,16.73
+2005,Nicaragua,NIO,2006,17.57
+2006,Nicaragua,NIO,2007,18.45
+2007,Nicaragua,NIO,2008,19.37
+2008,Nicaragua,NIO,2009,20.34
+2009,Nicaragua,NIO,2010,21.36
+2010,Nicaragua,NIO,2011,22.42
+2011,Nicaragua,NIO,2012,23.55
+2012,Nicaragua,NIO,2013,24.72
+2013,Nicaragua,NIO,2014,25.96
+2014,Nicaragua,NIO,2015,27.26
+2015,Nicaragua,NIO,2016,28.62
+2016,Niger,XOF,2001,733.04
+2017,Niger,XOF,2002,696.99
+2018,Niger,XOF,2003,581.2
+2019,Niger,XOF,2004,528.28
+2020,Niger,XOF,2005,527.47
+2021,Niger,XOF,2006,522.89
+2022,Niger,XOF,2007,479.27
+2023,Niger,XOF,2008,447.81
+2024,Niger,XOF,2009,472.19
+2025,Niger,XOF,2010,495.28
+2026,Niger,XOF,2011,471.87
+2027,Niger,XOF,2012,510.53
+2028,Niger,XOF,2013,494.04
+2029,Niger,XOF,2014,494.41
+2030,Niger,XOF,2015,591.45
+2031,Niger,XOF,2016,593.01
+2032,Nigeria,NGN,2001,111.23
+2033,Nigeria,NGN,2002,120.58
+2034,Nigeria,NGN,2003,129.22
+2035,Nigeria,NGN,2004,132.89
+2036,Nigeria,NGN,2005,131.27
+2037,Nigeria,NGN,2006,128.65
+2038,Nigeria,NGN,2007,125.81
+2039,Nigeria,NGN,2008,118.55
+2040,Nigeria,NGN,2009,148.9
+2041,Nigeria,NGN,2010,150.3
+2042,Nigeria,NGN,2011,153.86
+2043,Nigeria,NGN,2012,157.5
+2044,Nigeria,NGN,2013,157.31
+2045,Nigeria,NGN,2014,158.55
+2046,Nigeria,NGN,2015,192.44
+2047,Nigeria,NGN,2016,253.49
+2048,Norway,NOK,2001,8.99
+2049,Norway,NOK,2002,7.98
+2050,Norway,NOK,2003,7.08
+2051,Norway,NOK,2004,6.74
+2052,Norway,NOK,2005,6.44
+2053,Norway,NOK,2006,6.41
+2054,Norway,NOK,2007,5.86
+2055,Norway,NOK,2008,5.64
+2056,Norway,NOK,2009,6.28
+2057,Norway,NOK,2010,6.05
+2058,Norway,NOK,2011,5.6
+2059,Norway,NOK,2012,5.82
+2060,Norway,NOK,2013,5.88
+2061,Norway,NOK,2014,6.3
+2062,Norway,NOK,2015,8.07
+2063,Norway,NOK,2016,8.4
+2064,Oman,OMR,2001,0.38
+2065,Oman,OMR,2002,0.38
+2066,Oman,OMR,2003,0.38
+2067,Oman,OMR,2004,0.38
+2068,Oman,OMR,2005,0.38
+2069,Oman,OMR,2006,0.38
+2070,Oman,OMR,2007,0.38
+2071,Oman,OMR,2008,0.38
+2072,Oman,OMR,2009,0.38
+2073,Oman,OMR,2010,0.38
+2074,Oman,OMR,2011,0.38
+2075,Oman,OMR,2012,0.38
+2076,Oman,OMR,2013,0.38
+2077,Oman,OMR,2014,0.38
+2078,Oman,OMR,2015,0.38
+2079,Oman,OMR,2016,0.38
+2080,Pakistan,PKR,2001,62.17
+2081,Pakistan,PKR,2002,59.72
+2082,Pakistan,PKR,2003,57.76
+2083,Pakistan,PKR,2004,58.15
+2084,Pakistan,PKR,2005,59.52
+2085,Pakistan,PKR,2006,60.25
+2086,Pakistan,PKR,2007,60.72
+2087,Pakistan,PKR,2008,71.48
+2088,Pakistan,PKR,2009,81.72
+2089,Pakistan,PKR,2010,85.17
+2090,Pakistan,PKR,2011,86.34
+2091,Pakistan,PKR,2012,93.28
+2092,Pakistan,PKR,2013,101.53
+2093,Pakistan,PKR,2014,100.98
+2094,Pakistan,PKR,2015,102.77
+2095,Pakistan,PKR,2016,104.77
+2096,Panama,PAB,2001,1.0
+2097,Panama,PAB,2002,1.0
+2098,Panama,PAB,2003,1.0
+2099,Panama,PAB,2004,1.0
+2100,Panama,PAB,2005,1.0
+2101,Panama,PAB,2006,1.0
+2102,Panama,PAB,2007,1.0
+2103,Panama,PAB,2008,1.0
+2104,Panama,PAB,2009,1.0
+2105,Panama,PAB,2010,1.0
+2106,Panama,PAB,2011,1.0
+2107,Panama,PAB,2012,1.0
+2108,Panama,PAB,2013,1.0
+2109,Panama,PAB,2014,1.0
+2110,Panama,PAB,2015,1.0
+2111,Panama,PAB,2016,1.0
+2112,Papua New Guinea,PGK,2001,3.39
+2113,Papua New Guinea,PGK,2002,3.9
+2114,Papua New Guinea,PGK,2003,3.56
+2115,Papua New Guinea,PGK,2004,3.22
+2116,Papua New Guinea,PGK,2005,3.1
+2117,Papua New Guinea,PGK,2006,3.06
+2118,Papua New Guinea,PGK,2007,2.97
+2119,Papua New Guinea,PGK,2008,2.7
+2120,Papua New Guinea,PGK,2009,2.76
+2121,Papua New Guinea,PGK,2010,2.72
+2122,Papua New Guinea,PGK,2011,2.37
+2123,Papua New Guinea,PGK,2012,2.08
+2124,Papua New Guinea,PGK,2013,2.24
+2125,Papua New Guinea,PGK,2014,2.46
+2126,Papua New Guinea,PGK,2015,2.77
+2127,Papua New Guinea,PGK,2016,3.13
+2128,Paraguay,PYG,2001,4105.93
+2129,Paraguay,PYG,2002,5716.26
+2130,Paraguay,PYG,2003,6424.34
+2131,Paraguay,PYG,2004,5974.58
+2132,Paraguay,PYG,2005,6177.96
+2133,Paraguay,PYG,2006,5635.46
+2134,Paraguay,PYG,2007,5032.72
+2135,Paraguay,PYG,2008,4363.24
+2136,Paraguay,PYG,2009,4965.39
+2137,Paraguay,PYG,2010,4735.46
+2138,Paraguay,PYG,2011,4191.42
+2139,Paraguay,PYG,2012,4424.92
+2140,Paraguay,PYG,2013,4320.67
+2141,Paraguay,PYG,2014,4462.19
+2142,Paraguay,PYG,2015,5204.91
+2143,Paraguay,PYG,2016,5670.52
+2144,Peru,PEN,2001,3.51
+2145,Peru,PEN,2002,3.52
+2146,Peru,PEN,2003,3.48
+2147,Peru,PEN,2004,3.41
+2148,Peru,PEN,2005,3.3
+2149,Peru,PEN,2006,3.27
+2150,Peru,PEN,2007,3.13
+2151,Peru,PEN,2008,2.92
+2152,Peru,PEN,2009,3.01
+2153,Peru,PEN,2010,2.82
+2154,Peru,PEN,2011,2.75
+2155,Peru,PEN,2012,2.64
+2156,Peru,PEN,2013,2.7
+2157,Peru,PEN,2014,2.84
+2158,Peru,PEN,2015,3.19
+2159,Peru,PEN,2016,3.38
+2160,Philippines,PHP,2001,51.0
+2161,Philippines,PHP,2002,51.61
+2162,Philippines,PHP,2003,54.21
+2163,Philippines,PHP,2004,56.05
+2164,Philippines,PHP,2005,55.06
+2165,Philippines,PHP,2006,51.29
+2166,Philippines,PHP,2007,46.07
+2167,Philippines,PHP,2008,44.46
+2168,Philippines,PHP,2009,47.58
+2169,Philippines,PHP,2010,45.08
+2170,Philippines,PHP,2011,43.3
+2171,Philippines,PHP,2012,42.22
+2172,Philippines,PHP,2013,42.47
+2173,Philippines,PHP,2014,44.4
+2174,Philippines,PHP,2015,45.54
+2175,Philippines,PHP,2016,47.5
+2176,Poland,PLN,2001,4.1
+2177,Poland,PLN,2002,4.08
+2178,Poland,PLN,2003,3.89
+2179,Poland,PLN,2004,3.65
+2180,Poland,PLN,2005,3.24
+2181,Poland,PLN,2006,3.11
+2182,Poland,PLN,2007,2.77
+2183,Poland,PLN,2008,2.41
+2184,Poland,PLN,2009,3.12
+2185,Poland,PLN,2010,3.02
+2186,Poland,PLN,2011,2.97
+2187,Poland,PLN,2012,3.26
+2188,Poland,PLN,2013,3.16
+2189,Poland,PLN,2014,3.16
+2190,Poland,PLN,2015,3.77
+2191,Poland,PLN,2016,3.94
+2192,Portugal,EUR,2001,1.12
+2193,Portugal,EUR,2002,1.06
+2194,Portugal,EUR,2003,0.89
+2195,Portugal,EUR,2004,0.8
+2196,Portugal,EUR,2005,0.81
+2197,Portugal,EUR,2006,0.8
+2198,Portugal,EUR,2007,0.73
+2199,Portugal,EUR,2008,0.68
+2200,Portugal,EUR,2009,0.72
+2201,Portugal,EUR,2010,0.76
+2202,Portugal,EUR,2011,0.72
+2203,Portugal,EUR,2012,0.78
+2204,Portugal,EUR,2013,0.75
+2205,Portugal,EUR,2014,0.75
+2206,Portugal,EUR,2015,0.9
+2207,Portugal,EUR,2016,0.9
+2208,Qatar,QAR,2001,3.64
+2209,Qatar,QAR,2002,3.64
+2210,Qatar,QAR,2003,3.64
+2211,Qatar,QAR,2004,3.64
+2212,Qatar,QAR,2005,3.64
+2213,Qatar,QAR,2006,3.64
+2214,Qatar,QAR,2007,3.64
+2215,Qatar,QAR,2008,3.64
+2216,Qatar,QAR,2009,3.64
+2217,Qatar,QAR,2010,3.64
+2218,Qatar,QAR,2011,3.64
+2219,Qatar,QAR,2012,3.64
+2220,Qatar,QAR,2013,3.64
+2221,Qatar,QAR,2014,3.64
+2222,Qatar,QAR,2015,3.64
+2223,Qatar,QAR,2016,3.64
+2224,Romania,RON,2001,2.91
+2225,Romania,RON,2002,3.31
+2226,Romania,RON,2003,3.32
+2227,Romania,RON,2004,3.26
+2228,Romania,RON,2005,2.91
+2229,Romania,RON,2006,2.81
+2230,Romania,RON,2007,2.44
+2231,Romania,RON,2008,2.52
+2232,Romania,RON,2009,3.05
+2233,Romania,RON,2010,3.18
+2234,Romania,RON,2011,3.05
+2235,Romania,RON,2012,3.47
+2236,Romania,RON,2013,3.33
+2237,Romania,RON,2014,3.35
+2238,Romania,RON,2015,4.01
+2239,Romania,RON,2016,4.06
+2240,Russia,RUB,2001,29.2
+2241,Russia,RUB,2002,31.39
+2242,Russia,RUB,2003,30.68
+2243,Russia,RUB,2004,28.81
+2244,Russia,RUB,2005,28.3
+2245,Russia,RUB,2006,27.19
+2246,Russia,RUB,2007,25.58
+2247,Russia,RUB,2008,24.86
+2248,Russia,RUB,2009,31.74
+2249,Russia,RUB,2010,30.39
+2250,Russia,RUB,2011,29.41
+2251,Russia,RUB,2012,31.1
+2252,Russia,RUB,2013,31.87
+2253,Russia,RUB,2014,38.57
+2254,Russia,RUB,2015,61.34
+2255,Russia,RUB,2016,66.98
+2256,Rwanda,RWF,2001,442.99
+2257,Rwanda,RWF,2002,475.37
+2258,Rwanda,RWF,2003,537.65
+2259,Rwanda,RWF,2004,577.45
+2260,Rwanda,RWF,2005,557.82
+2261,Rwanda,RWF,2006,551.71
+2262,Rwanda,RWF,2007,546.96
+2263,Rwanda,RWF,2008,546.85
+2264,Rwanda,RWF,2009,568.28
+2265,Rwanda,RWF,2010,583.13
+2266,Rwanda,RWF,2011,600.31
+2267,Rwanda,RWF,2012,614.3
+2268,Rwanda,RWF,2013,646.64
+2269,Rwanda,RWF,2014,681.86
+2270,Rwanda,RWF,2015,720.98
+2271,Rwanda,RWF,2016,787.25
+2272,Samoa,WST,2001,3.48
+2273,Samoa,WST,2002,3.38
+2274,Samoa,WST,2003,2.97
+2275,Samoa,WST,2004,2.78
+2276,Samoa,WST,2005,2.71
+2277,Samoa,WST,2006,2.78
+2278,Samoa,WST,2007,2.62
+2279,Samoa,WST,2008,2.64
+2280,Samoa,WST,2009,2.73
+2281,Samoa,WST,2010,2.48
+2282,Samoa,WST,2011,2.32
+2283,Samoa,WST,2012,2.29
+2284,Samoa,WST,2013,2.31
+2285,Samoa,WST,2014,2.33
+2286,Samoa,WST,2015,2.56
+2287,Samoa,WST,2016,2.56
+2288,San Marino,EUR,2001,1.12
+2289,San Marino,EUR,2002,1.06
+2290,San Marino,EUR,2003,0.89
+2291,San Marino,EUR,2004,0.81
+2292,San Marino,EUR,2005,0.8
+2293,San Marino,EUR,2006,0.8
+2294,San Marino,EUR,2007,0.73
+2295,San Marino,EUR,2008,0.68
+2296,San Marino,EUR,2009,0.72
+2297,San Marino,EUR,2010,0.76
+2298,San Marino,EUR,2011,0.72
+2299,San Marino,EUR,2012,0.78
+2300,San Marino,EUR,2013,0.75
+2301,San Marino,EUR,2014,0.75
+2302,San Marino,EUR,2015,0.9
+2303,San Marino,EUR,2016,0.9
+2304,Sao Tome and Principe,STD,2001,8842.11
+2305,Sao Tome and Principe,STD,2002,9088.33
+2306,Sao Tome and Principe,STD,2003,9347.58
+2307,Sao Tome and Principe,STD,2004,9902.32
+2308,Sao Tome and Principe,STD,2005,10557.97
+2309,Sao Tome and Principe,STD,2006,12448.64
+2310,Sao Tome and Principe,STD,2007,13536.76
+2311,Sao Tome and Principe,STD,2008,14695.2
+2312,Sao Tome and Principe,STD,2009,16208.45
+2313,Sao Tome and Principe,STD,2010,18498.6
+2314,Sao Tome and Principe,STD,2011,17622.94
+2315,Sao Tome and Principe,STD,2012,19068.42
+2316,Sao Tome and Principe,STD,2013,18449.95
+2317,Sao Tome and Principe,STD,2014,18466.4
+2318,Sao Tome and Principe,STD,2015,22090.64
+2319,Sao Tome and Principe,STD,2016,22148.86
+2320,Saudi Arabia,SAR,2001,3.75
+2321,Saudi Arabia,SAR,2002,3.75
+2322,Saudi Arabia,SAR,2003,3.75
+2323,Saudi Arabia,SAR,2004,3.75
+2324,Saudi Arabia,SAR,2005,3.75
+2325,Saudi Arabia,SAR,2006,3.75
+2326,Saudi Arabia,SAR,2007,3.75
+2327,Saudi Arabia,SAR,2008,3.75
+2328,Saudi Arabia,SAR,2009,3.75
+2329,Saudi Arabia,SAR,2010,3.75
+2330,Saudi Arabia,SAR,2011,3.75
+2331,Saudi Arabia,SAR,2012,3.75
+2332,Saudi Arabia,SAR,2013,3.75
+2333,Saudi Arabia,SAR,2014,3.75
+2334,Saudi Arabia,SAR,2015,3.75
+2335,Saudi Arabia,SAR,2016,3.75
+2336,Senegal,XOF,2001,733.04
+2337,Senegal,XOF,2002,696.99
+2338,Senegal,XOF,2003,581.2
+2339,Senegal,XOF,2004,528.28
+2340,Senegal,XOF,2005,527.47
+2341,Senegal,XOF,2006,522.89
+2342,Senegal,XOF,2007,479.27
+2343,Senegal,XOF,2008,447.81
+2344,Senegal,XOF,2009,472.19
+2345,Senegal,XOF,2010,495.28
+2346,Senegal,XOF,2011,471.87
+2347,Senegal,XOF,2012,510.53
+2348,Senegal,XOF,2013,494.04
+2349,Senegal,XOF,2014,494.41
+2350,Senegal,XOF,2015,591.45
+2351,Senegal,XOF,2016,593.01
+2352,Serbia,RSD,2001,66.42
+2353,Serbia,RSD,2002,64.3
+2354,Serbia,RSD,2003,57.56
+2355,Serbia,RSD,2004,58.44
+2356,Serbia,RSD,2005,66.89
+2357,Serbia,RSD,2006,67.01
+2358,Serbia,RSD,2007,58.39
+2359,Serbia,RSD,2008,55.76
+2360,Serbia,RSD,2009,67.47
+2361,Serbia,RSD,2010,77.91
+2362,Serbia,RSD,2011,73.34
+2363,Serbia,RSD,2012,88.12
+2364,Serbia,RSD,2013,85.17
+2365,Serbia,RSD,2014,88.54
+2366,Serbia,RSD,2015,108.85
+2367,Serbia,RSD,2016,111.29
+2368,Seychelles,SCR,2001,5.86
+2369,Seychelles,SCR,2002,5.48
+2370,Seychelles,SCR,2003,5.4
+2371,Seychelles,SCR,2004,5.5
+2372,Seychelles,SCR,2005,5.5
+2373,Seychelles,SCR,2006,5.52
+2374,Seychelles,SCR,2007,6.7
+2375,Seychelles,SCR,2008,9.46
+2376,Seychelles,SCR,2009,13.61
+2377,Seychelles,SCR,2010,12.07
+2378,Seychelles,SCR,2011,12.38
+2379,Seychelles,SCR,2012,13.7
+2380,Seychelles,SCR,2013,12.06
+2381,Seychelles,SCR,2014,12.75
+2382,Seychelles,SCR,2015,13.31
+2383,Seychelles,SCR,2016,13.32
+2384,Sierra Leone,SLL,2001,1986.15
+2385,Sierra Leone,SLL,2002,2099.03
+2386,Sierra Leone,SLL,2003,2347.94
+2387,Sierra Leone,SLL,2004,2701.3
+2388,Sierra Leone,SLL,2005,2889.59
+2389,Sierra Leone,SLL,2006,2961.91
+2390,Sierra Leone,SLL,2007,2985.19
+2391,Sierra Leone,SLL,2008,2981.51
+2392,Sierra Leone,SLL,2009,3385.65
+2393,Sierra Leone,SLL,2010,3978.09
+2394,Sierra Leone,SLL,2011,4349.16
+2395,Sierra Leone,SLL,2012,4344.04
+2396,Sierra Leone,SLL,2013,4332.5
+2397,Sierra Leone,SLL,2014,4524.16
+2398,Sierra Leone,SLL,2015,5080.75
+2399,Sierra Leone,SLL,2016,6289.94
+2400,Singapore,SGD,2001,1.79
+2401,Singapore,SGD,2002,1.79
+2402,Singapore,SGD,2003,1.74
+2403,Singapore,SGD,2004,1.69
+2404,Singapore,SGD,2005,1.66
+2405,Singapore,SGD,2006,1.59
+2406,Singapore,SGD,2007,1.51
+2407,Singapore,SGD,2008,1.42
+2408,Singapore,SGD,2009,1.45
+2409,Singapore,SGD,2010,1.36
+2410,Singapore,SGD,2011,1.26
+2411,Singapore,SGD,2012,1.25
+2412,Singapore,SGD,2013,1.25
+2413,Singapore,SGD,2014,1.27
+2414,Singapore,SGD,2015,1.38
+2415,Singapore,SGD,2016,1.38
+2416,Slovakia,EUR,2001,1.61
+2417,Slovakia,EUR,2002,1.5
+2418,Slovakia,EUR,2003,1.22
+2419,Slovakia,EUR,2004,1.07
+2420,Slovakia,EUR,2005,1.03
+2421,Slovakia,EUR,2006,0.99
+2422,Slovakia,EUR,2007,0.82
+2423,Slovakia,EUR,2008,0.71
+2424,Slovakia,EUR,2009,0.72
+2425,Slovakia,EUR,2010,0.76
+2426,Slovakia,EUR,2011,0.72
+2427,Slovakia,EUR,2012,0.78
+2428,Slovakia,EUR,2013,0.75
+2429,Slovakia,EUR,2014,0.75
+2430,Slovakia,EUR,2015,0.9
+2431,Slovakia,EUR,2016,0.9
+2432,Slovenia,EUR,2001,1.02
+2433,Slovenia,EUR,2002,1.0
+2434,Slovenia,EUR,2003,0.86
+2435,Slovenia,EUR,2004,0.8
+2436,Slovenia,EUR,2005,0.8
+2437,Slovenia,EUR,2006,0.8
+2438,Slovenia,EUR,2007,0.73
+2439,Slovenia,EUR,2008,0.68
+2440,Slovenia,EUR,2009,0.72
+2441,Slovenia,EUR,2010,0.76
+2442,Slovenia,EUR,2011,0.72
+2443,Slovenia,EUR,2012,0.78
+2444,Slovenia,EUR,2013,0.75
+2445,Slovenia,EUR,2014,0.75
+2446,Slovenia,EUR,2015,0.9
+2447,Slovenia,EUR,2016,0.9
+2448,Solomon Islands,SBD,2001,5.28
+2449,Solomon Islands,SBD,2002,6.75
+2450,Solomon Islands,SBD,2003,7.51
+2451,Solomon Islands,SBD,2004,7.48
+2452,Solomon Islands,SBD,2005,7.53
+2453,Solomon Islands,SBD,2006,7.61
+2454,Solomon Islands,SBD,2007,7.65
+2455,Solomon Islands,SBD,2008,7.75
+2456,Solomon Islands,SBD,2009,8.06
+2457,Solomon Islands,SBD,2010,8.06
+2458,Solomon Islands,SBD,2011,7.64
+2459,Solomon Islands,SBD,2012,7.36
+2460,Solomon Islands,SBD,2013,7.3
+2461,Solomon Islands,SBD,2014,7.38
+2462,Solomon Islands,SBD,2015,7.91
+2463,Solomon Islands,SBD,2016,7.95
+2464,South Africa,ZAR,2001,8.59
+2465,South Africa,ZAR,2002,10.51
+2466,South Africa,ZAR,2003,7.56
+2467,South Africa,ZAR,2004,6.45
+2468,South Africa,ZAR,2005,6.37
+2469,South Africa,ZAR,2006,6.78
+2470,South Africa,ZAR,2007,7.06
+2471,South Africa,ZAR,2008,8.26
+2472,South Africa,ZAR,2009,8.42
+2473,South Africa,ZAR,2010,7.32
+2474,South Africa,ZAR,2011,7.27
+2475,South Africa,ZAR,2012,8.22
+2476,South Africa,ZAR,2013,9.66
+2477,South Africa,ZAR,2014,10.85
+2478,South Africa,ZAR,2015,12.78
+2479,South Africa,ZAR,2016,14.69
+2480,South Korea,KRW,2001,1289.62
+2481,South Korea,KRW,2002,1245.96
+2482,South Korea,KRW,2003,1191.02
+2483,South Korea,KRW,2004,1144.74
+2484,South Korea,KRW,2005,1024.02
+2485,South Korea,KRW,2006,955.01
+2486,South Korea,KRW,2007,929.1
+2487,South Korea,KRW,2008,1101.96
+2488,South Korea,KRW,2009,1275.99
+2489,South Korea,KRW,2010,1156.68
+2490,South Korea,KRW,2011,1108.13
+2491,South Korea,KRW,2012,1127.09
+2492,South Korea,KRW,2013,1095.11
+2493,South Korea,KRW,2014,1053.05
+2494,South Korea,KRW,2015,1132.72
+2495,South Korea,KRW,2016,1160.5
+2496,South Sudan,SSP,2001,0.0
+2497,South Sudan,SSP,2002,0.0
+2498,South Sudan,SSP,2003,0.0
+2499,South Sudan,SSP,2004,0.0
+2500,South Sudan,SSP,2005,0.0
+2501,South Sudan,SSP,2006,0.0
+2502,South Sudan,SSP,2007,0.0
+2503,South Sudan,SSP,2008,0.0
+2504,South Sudan,SSP,2009,0.0
+2505,South Sudan,SSP,2010,0.0
+2506,South Sudan,SSP,2011,2.99
+2507,South Sudan,SSP,2012,2.95
+2508,South Sudan,SSP,2013,2.95
+2509,South Sudan,SSP,2014,2.95
+2510,South Sudan,SSP,2015,4.09
+2511,South Sudan,SSP,2016,49.41
+2512,Spain,EUR,2001,1.12
+2513,Spain,EUR,2002,1.06
+2514,Spain,EUR,2003,0.89
+2515,Spain,EUR,2004,0.8
+2516,Spain,EUR,2005,0.81
+2517,Spain,EUR,2006,0.8
+2518,Spain,EUR,2007,0.73
+2519,Spain,EUR,2008,0.68
+2520,Spain,EUR,2009,0.72
+2521,Spain,EUR,2010,0.76
+2522,Spain,EUR,2011,0.72
+2523,Spain,EUR,2012,0.78
+2524,Spain,EUR,2013,0.75
+2525,Spain,EUR,2014,0.75
+2526,Spain,EUR,2015,0.9
+2527,Spain,EUR,2016,0.9
+2528,Sri Lanka,LKR,2001,89.6
+2529,Sri Lanka,LKR,2002,95.77
+2530,Sri Lanka,LKR,2003,96.54
+2531,Sri Lanka,LKR,2004,101.27
+2532,Sri Lanka,LKR,2005,100.38
+2533,Sri Lanka,LKR,2006,103.94
+2534,Sri Lanka,LKR,2007,110.62
+2535,Sri Lanka,LKR,2008,108.3
+2536,Sri Lanka,LKR,2009,114.91
+2537,Sri Lanka,LKR,2010,112.99
+2538,Sri Lanka,LKR,2011,110.47
+2539,Sri Lanka,LKR,2012,127.54
+2540,Sri Lanka,LKR,2013,129.05
+2541,Sri Lanka,LKR,2014,130.54
+2542,Sri Lanka,LKR,2015,135.88
+2543,Sri Lanka,LKR,2016,145.73
+2544,St. Lucia,XCD,2001,2.7
+2545,St. Lucia,XCD,2002,2.7
+2546,St. Lucia,XCD,2003,2.7
+2547,St. Lucia,XCD,2004,2.7
+2548,St. Lucia,XCD,2005,2.7
+2549,St. Lucia,XCD,2006,2.7
+2550,St. Lucia,XCD,2007,2.7
+2551,St. Lucia,XCD,2008,2.7
+2552,St. Lucia,XCD,2009,2.7
+2553,St. Lucia,XCD,2010,2.7
+2554,St. Lucia,XCD,2011,2.7
+2555,St. Lucia,XCD,2012,2.7
+2556,St. Lucia,XCD,2013,2.7
+2557,St. Lucia,XCD,2014,2.7
+2558,St. Lucia,XCD,2015,2.7
+2559,St. Lucia,XCD,2016,2.7
+2560,St. Vincent and the Grenadines,XCD,2001,2.7
+2561,St. Vincent and the Grenadines,XCD,2002,2.7
+2562,St. Vincent and the Grenadines,XCD,2003,2.7
+2563,St. Vincent and the Grenadines,XCD,2004,2.7
+2564,St. Vincent and the Grenadines,XCD,2005,2.7
+2565,St. Vincent and the Grenadines,XCD,2006,2.7
+2566,St. Vincent and the Grenadines,XCD,2007,2.7
+2567,St. Vincent and the Grenadines,XCD,2008,2.7
+2568,St. Vincent and the Grenadines,XCD,2009,2.7
+2569,St. Vincent and the Grenadines,XCD,2010,2.7
+2570,St. Vincent and the Grenadines,XCD,2011,2.7
+2571,St. Vincent and the Grenadines,XCD,2012,2.7
+2572,St. Vincent and the Grenadines,XCD,2013,2.7
+2573,St. Vincent and the Grenadines,XCD,2014,2.7
+2574,St. Vincent and the Grenadines,XCD,2015,2.7
+2575,St. Vincent and the Grenadines,XCD,2016,2.7
+2576,St.Kitts - Nevis,XCD,2001,2.7
+2577,St.Kitts - Nevis,XCD,2002,2.7
+2578,St.Kitts - Nevis,XCD,2003,2.7
+2579,St.Kitts - Nevis,XCD,2004,2.7
+2580,St.Kitts - Nevis,XCD,2005,2.7
+2581,St.Kitts - Nevis,XCD,2006,2.7
+2582,St.Kitts - Nevis,XCD,2007,2.7
+2583,St.Kitts - Nevis,XCD,2008,2.7
+2584,St.Kitts - Nevis,XCD,2009,2.7
+2585,St.Kitts - Nevis,XCD,2010,2.7
+2586,St.Kitts - Nevis,XCD,2011,2.7
+2587,St.Kitts - Nevis,XCD,2012,2.7
+2588,St.Kitts - Nevis,XCD,2013,2.7
+2589,St.Kitts - Nevis,XCD,2014,2.7
+2590,St.Kitts - Nevis,XCD,2015,2.7
+2591,St.Kitts - Nevis,XCD,2016,2.7
+2592,Sudan,SDG,2001,2.59
+2593,Sudan,SDG,2002,2.63
+2594,Sudan,SDG,2003,2.61
+2595,Sudan,SDG,2004,2.58
+2596,Sudan,SDG,2005,2.44
+2597,Sudan,SDG,2006,2.17
+2598,Sudan,SDG,2007,2.02
+2599,Sudan,SDG,2008,2.09
+2600,Sudan,SDG,2009,2.3
+2601,Sudan,SDG,2010,2.31
+2602,Sudan,SDG,2011,2.67
+2603,Sudan,SDG,2012,3.57
+2604,Sudan,SDG,2013,4.76
+2605,Sudan,SDG,2014,5.74
+2606,Sudan,SDG,2015,6.03
+2607,Sudan,SDG,2016,6.21
+2608,Suriname,SRD,2001,2.18
+2609,Suriname,SRD,2002,2.35
+2610,Suriname,SRD,2003,2.6
+2611,Suriname,SRD,2004,2.73
+2612,Suriname,SRD,2005,2.73
+2613,Suriname,SRD,2006,2.74
+2614,Suriname,SRD,2007,2.75
+2615,Suriname,SRD,2008,2.75
+2616,Suriname,SRD,2009,2.75
+2617,Suriname,SRD,2010,2.75
+2618,Suriname,SRD,2011,3.27
+2619,Suriname,SRD,2012,3.3
+2620,Suriname,SRD,2013,3.3
+2621,Suriname,SRD,2014,3.3
+2622,Suriname,SRD,2015,3.42
+2623,Suriname,SRD,2016,6.23
+2624,Swaziland,SZL,2001,8.61
+2625,Swaziland,SZL,2002,10.54
+2626,Swaziland,SZL,2003,7.56
+2627,Swaziland,SZL,2004,6.46
+2628,Swaziland,SZL,2005,6.36
+2629,Swaziland,SZL,2006,6.77
+2630,Swaziland,SZL,2007,7.05
+2631,Swaziland,SZL,2008,8.26
+2632,Swaziland,SZL,2009,8.47
+2633,Swaziland,SZL,2010,7.32
+2634,Swaziland,SZL,2011,7.26
+2635,Swaziland,SZL,2012,8.21
+2636,Swaziland,SZL,2013,9.66
+2637,Swaziland,SZL,2014,10.85
+2638,Swaziland,SZL,2015,12.76
+2639,Swaziland,SZL,2016,14.71
+2640,Sweden,SEK,2001,10.34
+2641,Sweden,SEK,2002,9.72
+2642,Sweden,SEK,2003,8.08
+2643,Sweden,SEK,2004,7.35
+2644,Sweden,SEK,2005,7.48
+2645,Sweden,SEK,2006,7.38
+2646,Sweden,SEK,2007,6.76
+2647,Sweden,SEK,2008,6.59
+2648,Sweden,SEK,2009,7.64
+2649,Sweden,SEK,2010,7.21
+2650,Sweden,SEK,2011,6.49
+2651,Sweden,SEK,2012,6.78
+2652,Sweden,SEK,2013,6.51
+2653,Sweden,SEK,2014,6.86
+2654,Sweden,SEK,2015,8.43
+2655,Sweden,SEK,2016,8.56
+2656,Switzerland,CHF,2001,1.69
+2657,Switzerland,CHF,2002,1.56
+2658,Switzerland,CHF,2003,1.35
+2659,Switzerland,CHF,2004,1.24
+2660,Switzerland,CHF,2005,1.25
+2661,Switzerland,CHF,2006,1.25
+2662,Switzerland,CHF,2007,1.2
+2663,Switzerland,CHF,2008,1.08
+2664,Switzerland,CHF,2009,1.09
+2665,Switzerland,CHF,2010,1.04
+2666,Switzerland,CHF,2011,0.89
+2667,Switzerland,CHF,2012,0.94
+2668,Switzerland,CHF,2013,0.93
+2669,Switzerland,CHF,2014,0.92
+2670,Switzerland,CHF,2015,0.96
+2671,Switzerland,CHF,2016,0.99
+2672,Syrian Arab Republic,SYP,2001,11.23
+2673,Syrian Arab Republic,SYP,2002,11.23
+2674,Syrian Arab Republic,SYP,2003,11.23
+2675,Syrian Arab Republic,SYP,2004,11.23
+2676,Syrian Arab Republic,SYP,2005,11.23
+2677,Syrian Arab Republic,SYP,2006,11.23
+2678,Syrian Arab Republic,SYP,2007,11.23
+2679,Syrian Arab Republic,SYP,2008,11.23
+2680,Syrian Arab Republic,SYP,2009,11.23
+2681,Syrian Arab Republic,SYP,2010,11.23
+2682,Syrian Arab Republic,SYP,2011,11.23
+2683,Syrian Arab Republic,SYP,2012,11.23
+2684,Syrian Arab Republic,SYP,2013,11.23
+2685,Syrian Arab Republic,SYP,2014,11.23
+2686,Syrian Arab Republic,SYP,2015,11.23
+2687,Syrian Arab Republic,SYP,2016,11.23
+2688,Tajikistan,TJS,2001,2.37
+2689,Tajikistan,TJS,2002,2.76
+2690,Tajikistan,TJS,2003,3.06
+2691,Tajikistan,TJS,2004,2.97
+2692,Tajikistan,TJS,2005,3.12
+2693,Tajikistan,TJS,2006,3.3
+2694,Tajikistan,TJS,2007,3.44
+2695,Tajikistan,TJS,2008,3.43
+2696,Tajikistan,TJS,2009,4.14
+2697,Tajikistan,TJS,2010,4.38
+2698,Tajikistan,TJS,2011,4.61
+2699,Tajikistan,TJS,2012,4.74
+2700,Tajikistan,TJS,2013,4.76
+2701,Tajikistan,TJS,2014,4.94
+2702,Tajikistan,TJS,2015,6.16
+2703,Tajikistan,TJS,2016,7.84
+2704,United Republic of Tanzania,TZS,2001,876.41
+2705,United Republic of Tanzania,TZS,2002,966.58
+2706,United Republic of Tanzania,TZS,2003,1038.42
+2707,United Republic of Tanzania,TZS,2004,1089.33
+2708,United Republic of Tanzania,TZS,2005,1128.93
+2709,United Republic of Tanzania,TZS,2006,1251.9
+2710,United Republic of Tanzania,TZS,2007,1245.04
+2711,United Republic of Tanzania,TZS,2008,1196.31
+2712,United Republic of Tanzania,TZS,2009,1320.31
+2713,United Republic of Tanzania,TZS,2010,1395.62
+2714,United Republic of Tanzania,TZS,2011,1557.43
+2715,United Republic of Tanzania,TZS,2012,1571.7
+2716,United Republic of Tanzania,TZS,2013,1597.56
+2717,United Republic of Tanzania,TZS,2014,1653.23
+2718,United Republic of Tanzania,TZS,2015,1991.39
+2719,United Republic of Tanzania,TZS,2016,2177.09
+2720,Thailand,THB,2001,44.5
+2721,Thailand,THB,2002,43.0
+2722,Thailand,THB,2003,41.52
+2723,Thailand,THB,2004,40.27
+2724,Thailand,THB,2005,40.29
+2725,Thailand,THB,2006,37.93
+2726,Thailand,THB,2007,32.3
+2727,Thailand,THB,2008,33.03
+2728,Thailand,THB,2009,34.32
+2729,Thailand,THB,2010,31.7
+2730,Thailand,THB,2011,30.49
+2731,Thailand,THB,2012,31.09
+2732,Thailand,THB,2013,30.73
+2733,Thailand,THB,2014,32.48
+2734,Thailand,THB,2015,34.28
+2735,Thailand,THB,2016,35.28
+2736,Togo,XOF,2001,733.04
+2737,Togo,XOF,2002,696.99
+2738,Togo,XOF,2003,581.2
+2739,Togo,XOF,2004,528.28
+2740,Togo,XOF,2005,527.47
+2741,Togo,XOF,2006,522.89
+2742,Togo,XOF,2007,479.27
+2743,Togo,XOF,2008,447.81
+2744,Togo,XOF,2009,472.19
+2745,Togo,XOF,2010,495.28
+2746,Togo,XOF,2011,471.87
+2747,Togo,XOF,2012,510.53
+2748,Togo,XOF,2013,494.04
+2749,Togo,XOF,2014,494.41
+2750,Togo,XOF,2015,591.45
+2751,Togo,XOF,2016,593.01
+2752,Tonga,TOP,2001,2.12
+2753,Tonga,TOP,2002,2.2
+2754,Tonga,TOP,2003,2.15
+2755,Tonga,TOP,2004,1.97
+2756,Tonga,TOP,2005,1.94
+2757,Tonga,TOP,2006,2.03
+2758,Tonga,TOP,2007,1.97
+2759,Tonga,TOP,2008,1.94
+2760,Tonga,TOP,2009,2.03
+2761,Tonga,TOP,2010,1.91
+2762,Tonga,TOP,2011,1.73
+2763,Tonga,TOP,2012,1.72
+2764,Tonga,TOP,2013,1.77
+2765,Tonga,TOP,2014,1.85
+2766,Tonga,TOP,2015,2.11
+2767,Tonga,TOP,2016,2.22
+2768,Trinidad and Tobago,TTD,2001,6.2
+2769,Trinidad and Tobago,TTD,2002,6.21
+2770,Trinidad and Tobago,TTD,2003,6.26
+2771,Trinidad and Tobago,TTD,2004,6.27
+2772,Trinidad and Tobago,TTD,2005,6.27
+2773,Trinidad and Tobago,TTD,2006,6.28
+2774,Trinidad and Tobago,TTD,2007,6.3
+2775,Trinidad and Tobago,TTD,2008,6.26
+2776,Trinidad and Tobago,TTD,2009,6.3
+2777,Trinidad and Tobago,TTD,2010,6.35
+2778,Trinidad and Tobago,TTD,2011,6.4
+2779,Trinidad and Tobago,TTD,2012,6.4
+2780,Trinidad and Tobago,TTD,2013,6.42
+2781,Trinidad and Tobago,TTD,2014,6.38
+2782,Trinidad and Tobago,TTD,2015,6.35
+2783,Trinidad and Tobago,TTD,2016,6.64
+2784,Tunisia,TND,2001,1.44
+2785,Tunisia,TND,2002,1.42
+2786,Tunisia,TND,2003,1.29
+2787,Tunisia,TND,2004,1.25
+2788,Tunisia,TND,2005,1.3
+2789,Tunisia,TND,2006,1.33
+2790,Tunisia,TND,2007,1.28
+2791,Tunisia,TND,2008,1.23
+2792,Tunisia,TND,2009,1.35
+2793,Tunisia,TND,2010,1.45
+2794,Tunisia,TND,2011,1.41
+2795,Tunisia,TND,2012,1.56
+2796,Tunisia,TND,2013,1.63
+2797,Tunisia,TND,2014,1.7
+2798,Tunisia,TND,2015,1.96
+2799,Tunisia,TND,2016,2.14
+2800,Turkey,TRY,2001,1.23
+2801,Turkey,TRY,2002,1.52
+2802,Turkey,TRY,2003,1.5
+2803,Turkey,TRY,2004,1.43
+2804,Turkey,TRY,2005,1.35
+2805,Turkey,TRY,2006,1.44
+2806,Turkey,TRY,2007,1.31
+2807,Turkey,TRY,2008,1.3
+2808,Turkey,TRY,2009,1.55
+2809,Turkey,TRY,2010,1.51
+2810,Turkey,TRY,2011,1.68
+2811,Turkey,TRY,2012,1.8
+2812,Turkey,TRY,2013,1.91
+2813,Turkey,TRY,2014,2.19
+2814,Turkey,TRY,2015,2.73
+2815,Turkey,TRY,2016,3.02
+2816,Turkmenistan,TMT,2001,1.04
+2817,Turkmenistan,TMT,2002,1.04
+2818,Turkmenistan,TMT,2003,1.04
+2819,Turkmenistan,TMT,2004,1.04
+2820,Turkmenistan,TMT,2005,1.04
+2821,Turkmenistan,TMT,2006,1.04
+2822,Turkmenistan,TMT,2007,1.04
+2823,Turkmenistan,TMT,2008,2.32
+2824,Turkmenistan,TMT,2009,2.85
+2825,Turkmenistan,TMT,2010,2.85
+2826,Turkmenistan,TMT,2011,2.85
+2827,Turkmenistan,TMT,2012,2.85
+2828,Turkmenistan,TMT,2013,2.85
+2829,Turkmenistan,TMT,2014,2.85
+2830,Turkmenistan,TMT,2015,3.5
+2831,Turkmenistan,TMT,2016,3.5
+2832,Uganda,UGX,2001,1755.66
+2833,Uganda,UGX,2002,1797.55
+2834,Uganda,UGX,2003,1963.72
+2835,Uganda,UGX,2004,1810.3
+2836,Uganda,UGX,2005,1780.67
+2837,Uganda,UGX,2006,1831.45
+2838,Uganda,UGX,2007,1723.49
+2839,Uganda,UGX,2008,1720.44
+2840,Uganda,UGX,2009,2030.49
+2841,Uganda,UGX,2010,2177.56
+2842,Uganda,UGX,2011,2522.75
+2843,Uganda,UGX,2012,2504.56
+2844,Uganda,UGX,2013,2586.89
+2845,Uganda,UGX,2014,2599.79
+2846,Uganda,UGX,2015,3240.65
+2847,Uganda,UGX,2016,3420.1
+2848,Ukraine,UAH,2001,5.37
+2849,Ukraine,UAH,2002,5.33
+2850,Ukraine,UAH,2003,5.33
+2851,Ukraine,UAH,2004,5.32
+2852,Ukraine,UAH,2005,5.12
+2853,Ukraine,UAH,2006,5.05
+2854,Ukraine,UAH,2007,5.05
+2855,Ukraine,UAH,2008,5.28
+2856,Ukraine,UAH,2009,7.79
+2857,Ukraine,UAH,2010,7.94
+2858,Ukraine,UAH,2011,7.97
+2859,Ukraine,UAH,2012,7.99
+2860,Ukraine,UAH,2013,7.99
+2861,Ukraine,UAH,2014,11.87
+2862,Ukraine,UAH,2015,21.81
+2863,Ukraine,UAH,2016,25.59
+2864,United Arab Emirates,AED,2001,3.67
+2865,United Arab Emirates,AED,2002,3.67
+2866,United Arab Emirates,AED,2003,3.67
+2867,United Arab Emirates,AED,2004,3.67
+2868,United Arab Emirates,AED,2005,3.67
+2869,United Arab Emirates,AED,2006,3.67
+2870,United Arab Emirates,AED,2007,3.67
+2871,United Arab Emirates,AED,2008,3.67
+2872,United Arab Emirates,AED,2009,3.67
+2873,United Arab Emirates,AED,2010,3.67
+2874,United Arab Emirates,AED,2011,3.67
+2875,United Arab Emirates,AED,2012,3.67
+2876,United Arab Emirates,AED,2013,3.67
+2877,United Arab Emirates,AED,2014,3.67
+2878,United Arab Emirates,AED,2015,3.67
+2879,United Arab Emirates,AED,2016,3.67
+2880,United Kingdom,GBP,2001,0.69
+2881,United Kingdom,GBP,2002,0.67
+2882,United Kingdom,GBP,2003,0.61
+2883,United Kingdom,GBP,2004,0.55
+2884,United Kingdom,GBP,2005,0.55
+2885,United Kingdom,GBP,2006,0.54
+2886,United Kingdom,GBP,2007,0.5
+2887,United Kingdom,GBP,2008,0.55
+2888,United Kingdom,GBP,2009,0.64
+2889,United Kingdom,GBP,2010,0.65
+2890,United Kingdom,GBP,2011,0.62
+2891,United Kingdom,GBP,2012,0.63
+2892,United Kingdom,GBP,2013,0.64
+2893,United Kingdom,GBP,2014,0.61
+2894,United Kingdom,GBP,2015,0.65
+2895,United Kingdom,GBP,2016,0.74
+2896,United States,USD,2001,1.0
+2897,United States,USD,2002,1.0
+2898,United States,USD,2003,1.0
+2899,United States,USD,2004,1.0
+2900,United States,USD,2005,1.0
+2901,United States,USD,2006,1.0
+2902,United States,USD,2007,1.0
+2903,United States,USD,2008,1.0
+2904,United States,USD,2009,1.0
+2905,United States,USD,2010,1.0
+2906,United States,USD,2011,1.0
+2907,United States,USD,2012,1.0
+2908,United States,USD,2013,1.0
+2909,United States,USD,2014,1.0
+2910,United States,USD,2015,1.0
+2911,United States,USD,2016,1.0
+2912,Uruguay,UYU,2001,13.32
+2913,Uruguay,UYU,2002,21.4
+2914,Uruguay,UYU,2003,28.2
+2915,Uruguay,UYU,2004,28.66
+2916,Uruguay,UYU,2005,24.43
+2917,Uruguay,UYU,2006,24.04
+2918,Uruguay,UYU,2007,23.43
+2919,Uruguay,UYU,2008,20.96
+2920,Uruguay,UYU,2009,22.53
+2921,Uruguay,UYU,2010,20.07
+2922,Uruguay,UYU,2011,19.3
+2923,Uruguay,UYU,2012,20.32
+2924,Uruguay,UYU,2013,20.5
+2925,Uruguay,UYU,2014,23.23
+2926,Uruguay,UYU,2015,27.33
+2927,Uruguay,UYU,2016,30.08
+2928,Uzbekistan,UZS,2001,427.73
+2929,Uzbekistan,UZS,2002,782.53
+2930,Uzbekistan,UZS,2003,971.98
+2931,Uzbekistan,UZS,2004,1022.35
+2932,Uzbekistan,UZS,2005,1117.8
+2933,Uzbekistan,UZS,2006,1221.73
+2934,Uzbekistan,UZS,2007,1265.58
+2935,Uzbekistan,UZS,2008,1323.92
+2936,Uzbekistan,UZS,2009,1470.44
+2937,Uzbekistan,UZS,2010,1591.32
+2938,Uzbekistan,UZS,2011,1720.91
+2939,Uzbekistan,UZS,2012,1897.54
+2940,Uzbekistan,UZS,2013,2103.74
+2941,Uzbekistan,UZS,2014,2319.55
+2942,Uzbekistan,UZS,2015,2583.54
+2943,Uzbekistan,UZS,2016,2981.89
+2944,Vanuatu,VUV,2001,145.31
+2945,Vanuatu,VUV,2002,139.2
+2946,Vanuatu,VUV,2003,122.19
+2947,Vanuatu,VUV,2004,111.79
+2948,Vanuatu,VUV,2005,109.25
+2949,Vanuatu,VUV,2006,110.64
+2950,Vanuatu,VUV,2007,102.44
+2951,Vanuatu,VUV,2008,101.33
+2952,Vanuatu,VUV,2009,106.74
+2953,Vanuatu,VUV,2010,96.91
+2954,Vanuatu,VUV,2011,89.47
+2955,Vanuatu,VUV,2012,92.64
+2956,Vanuatu,VUV,2013,94.54
+2957,Vanuatu,VUV,2014,97.07
+2958,Vanuatu,VUV,2015,108.99
+2959,Vanuatu,VUV,2016,108.48
+2960,Venezuela,VEF,2001,0.72
+2961,Venezuela,VEF,2002,1.16
+2962,Venezuela,VEF,2003,1.61
+2963,Venezuela,VEF,2004,1.89
+2964,Venezuela,VEF,2005,2.1
+2965,Venezuela,VEF,2006,2.14
+2966,Venezuela,VEF,2007,2.14
+2967,Venezuela,VEF,2008,2.14
+2968,Venezuela,VEF,2009,2.14
+2969,Venezuela,VEF,2010,4.24
+2970,Venezuela,VEF,2011,4.29
+2971,Venezuela,VEF,2012,4.29
+2972,Venezuela,VEF,2013,6.07
+2973,Venezuela,VEF,2014,6.28
+2974,Venezuela,VEF,2015,6.28
+2975,Venezuela,VEF,2016,9.3
+2976,Vietnam,VND,2001,14725.17
+2977,Vietnam,VND,2002,15279.5
+2978,Vietnam,VND,2003,15509.58
+2979,Vietnam,VND,2004,15746.0
+2980,Vietnam,VND,2005,15858.92
+2981,Vietnam,VND,2006,15994.25
+2982,Vietnam,VND,2007,16105.13
+2983,Vietnam,VND,2008,16302.25
+2984,Vietnam,VND,2009,17065.08
+2985,Vietnam,VND,2010,18612.92
+2986,Vietnam,VND,2011,20509.75
+2987,Vietnam,VND,2012,20828.0
+2988,Vietnam,VND,2013,20933.42
+2989,Vietnam,VND,2014,21148.0
+2990,Vietnam,VND,2015,21697.57
+2991,Vietnam,VND,2016,21935.0
+2992,Waemu,XOF,2001,733.04
+2993,Waemu,XOF,2002,696.99
+2994,Waemu,XOF,2003,581.2
+2995,Waemu,XOF,2004,528.28
+2996,Waemu,XOF,2005,527.47
+2997,Waemu,XOF,2006,522.89
+2998,Waemu,XOF,2007,479.27
+2999,Waemu,XOF,2008,447.81
+3000,Waemu,XOF,2009,472.19
+3001,Waemu,XOF,2010,495.28
+3002,Waemu,XOF,2011,471.87
+3003,Waemu,XOF,2012,510.53
+3004,Waemu,XOF,2013,494.04
+3005,Waemu,XOF,2014,494.41
+3006,Waemu,XOF,2015,591.45
+3007,Waemu,XOF,2016,593.01
+3008,World,XDR,2001,0.79
+3009,World,XDR,2002,0.77
+3010,World,XDR,2003,0.71
+3011,World,XDR,2004,0.68
+3012,World,XDR,2005,0.68
+3013,World,XDR,2006,0.68
+3014,World,XDR,2007,0.65
+3015,World,XDR,2008,0.63
+3016,World,XDR,2009,0.65
+3017,World,XDR,2010,0.66
+3018,World,XDR,2011,0.63
+3019,World,XDR,2012,0.65
+3020,World,XDR,2013,0.66
+3021,World,XDR,2014,0.66
+3022,World,XDR,2015,0.72
+3023,World,XDR,2016,0.72
+3024,Yemen,YER,2001,168.67
+3025,Yemen,YER,2002,175.63
+3026,Yemen,YER,2003,183.45
+3027,Yemen,YER,2004,184.78
+3028,Yemen,YER,2005,191.51
+3029,Yemen,YER,2006,197.05
+3030,Yemen,YER,2007,198.95
+3031,Yemen,YER,2008,199.76
+3032,Yemen,YER,2009,202.85
+3033,Yemen,YER,2010,219.59
+3034,Yemen,YER,2011,213.8
+3035,Yemen,YER,2012,214.35
+3036,Yemen,YER,2013,214.89
+3037,Yemen,YER,2014,214.89
+3038,Yemen,YER,2015,214.89
+3039,Yemen,YER,2016,214.89
+3040,Zambia,ZMW,2001,3.61
+3041,Zambia,ZMW,2002,4.4
+3042,Zambia,ZMW,2003,4.73
+3043,Zambia,ZMW,2004,4.78
+3044,Zambia,ZMW,2005,4.46
+3045,Zambia,ZMW,2006,3.6
+3046,Zambia,ZMW,2007,4.0
+3047,Zambia,ZMW,2008,3.75
+3048,Zambia,ZMW,2009,5.05
+3049,Zambia,ZMW,2010,4.8
+3050,Zambia,ZMW,2011,4.86
+3051,Zambia,ZMW,2012,5.15
+3052,Zambia,ZMW,2013,5.4
+3053,Zambia,ZMW,2014,6.15
+3054,Zambia,ZMW,2015,8.63
+3055,Zambia,ZMW,2016,10.31
+3056,Zimbabwe,ZWL,2001,0.06
+3057,Zimbabwe,ZWL,2002,0.06
+3058,Zimbabwe,ZWL,2003,0.7
+3059,Zimbabwe,ZWL,2004,5.07
+3060,Zimbabwe,ZWL,2005,22.39
+3061,Zimbabwe,ZWL,2006,164.55
+3062,Zimbabwe,ZWL,2007,9686.77
+3063,Zimbabwe,ZWL,2008,6723052073.34
+3064,Zimbabwe,ZWL,2009,0.0
+3065,Zimbabwe,ZWL,2010,0.0
+3066,Zimbabwe,ZWL,2011,0.0
+3067,Zimbabwe,ZWL,2012,0.0
+3068,Zimbabwe,ZWL,2013,0.0
+3069,Zimbabwe,ZWL,2014,0.0
+3070,Zimbabwe,ZWL,2015,0.0
+3071,Zimbabwe,ZWL,2016,0.0

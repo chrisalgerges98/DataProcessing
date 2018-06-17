@@ -483,97 +483,91 @@
 786,Senegal,Rice (imported),16
 787,Senegal,Rice (local),10
 788,Senegal,Sorghum,16
-791,Somalia,"Oil (vegetable, imported)",5
-792,Somalia,Rice (imported),5
-794,Somalia,Sorghum (white),5
-796,South Sudan,Beans (red),8
-798,South Sudan,Cassava (dry),6
-799,South Sudan,Fuel (diesel),5
-800,South Sudan,Fuel (petrol-gasoline),5
-801,South Sudan,Groundnuts (shelled),10
-802,South Sudan,Maize (white),10
-803,South Sudan,Millet (white),11
-805,South Sudan,Sesame,10
-806,South Sudan,Sorghum (white),11
-807,South Sudan,Wheat flour,8
-810,Sri Lanka,Rice (long grain),8
-811,Sri Lanka,Rice (red nadu),10
-812,Sri Lanka,Sugar,5
-813,Sri Lanka,Wheat flour,13
-842,Sudan,Millet,14
-843,Sudan,Sorghum,14
-844,Sudan,Sorghum (food aid),11
-845,Sudan,Wheat,7
-846,Swaziland,Beans (sugar) ,6
-847,Swaziland,Maize (white),13
-848,Swaziland,Maize meal,9
-849,Swaziland,Oil (sunflower),6
-850,Swaziland,Rice,9
-851,Swaziland,Salt,6
-852,Swaziland,Sugar (brown),6
-853,Swaziland,Wheat flour,9
-855,Syrian Arab Republic,Bread (bakery),5
-856,Syrian Arab Republic,Bread (shop),6
-865,Syrian Arab Republic,Lentils,6
-868,Syrian Arab Republic,Oil,6
-871,Syrian Arab Republic,Rice,6
-873,Syrian Arab Republic,Sugar,6
-874,Syrian Arab Republic,Tea,5
-881,Tajikistan,Bread,15
-882,Tajikistan,Cabbage,15
-883,Tajikistan,Carrots,15
-885,Tajikistan,Eggs,13
-888,Tajikistan,Maize,15
-889,Tajikistan,Meat (beef),15
-890,Tajikistan,"Meat (chicken, frozen)",15
-891,Tajikistan,Meat (mutton),15
-892,Tajikistan,Milk,13
-893,Tajikistan,Oil (cotton),15
-894,Tajikistan,Oil (vegetable),15
-895,Tajikistan,Onions,13
-897,Tajikistan,Potatoes,15
-898,Tajikistan,Rice,15
-899,Tajikistan,Salt,15
-900,Tajikistan,Sugar,15
-901,Tajikistan,Tea (black),15
-902,Tajikistan,Tea (green),15
-903,Tajikistan,Wheat,15
-904,Tajikistan,Wheat flour (first grade),15
-905,Tajikistan,Wheat flour (high quality),15
-906,Tajikistan,Wheat flour (local),9
-913,Timor-Leste,Maize,6
-917,Timor-Leste,Rice (imported),6
-918,Timor-Leste,Rice (local),6
-962,Uganda,Beans,6
-963,Uganda,Cassava flour,7
-964,Uganda,Maize (white),6
-965,Uganda,Maize flour,7
-966,Uganda,Millet,6
-968,Uganda,Sorghum,6
-994,United Republic of Tanzania,Beans,10
-995,United Republic of Tanzania,Maize,11
-996,United Republic of Tanzania,Rice,11
-997,Yemen,Beans (kidney red),5
-998,Yemen,Beans (white),5
-999,Yemen,Eggs,5
-1003,Yemen,Lentils,5
-1005,Yemen,Oil (vegetable),5
-1006,Yemen,Onions,5
-1007,Yemen,"Peas (yellow, split)",5
-1008,Yemen,Potatoes,5
-1009,Yemen,Rice (imported),5
-1010,Yemen,Salt,5
-1011,Yemen,Sugar,5
-1012,Yemen,Tomatoes,5
-1013,Yemen,Wheat,8
-1014,Yemen,Wheat flour,8
-1015,Zambia,Beans (dry),5
-1016,Zambia,Cassava meal,5
-1017,Zambia,Groundnuts (shelled),5
-1018,Zambia,Maize (white),14
-1019,Zambia,"Maize meal (white, breakfast)",5
-1020,Zambia,"Maize meal (white, roller)",5
-1021,Zambia,Millet,5
-1022,Zambia,Rice (local),5
-1023,Zambia,Sorghum,5
-1027,Zimbabwe,Maize,7
+789,South Sudan,Beans (red),8
+791,South Sudan,Cassava (dry),6
+792,South Sudan,Fuel (diesel),5
+793,South Sudan,Fuel (petrol-gasoline),5
+794,South Sudan,Groundnuts (shelled),10
+795,South Sudan,Maize (white),10
+796,South Sudan,Millet (white),11
+798,South Sudan,Sesame,10
+799,South Sudan,Sorghum (white),11
+800,South Sudan,Wheat flour,8
+803,Sri Lanka,Rice (long grain),8
+804,Sri Lanka,Rice (red nadu),10
+805,Sri Lanka,Sugar,5
+806,Sri Lanka,Wheat flour,13
+835,Sudan,Millet,14
+836,Sudan,Sorghum,14
+837,Sudan,Sorghum (food aid),11
+838,Sudan,Wheat,7
+839,Swaziland,Beans (sugar) ,6
+840,Swaziland,Maize (white),13
+841,Swaziland,Maize meal,9
+842,Swaziland,Oil (sunflower),6
+843,Swaziland,Rice,9
+844,Swaziland,Salt,6
+845,Swaziland,Sugar (brown),6
+846,Swaziland,Wheat flour,9
+848,Syrian Arab Republic,Bread (bakery),5
+849,Syrian Arab Republic,Bread (shop),6
+858,Syrian Arab Republic,Lentils,6
+861,Syrian Arab Republic,Oil,6
+864,Syrian Arab Republic,Rice,6
+866,Syrian Arab Republic,Sugar,6
+867,Syrian Arab Republic,Tea,5
+874,Tajikistan,Bread,15
+875,Tajikistan,Cabbage,15
+876,Tajikistan,Carrots,15
+878,Tajikistan,Eggs,13
+881,Tajikistan,Maize,15
+882,Tajikistan,Meat (beef),15
+883,Tajikistan,"Meat (chicken, frozen)",15
+884,Tajikistan,Meat (mutton),15
+885,Tajikistan,Milk,13
+886,Tajikistan,Oil (cotton),15
+887,Tajikistan,Oil (vegetable),15
+888,Tajikistan,Onions,13
+890,Tajikistan,Potatoes,15
+891,Tajikistan,Rice,15
+892,Tajikistan,Salt,15
+893,Tajikistan,Sugar,15
+894,Tajikistan,Tea (black),15
+895,Tajikistan,Tea (green),15
+896,Tajikistan,Wheat,15
+897,Tajikistan,Wheat flour (first grade),15
+898,Tajikistan,Wheat flour (high quality),15
+899,Tajikistan,Wheat flour (local),9
+943,Uganda,Beans,6
+944,Uganda,Cassava flour,7
+945,Uganda,Maize (white),6
+946,Uganda,Maize flour,7
+947,Uganda,Millet,6
+949,Uganda,Sorghum,6
+975,United Republic of Tanzania,Beans,10
+976,United Republic of Tanzania,Maize,11
+977,United Republic of Tanzania,Rice,11
+978,Yemen,Beans (kidney red),5
+979,Yemen,Beans (white),5
+980,Yemen,Eggs,5
+984,Yemen,Lentils,5
+986,Yemen,Oil (vegetable),5
+987,Yemen,Onions,5
+988,Yemen,"Peas (yellow, split)",5
+989,Yemen,Potatoes,5
+990,Yemen,Rice (imported),5
+991,Yemen,Salt,5
+992,Yemen,Sugar,5
+993,Yemen,Tomatoes,5
+994,Yemen,Wheat,8
+995,Yemen,Wheat flour,8
+996,Zambia,Beans (dry),5
+997,Zambia,Cassava meal,5
+998,Zambia,Groundnuts (shelled),5
+999,Zambia,Maize (white),14
+1000,Zambia,"Maize meal (white, breakfast)",5
+1001,Zambia,"Maize meal (white, roller)",5
+1002,Zambia,Millet,5
+1003,Zambia,Rice (local),5
+1004,Zambia,Sorghum,5
+1008,Zimbabwe,Maize,7
