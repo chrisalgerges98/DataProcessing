@@ -43,11 +43,12 @@
 71,Bolivia,Bread (wheat),5
 73,Bolivia,"Meat (beef, chops with bones)",7
 74,Bolivia,"Meat (chicken, whole)",7
-75,Bolivia,Noodles (short),7
-77,Bolivia,"Potatoes (Irish, imilla)",7
+75,Bolivia,Noodles (short),21
+76,Bolivia,Potatoes (Dutch),9
+77,Bolivia,"Potatoes (Irish, imilla)",22
 79,Bolivia,Rice (carolina 2da),7
-80,Bolivia,Rice (estaquilla),7
-81,Bolivia,Rice (good quality),5
+80,Bolivia,Rice (estaquilla),17
+81,Bolivia,Rice (good quality),10
 82,Bolivia,Rice (long grain),5
 83,Bolivia,Rice (medium grain),7
 86,Burkina Faso,Beans (niebe),5
@@ -178,9 +179,10 @@
 287,El Salvador,Beans (silk red),12
 288,El Salvador,Maize (white),12
 289,El Salvador,Rice,12
-297,Ethiopia,Maize (white),12
-302,Ethiopia,Sorghum,12
-304,Ethiopia,Wheat,12
+297,Ethiopia,Maize (white),23
+302,Ethiopia,Sorghum,22
+304,Ethiopia,Wheat,22
+314,Gambia,Coffee (instant),7
 323,Gambia,Groundnuts (shelled),11
 324,Gambia,Groundnuts (unshelled),11
 326,Gambia,Maize (local),9
@@ -197,7 +199,7 @@
 358,Ghana,Rice (local),9
 359,Ghana,Yam,9
 360,Guatemala,Bananas,7
-361,Guatemala,Beans (black),15
+361,Guatemala,Beans (black),29
 362,Guatemala,Bread,15
 363,Guatemala,Cheese (dry),7
 364,Guatemala,Coffee,7
@@ -216,7 +218,7 @@
 377,Guatemala,Plantains,7
 378,Guatemala,Potatoes,7
 379,Guatemala,"Rice (ordinary, first quality)",14
-380,Guatemala,"Rice (ordinary, second quality)",15
+380,Guatemala,"Rice (ordinary, second quality)",24
 381,Guatemala,Salt,7
 382,Guatemala,Sugar,7
 383,Guatemala,Tomatoes,7
@@ -306,14 +308,14 @@
 491,Jordan,Rice (imported),6
 493,Jordan,Sugar,5
 494,Jordan,Tomatoes,5
-495,Kenya,Beans (dry),11
+495,Kenya,Beans (dry),22
 496,Kenya,Bread,11
-500,Kenya,Maize (white),11
+500,Kenya,Maize (white),22
 501,Kenya,"Milk (cow, pasteurized)",11
 502,Kenya,Oil (vegetable),11
 503,Kenya,Potatoes (Irish),11
 504,Kenya,Sorghum,11
-507,Kyrgyzstan,Bread,11
+507,Kyrgyzstan,Bread,15
 508,Kyrgyzstan,Cabbage,8
 509,Kyrgyzstan,Carrots,8
 510,Kyrgyzstan,Eggs,8
@@ -417,10 +419,15 @@
 661,Niger,Rice (imported),9
 662,Niger,Rice (local),5
 663,Niger,Sorghum,16
+670,Nigeria,Gari (white),6
+671,Nigeria,Gari (yellow),6
 673,Nigeria,Maize,14
-676,Nigeria,Millet,14
-678,Nigeria,Rice (imported),14
+675,Nigeria,Maize (yellow),6
+676,Nigeria,Millet,17
+677,Nigeria,Oil (palm),5
+678,Nigeria,Rice (imported),17
 680,Nigeria,Sorghum,14
+684,Nigeria,Yam,6
 696,Pakistan,"Rice (basmati, broken)",13
 701,Pakistan,Wheat flour,13
 702,Panama,Maize (yellow),9

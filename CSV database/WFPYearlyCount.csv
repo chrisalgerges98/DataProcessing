@@ -74,17 +74,17 @@ Bolivia,Bread (wheat),5
 Bolivia,Eggs,2
 Bolivia,"Meat (beef, chops with bones)",7
 Bolivia,"Meat (chicken, whole)",7
-Bolivia,Noodles (short),7
-Bolivia,Potatoes (Dutch),3
-Bolivia,"Potatoes (Irish, imilla)",7
+Bolivia,Noodles (short),21
+Bolivia,Potatoes (Dutch),9
+Bolivia,"Potatoes (Irish, imilla)",22
 Bolivia,Potatoes (black),3
 Bolivia,Rice (carolina 2da),7
-Bolivia,Rice (estaquilla),7
-Bolivia,Rice (good quality),5
+Bolivia,Rice (estaquilla),17
+Bolivia,Rice (good quality),10
 Bolivia,Rice (long grain),5
 Bolivia,Rice (medium grain),7
 Bolivia,Rice (white),3
-Bolivia,Sugar,2
+Bolivia,Sugar,4
 Burkina Faso,Beans (niebe),5
 Burkina Faso,Maize,15
 Burkina Faso,Millet,16
@@ -296,14 +296,14 @@ Ethiopia,Fuel (petrol-gasoline),3
 Ethiopia,Lentils,2
 Ethiopia,Livestock (Goat),2
 Ethiopia,Livestock (Sheep),2
-Ethiopia,Maize (white),12
+Ethiopia,Maize (white),23
 Ethiopia,Milk,3
 Ethiopia,Pasta,3
 Ethiopia,"Peas (green, dry)",2
 Ethiopia,Rice (imported),3
-Ethiopia,Sorghum,12
+Ethiopia,Sorghum,22
 Ethiopia,Sugar,3
-Ethiopia,Wheat,12
+Ethiopia,Wheat,22
 Ethiopia,Wheat flour,3
 Gambia,Apples (red),4
 Gambia,Bananas,4
@@ -313,7 +313,7 @@ Gambia,Cabbage,4
 Gambia,Carrots,4
 Gambia,Cashew,3
 Gambia,Cassava,4
-Gambia,Coffee (instant),4
+Gambia,Coffee (instant),7
 Gambia,Eggs,4
 Gambia,Fish (bonga),4
 Gambia,Fish (dry),4
@@ -360,7 +360,7 @@ Ghana,Rice (imported),3
 Ghana,Rice (local),9
 Ghana,Yam,9
 Guatemala,Bananas,7
-Guatemala,Beans (black),15
+Guatemala,Beans (black),29
 Guatemala,Bread,15
 Guatemala,Cheese (dry),7
 Guatemala,Coffee,7
@@ -379,7 +379,7 @@ Guatemala,Pasta,7
 Guatemala,Plantains,7
 Guatemala,Potatoes,7
 Guatemala,"Rice (ordinary, first quality)",14
-Guatemala,"Rice (ordinary, second quality)",15
+Guatemala,"Rice (ordinary, second quality)",24
 Guatemala,Salt,7
 Guatemala,Sugar,7
 Guatemala,Tomatoes,7
@@ -494,19 +494,19 @@ Jordan,Rice (imported),6
 Jordan,Spinach,1
 Jordan,Sugar,5
 Jordan,Tomatoes,5
-Kenya,Beans (dry),11
+Kenya,Beans (dry),22
 Kenya,Bread,11
 Kenya,Fuel (diesel),3
 Kenya,Fuel (kerosene),3
 Kenya,Fuel (petrol-gasoline),3
-Kenya,Maize (white),11
+Kenya,Maize (white),22
 Kenya,"Milk (cow, pasteurized)",11
 Kenya,Oil (vegetable),11
 Kenya,Potatoes (Irish),11
 Kenya,Sorghum,11
 Kyrgyzstan,Apples,3
 Kyrgyzstan,Beans (kidney white),4
-Kyrgyzstan,Bread,11
+Kyrgyzstan,Bread,15
 Kyrgyzstan,Cabbage,8
 Kyrgyzstan,Carrots,8
 Kyrgyzstan,Eggs,8
@@ -665,25 +665,25 @@ Niger,Rice (local),5
 Niger,Sorghum,16
 Nigeria,Beans (niebe),1
 Nigeria,Bread,3
-Nigeria,Cowpeas (brown),3
+Nigeria,Cowpeas (brown),4
 Nigeria,Cowpeas (white),3
 Nigeria,Fuel (diesel),3
 Nigeria,Fuel (petrol-gasoline),3
-Nigeria,Gari (white),3
-Nigeria,Gari (yellow),3
-Nigeria,Groundnuts (shelled),3
+Nigeria,Gari (white),6
+Nigeria,Gari (yellow),6
+Nigeria,Groundnuts (shelled),4
 Nigeria,Maize,14
-Nigeria,Maize (white),3
-Nigeria,Maize (yellow),3
-Nigeria,Millet,14
-Nigeria,Oil (palm),3
-Nigeria,Rice (imported),14
+Nigeria,Maize (white),4
+Nigeria,Maize (yellow),6
+Nigeria,Millet,17
+Nigeria,Oil (palm),5
+Nigeria,Rice (imported),17
 Nigeria,Rice (local),3
 Nigeria,Sorghum,14
 Nigeria,Sorghum (brown),3
 Nigeria,Sorghum (white),3
 Nigeria,Wheat,3
-Nigeria,Yam,3
+Nigeria,Yam,6
 Nigeria,Yam (Abuja),3
 Pakistan,Beans(mash),3
 Pakistan,Eggs,4
