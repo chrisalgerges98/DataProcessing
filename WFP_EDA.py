@@ -5,9 +5,10 @@ from bokeh.resources import CDN
 from bokeh.embed import file_html
 from bokeh.models import DataRange1d
 
-df = pd.read_csv("WFPCleaned.csv")
+df = pd.read_csv("WFPFinal.csv")
 
 countries = df["country"].unique()
+colors = ["blue", "red", "green", "yellow", "purple", "orange", "aqua", "brown", "darkblue", "darkred", "magenta", "indigo", "violet", "olive", "maroon", "deeppink"]
 
 # Afghan_fuel = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")]
 # Afghan_rice = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
@@ -36,13 +37,13 @@ for country in countries:
     for product in products:
         x = df["year"][(df["country"] == country) & (df["food"] == product)]
         print(x)
-        y = df["average_price"][(df["country"] == country) & (df["food"] == product)]
+        y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)]
         x_list.append(x)
         y_list.append(y)
     fOut = open("chart1.html", "a")
-    f = figure(plot_width=500, plot_height=500, title=country)
+    f = figure(plot_width=400, plot_height=400, title=country)
     f.xaxis.axis_label="year"
-    f.yaxis.axis_label="average price"
+    f.yaxis.axis_label="price per unit"
     f.multi_line(xs = x_list, ys = y_list)
     html = file_html(f, CDN, "chart1")
     fOut.write(html)
