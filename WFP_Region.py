@@ -167,10 +167,10 @@ for i, country in zip(range(len(land)), countries):
             y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
             x_list.append(x)
             y_list.append(y)
-        fOut = open("testregionWheat4.html", "a")
+        fOut = open("Wheat_Chart.html", "a")
         f = figure(plot_width=500, plot_height=500, title=country)
         f.multi_line(xs = x_list, ys = y_list)
-        html = file_html(f, CDN, "chart2")
+        html = file_html(f, CDN, "chart")
         fOut.write(html)
         fOut.close()
     else:
