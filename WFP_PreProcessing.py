@@ -19,7 +19,7 @@ df = df.drop(df[df.food == "Transport (public)"].index)
 df = df.drop(df[(df.country == "Somalia") | (df.country == "Timor-Leste")].index)
 
 # berekent de gemiddelde prijs in twee decimalen per land, per voedingsmiddel, per jaar
-df = df["price"].groupby([df["country"], df["food"], df["currency"], df["year"]]).mean().round(decimals=2)
+df = df["price"].groupby([df["country"], df["food"], df["currency"], df["year"], df["unit_measure"]]).mean().round(decimals=2)
 
 # stopt het in een csv file
 df.to_csv("WFPAveragePrice.csv", header=["average_price"])
