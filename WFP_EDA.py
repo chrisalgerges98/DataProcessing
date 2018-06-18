@@ -8,7 +8,7 @@ from bokeh.models import DataRange1d
 df = pd.read_csv("WFPFinal.csv")
 
 countries = df["country"].unique()
-colors = ["blue", "red", "green", "yellow", "purple", "orange", "aqua", "brown", "darkblue", "darkred", "magenta", "indigo", "violet", "olive", "maroon", "deeppink"]
+# print(df["food"][df["country"] == "Ethiopia"])
 
 # Afghan_fuel = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")]
 # Afghan_rice = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
@@ -33,7 +33,7 @@ colors = ["blue", "red", "green", "yellow", "purple", "orange", "aqua", "brown",
 for country in countries:
     x_list = []
     y_list = []
-    products = df["food"][df["country"] == country].unique()
+    products = df["food"][df["country"] == country]
     for product in products:
         x = df["year"][(df["country"] == country) & (df["food"] == product)]
         print(x)
@@ -41,7 +41,7 @@ for country in countries:
         x_list.append(x)
         y_list.append(y)
     fOut = open("chart1.html", "a")
-    f = figure(plot_width=400, plot_height=400, title=country)
+    f = figure(plot_width=500, plot_height=500, title=country)
     f.xaxis.axis_label="year"
     f.yaxis.axis_label="price per unit"
     f.multi_line(xs = x_list, ys = y_list)
