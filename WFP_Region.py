@@ -71,7 +71,7 @@ land = [["Afghanistan"],
 ['Zimbabwe']]
 
 regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],
-["Armenia" "Iran (Islamic Republic of)", "Georgia"],
+["Armenia", "Iran (Islamic Republic of)", "Georgia"],
 ["Bangladesh" "India", "Myanmar"],
 ["Benin","Burkina Faso", "Nigeria", "Niger"],
 ["Bhutan","India"],
@@ -155,7 +155,7 @@ countries = df["country"].unique()
     #products = df["food"][df["country"] == country].unique()
     #fill in product for product
 
-product = "Wheat"
+product = "Cabbage"
 for i, country in zip(range(len(land)), countries):
     x_list = []
     y_list = []
@@ -167,7 +167,7 @@ for i, country in zip(range(len(land)), countries):
             y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
             x_list.append(x)
             y_list.append(y)
-        fOut = open("Wheat_Chart.html", "a")
+        fOut = open("Cabbage_Chart.html", "a")
         f = figure(plot_width=500, plot_height=500, title=country)
         f.multi_line(xs = x_list, ys = y_list)
         html = file_html(f, CDN, "chart")
