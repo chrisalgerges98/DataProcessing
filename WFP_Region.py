@@ -71,7 +71,7 @@ regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],
 
 
 #Print till Cote d'Ivoiry but not further don't know why Probably something WFP_csv.
-df = pd.read_csv("WFPCleaned.csv")
+df = pd.read_csv("WFPFinal.csv")
 #dataset = pd.read_csv("Regions.csv", delimiter=':')
 
 countries = df["country"].unique()
@@ -88,7 +88,7 @@ countries = df["country"].unique()
     #products = df["food"][df["country"] == country].unique()
     #fill in product for product
 
-product = "Maize"
+product = "Wheat flour"
 for i, country in zip(range(len(land)), countries):
     x_list = []
     y_list = []
@@ -97,14 +97,13 @@ for i, country in zip(range(len(land)), countries):
         for j in regio[i]:
             x = df["year"][(df["country"] == j) & (df["food"] == product)]
             #print(x)
-            y = df["average_price"][(df["country"] == j) & (df["food"] == product)]
+            y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
             x_list.append(x)
             y_list.append(y)
-        fOut = open("testregion2.html", "a")
+        fOut = open("testregionWheat2.html", "a")
         f = figure(plot_width=500, plot_height=500, title=country)
         f.multi_line(xs = x_list, ys = y_list)
         html = file_html(f, CDN, "chart2")
         fOut.write(html)
         fOut.close()
-    else:
-        continue
+    
