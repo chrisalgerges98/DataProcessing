@@ -1476,73 +1476,37 @@ El Salvador,Rice,USD,2013,39.51,,39.51,45 KG,0.88
 El Salvador,Rice,USD,2014,42.25,,42.25,45 KG,0.94
 El Salvador,Rice,USD,2015,38.5,,38.5,45 KG,0.86
 El Salvador,Rice,USD,2016,36.21,,36.21,45 KG,0.8
-Ethiopia,Maize (white),ETB,2006,78.44,8.7,9.02,KG,9.02
-Ethiopia,Maize (white),ETB,2007,59.67,8.97,6.65,KG,6.65
-Ethiopia,Maize (white),ETB,2008,143.96,9.6,15,KG,15
-Ethiopia,Maize (white),ETB,2009,117.51,11.78,9.98,KG,9.98
-Ethiopia,Maize (white),ETB,2010,88.07,14.41,6.11,KG,6.11
-Ethiopia,Maize (white),ETB,2011,184.26,16.9,10.9,KG,10.9
-Ethiopia,Maize (white),ETB,2012,199.63,17.7,11.28,KG,11.28
-Ethiopia,Maize (white),ETB,2013,222,18.63,11.92,KG,11.92
-Ethiopia,Maize (white),ETB,2014,197.61,19.59,10.09,KG,10.09
-Ethiopia,Maize (white),ETB,2015,152.6,20.58,7.41,KG,7.41
-Ethiopia,Maize (white),ETB,2016,262.01,21.73,12.06,KG,12.06
-Ethiopia,Sorghum,ETB,2007,71.04,8.97,7.92,KG,7.92
-Ethiopia,Sorghum,ETB,2008,143.27,9.6,14.92,KG,14.92
-Ethiopia,Sorghum,ETB,2009,138.32,11.78,11.74,KG,11.74
-Ethiopia,Sorghum,ETB,2010,124.98,14.41,8.67,KG,8.67
-Ethiopia,Sorghum,ETB,2011,120.78,16.9,7.15,KG,7.15
-Ethiopia,Sorghum,ETB,2012,114.52,17.7,6.47,KG,6.47
-Ethiopia,Sorghum,ETB,2013,137.94,18.63,7.4,KG,7.4
-Ethiopia,Sorghum,ETB,2014,125.59,19.59,6.41,KG,6.41
-Ethiopia,Sorghum,ETB,2015,170.95,20.58,8.31,KG,8.31
-Ethiopia,Sorghum,ETB,2016,502.75,21.73,23.14,KG,23.14
-Ethiopia,Wheat,ETB,2007,138.4,8.97,15.43,KG,15.43
-Ethiopia,Wheat,ETB,2008,228.13,9.6,23.76,KG,23.76
-Ethiopia,Wheat,ETB,2009,214.68,11.78,18.22,KG,18.22
-Ethiopia,Wheat,ETB,2010,223.65,14.41,15.52,KG,15.52
-Ethiopia,Wheat,ETB,2011,334.49,16.9,19.79,KG,19.79
-Ethiopia,Wheat,ETB,2012,310.42,17.7,17.54,KG,17.54
-Ethiopia,Wheat,ETB,2013,276.29,18.63,14.83,KG,14.83
-Ethiopia,Wheat,ETB,2014,347.21,19.59,17.72,KG,17.72
-Ethiopia,Wheat,ETB,2015,348.3,20.58,16.92,KG,16.92
-Ethiopia,Wheat,ETB,2016,467.44,21.73,21.51,KG,21.51
-Ethiopia,Maize (white),ETB,2005,154.82,8.67,17.86,100 KG,0.18
-Ethiopia,Maize (white),ETB,2006,78.44,8.7,9.02,100 KG,0.09
-Ethiopia,Maize (white),ETB,2007,59.67,8.97,6.65,100 KG,0.07
-Ethiopia,Maize (white),ETB,2008,143.96,9.6,15,100 KG,0.15
-Ethiopia,Maize (white),ETB,2009,117.51,11.78,9.98,100 KG,0.1
-Ethiopia,Maize (white),ETB,2010,88.07,14.41,6.11,100 KG,0.06
-Ethiopia,Maize (white),ETB,2011,184.26,16.9,10.9,100 KG,0.11
-Ethiopia,Maize (white),ETB,2012,199.63,17.7,11.28,100 KG,0.11
-Ethiopia,Maize (white),ETB,2013,222,18.63,11.92,100 KG,0.12
-Ethiopia,Maize (white),ETB,2014,197.61,19.59,10.09,100 KG,0.1
-Ethiopia,Maize (white),ETB,2015,152.6,20.58,7.41,100 KG,0.07
-Ethiopia,Maize (white),ETB,2016,262.01,21.73,12.06,100 KG,0.12
-Ethiopia,Sorghum,ETB,2005,226.08,8.67,26.08,100 KG,0.26
-Ethiopia,Sorghum,ETB,2006,214.27,8.7,24.63,100 KG,0.25
-Ethiopia,Sorghum,ETB,2007,71.04,8.97,7.92,100 KG,0.08
-Ethiopia,Sorghum,ETB,2008,143.27,9.6,14.92,100 KG,0.15
-Ethiopia,Sorghum,ETB,2009,138.32,11.78,11.74,100 KG,0.12
-Ethiopia,Sorghum,ETB,2010,124.98,14.41,8.67,100 KG,0.09
-Ethiopia,Sorghum,ETB,2011,120.78,16.9,7.15,100 KG,0.07
-Ethiopia,Sorghum,ETB,2012,114.52,17.7,6.47,100 KG,0.06
-Ethiopia,Sorghum,ETB,2013,137.94,18.63,7.4,100 KG,0.07
-Ethiopia,Sorghum,ETB,2014,125.59,19.59,6.41,100 KG,0.06
-Ethiopia,Sorghum,ETB,2015,170.95,20.58,8.31,100 KG,0.08
-Ethiopia,Sorghum,ETB,2016,502.75,21.73,23.14,100 KG,0.23
-Ethiopia,Wheat,ETB,2005,209.79,8.67,24.2,100 KG,0.24
-Ethiopia,Wheat,ETB,2006,247.51,8.7,28.45,100 KG,0.28
-Ethiopia,Wheat,ETB,2007,138.4,8.97,15.43,100 KG,0.15
-Ethiopia,Wheat,ETB,2008,228.13,9.6,23.76,100 KG,0.24
-Ethiopia,Wheat,ETB,2009,214.68,11.78,18.22,100 KG,0.18
-Ethiopia,Wheat,ETB,2010,223.65,14.41,15.52,100 KG,0.16
-Ethiopia,Wheat,ETB,2011,334.49,16.9,19.79,100 KG,0.2
-Ethiopia,Wheat,ETB,2012,310.42,17.7,17.54,100 KG,0.18
-Ethiopia,Wheat,ETB,2013,276.29,18.63,14.83,100 KG,0.15
-Ethiopia,Wheat,ETB,2014,347.21,19.59,17.72,100 KG,0.18
-Ethiopia,Wheat,ETB,2015,348.3,20.58,16.92,100 KG,0.17
-Ethiopia,Wheat,ETB,2016,467.44,21.73,21.51,100 KG,0.22
+Ethiopia,Maize (white),ETB,2006,1.66,8.7,0.19,KG,0.19
+Ethiopia,Maize (white),ETB,2007,1.88,8.97,0.21,KG,0.21
+Ethiopia,Maize (white),ETB,2008,4.62,9.6,0.48,KG,0.48
+Ethiopia,Maize (white),ETB,2009,4.04,11.78,0.34,KG,0.34
+Ethiopia,Maize (white),ETB,2010,3.31,14.41,0.23,KG,0.23
+Ethiopia,Maize (white),ETB,2011,5.14,16.9,0.3,KG,0.3
+Ethiopia,Maize (white),ETB,2012,5.97,17.7,0.34,KG,0.34
+Ethiopia,Maize (white),ETB,2013,6.56,18.63,0.35,KG,0.35
+Ethiopia,Maize (white),ETB,2014,6.64,19.59,0.34,KG,0.34
+Ethiopia,Maize (white),ETB,2015,6.23,20.58,0.3,KG,0.3
+Ethiopia,Maize (white),ETB,2016,7.32,21.73,0.34,KG,0.34
+Ethiopia,Sorghum,ETB,2007,2,8.97,0.22,KG,0.22
+Ethiopia,Sorghum,ETB,2008,5.07,9.6,0.53,KG,0.53
+Ethiopia,Sorghum,ETB,2009,4.51,11.78,0.38,KG,0.38
+Ethiopia,Sorghum,ETB,2010,4.24,14.41,0.29,KG,0.29
+Ethiopia,Sorghum,ETB,2011,5.49,16.9,0.32,KG,0.32
+Ethiopia,Sorghum,ETB,2012,6.59,17.7,0.37,KG,0.37
+Ethiopia,Sorghum,ETB,2013,7.96,18.63,0.43,KG,0.43
+Ethiopia,Sorghum,ETB,2014,8.47,19.59,0.43,KG,0.43
+Ethiopia,Sorghum,ETB,2015,7.76,20.58,0.38,KG,0.38
+Ethiopia,Sorghum,ETB,2016,9.96,21.73,0.46,KG,0.46
+Ethiopia,Wheat,ETB,2007,2.92,8.97,0.33,KG,0.33
+Ethiopia,Wheat,ETB,2008,5.74,9.6,0.6,KG,0.6
+Ethiopia,Wheat,ETB,2009,5.32,11.78,0.45,KG,0.45
+Ethiopia,Wheat,ETB,2010,4.59,14.41,0.32,KG,0.32
+Ethiopia,Wheat,ETB,2011,7.46,16.9,0.44,KG,0.44
+Ethiopia,Wheat,ETB,2012,8.01,17.7,0.45,KG,0.45
+Ethiopia,Wheat,ETB,2013,8.28,18.63,0.44,KG,0.44
+Ethiopia,Wheat,ETB,2014,9.09,19.59,0.46,KG,0.46
+Ethiopia,Wheat,ETB,2015,9.58,20.58,0.47,KG,0.47
+Ethiopia,Wheat,ETB,2016,10.6,21.73,0.49,KG,0.49
 Gambia,Groundnuts (shelled),GMD,2006,8.74,28.07,0.31,500 G,0.62
 Gambia,Groundnuts (shelled),GMD,2007,8.29,24.87,0.33,500 G,0.66
 Gambia,Groundnuts (shelled),GMD,2008,10.32,22.19,0.47,500 G,0.94
