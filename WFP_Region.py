@@ -7,8 +7,8 @@ from bokeh.embed import file_html
 land = [["Afghanistan"],["Armenia"],["Bangladesh"],["Benin"],["Bhutan"],["Bolivia"],["Burkina Faso"],["Burundi"],["Cambodia"],["Cameroon"],["Central African Republic"],["Chad"],["Colombia"],["Democratic Republic of the Congo"],["Congo Brazzaville"],["Congo Kinshasa"],
 ["Costa Rica"],["Cote d'Ivoire"], ["Djibouti"],["Egypt"],["El Salvador"],["Ethiopia"],["Gambia"],["Georgia"],["Ghana"],["Guatemala"],["Guinea"],["Guinea-Bissau"],["Haiti"],["Honduras"],["India"],["Indonesia"],["Iran (Islamic Republic of)"],
 ["Iraq"],["Jordan"],["Kenya"],["Kyrgyzstan"],["Lao people's Democratic Republic"],["Lebanon"],["Lesotho"],["Liberia"],["Madagascar"],["Malawi"],["Mali"],["Mauritania"],["Mozambique"],["Myanmar"],["Nepal"],["Niger"],["Nigeria"],
-["Pakistan"],["Panama"],["Peru"],["Philippines"],["Rwanda"],["Senegal"],["Somalia"],["South Sudan"],["Sri Lanka"],["Sudan"],["Swaziland"],["Syrian Arab Republic"],["Tajikistan"],["Timor-Leste"],['Uganda'],['United Republic of Tanzania'],
-['Yemen'],['Zambia'],['Zimbabwe']]
+["Pakistan"],["Panama"],["Peru"],["Philippines"],["Rwanda"],["Senegal"],["Somalia"],["South Sudan"],["Sri Lanka"],["Sudan"],["Swaziland"],["Syrian Arab Republic"],["Tajikistan"],['Uganda'],['United Republic of Tanzania'],
+['Yemen'],['Zambia']]
 
 regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],["Amernia" "Iran (Islamic Republic of)", "Georgia"],["Bangladesh" "India", "Myanmar"],["Benin","Burkina Faso", "Nigeria", "Niger"],["Benin","Burkina Faso", "Nigeria", "Niger"],
 ["Bhutan","India"],["Bolivia", "Peru"],["Burkina Faso","Mali", "Cote d'Ivoire", "Ghana", "Benin", "Niger"],["Burundi","Congo-Kinshasa", "Rwanda", "United Republic of Tanzania"],["Cambodia","Lao people's Democratic Republic"],
@@ -32,7 +32,7 @@ regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],
 ["Haiti"],
 ["Honduras","El Salvador", "Guatemala"],
 ["India","Pakistan", "Nepal", "Bhutan", "Bangladesh", "Myanmar"],
-["Indonesia","Philippines", "Timor-Leste"],
+["Indonesia","Philippines"],
 ["Iran (Islamic Republic of)","Afghanistan", "Pakistan", "Iraq", "Armenia"],
 ["Iraq","Syrian Arab Republic", "Iran (Islamic Republic of)", "Jordan"],
 ["Jordan","Iraq", "Syrian Arab Republic"],
@@ -46,7 +46,7 @@ regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],
 ["Malawi","Mozambique", "Zambia", "United Republic of Tanzania"],
 ["Mali","Niger", "Burkina Faso", "Cote d'Ivoire", "Mauritania", "Senegal", "Guinea"],
 ["Mauritania","Mali", "Senegal"],
-["Mozambique","Malawi", "United Republic of Tanzania", "Zambia", "Zimbabwe", "Swaziland"],
+["Mozambique","Malawi", "United Republic of Tanzania", "Zambia", "Swaziland"],
 ["Myanmar","Lao people's Democratic Republic", "Bangladesh", "India"],
 ["Nepal","India"],
 ["Niger","Mali", "Chad", "Nigeria", "Benin", "Burkina Faso"],
@@ -64,12 +64,11 @@ regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],
 ["Swaziland","Mozambique"],
 ["Syrian Arab Republic","Lebanon", "Jordan"],
 ["Tajikistan","Kyrgyzstan", "Afghanistan"],
-["Timor-Leste","Indonesia"],
 ["Uganda","Kenya", "South Sudan", "Democratic Republic of the Congo", "Rwanda", "United Republic of Tanzania"],
 ["United Republic of Tanzania","Kenya", "Uganda", "Rwanda", "Burundi", "Democratic Republic of the Congo", "Zambia", "Malawi"],
 ["Yemen","Djibouti", "Somalia"],
-["Zambia","United Republic of Tanzania", "Malawi", "Mozambique", "Zimbabwe"],
-["Zimbabwe","Zambia", "Mozambique"]]
+["Zambia","United Republic of Tanzania", "Malawi", "Mozambique"]]
+
 
 #Print till Cote d'Ivoiry but not further don't know why Probably something WFP_csv.
 df = pd.read_csv("WFPCleaned.csv")
