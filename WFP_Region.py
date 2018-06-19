@@ -137,24 +137,12 @@ regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],
 ["Zimbabwe", "Zambia", "Mozambique"]]
 
 
-#Print till Cote d'Ivoiry but not further don't know why Probably something WFP_csv.
+
 df = pd.read_csv("WFPFinal.csv")
-#dataset = pd.read_csv("Regions.csv", delimiter=':')
 
 countries = df["country"].unique()
-#regions = dataset["neighbours"]
-#print(regions)
 
-#for country in countries:
-#fill in country for country
-#country = "Benin"
-#countries = dataset["neighbours"][dataset["country"] == country]
-#print(countries)
-
-
-    #products = df["food"][df["country"] == country].unique()
-    #fill in product for product
-
+# change to get charts about regions and certain product
 product = "Cabbage"
 for i, country in zip(range(len(land)), countries):
     x_list = []
