@@ -1,9 +1,4 @@
 country,food,currency,year,average_price,dollar_rate,dollar_value,unit_measure,price_per_unit
-Afghanistan,Fuel (diesel),AFN,2003,14.75,48.76,0.3,L,0.3
-Afghanistan,Fuel (diesel),AFN,2004,18.83,47.85,0.39,L,0.39
-Afghanistan,Fuel (diesel),AFN,2014,57.69,57.25,1.01,L,1.01
-Afghanistan,Fuel (diesel),AFN,2015,43.96,61.14,0.72,L,0.72
-Afghanistan,Fuel (diesel),AFN,2016,36.97,67.87,0.54,L,0.54
 Afghanistan,Rice (low quality),AFN,2007,27.25,49.96,0.55,KG,0.55
 Afghanistan,Rice (low quality),AFN,2008,40.34,50.25,0.8,KG,0.8
 Afghanistan,Rice (low quality),AFN,2009,34.72,50.33,0.69,KG,0.69
