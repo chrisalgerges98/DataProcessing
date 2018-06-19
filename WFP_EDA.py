@@ -8,6 +8,9 @@ from bokeh.models import DataRange1d
 df = pd.read_csv("WFPFinal.csv")
 
 countries = df["country"].unique()
+colors = ["red", "green", "yellow", "blue", "purple", "orange", "indigo", "violet" \
+"deeppink", "maroon", "cyan", "midnightblue", "saddlebrown"]
+print(len(colors))
 # print(df["food"][df["country"] == "Ethiopia"])
 
 # Afghan_fuel = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")]
@@ -30,21 +33,21 @@ countries = df["country"].unique()
 #                    df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
 #                    df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Wheat")]])
 
-for country in countries:
-    x_list = []
-    y_list = []
-    products = df["food"][df["country"] == country]
-    for product in products:
-        x = df["year"][(df["country"] == country) & (df["food"] == product)]
-        # print(x)
-        y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)]
-        x_list.append(x)
-        y_list.append(y)
-    fOut = open("CountryChart.html", "a")
-    f = figure(plot_width=500, plot_height=500, title=country)
-    f.xaxis.axis_label="year"
-    f.yaxis.axis_label="price per unit"
-    f.multi_line(xs = x_list, ys = y_list)
-    html = file_html(f, CDN, "chart1")
-    fOut.write(html)
-    fOut.close()
+# for country in countries:
+#     x_list = []
+#     y_list = []
+#     products = df["food"][df["country"] == country]
+#     for product in products:
+#         x = df["year"][(df["country"] == country) & (df["food"] == product)]
+#         # print(x)
+#         y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)]
+#         x_list.append(x)
+#         y_list.append(y)
+#     fOut = open("CountryChart.html", "a")
+#     f = figure(plot_width=500, plot_height=500, title=country)
+#     f.xaxis.axis_label="year"
+#     f.yaxis.axis_label="price per unit"
+#     f.multi_line(xs = x_list, ys = y_list)
+#     html = file_html(f, CDN, "chart1")
+#     fOut.write(html)
+#     fOut.close()
