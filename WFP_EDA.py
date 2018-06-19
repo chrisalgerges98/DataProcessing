@@ -36,7 +36,7 @@ for country in countries:
     products = df["food"][df["country"] == country]
     for product in products:
         x = df["year"][(df["country"] == country) & (df["food"] == product)]
-        print(x)
+        # print(x)
         y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)]
         x_list.append(x)
         y_list.append(y)
