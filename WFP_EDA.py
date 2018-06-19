@@ -40,7 +40,7 @@ for country in countries:
         y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)]
         x_list.append(x)
         y_list.append(y)
-    fOut = open("chart1.html", "a")
+    fOut = open("CountryChart.html", "a")
     f = figure(plot_width=500, plot_height=500, title=country)
     f.xaxis.axis_label="year"
     f.yaxis.axis_label="price per unit"
