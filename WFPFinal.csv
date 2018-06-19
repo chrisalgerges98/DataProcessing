@@ -316,25 +316,25 @@ Bolivia,Bread (wheat),BOB,2011,0.45,6.94,0.06,Unit,0.06
 Bolivia,Bread (wheat),BOB,2012,0.5,6.91,0.07,Unit,0.07
 Bolivia,Bread (wheat),BOB,2015,0.46,6.91,0.07,Unit,0.07
 Bolivia,Bread (wheat),BOB,2016,0.46,6.91,0.07,Unit,0.07
-Bolivia,Noodles (short),BOB,2010,8.37,7.02,1.19,Pound,0.54
-Bolivia,Noodles (short),BOB,2011,8.47,6.94,1.22,Pound,0.55
-Bolivia,Noodles (short),BOB,2012,8.35,6.91,1.21,Pound,0.55
-Bolivia,Noodles (short),BOB,2013,10.25,6.91,1.48,Pound,0.67
-Bolivia,Noodles (short),BOB,2014,10.62,6.91,1.54,Pound,0.7
-Bolivia,Noodles (short),BOB,2015,10.29,6.91,1.49,Pound,0.68
-Bolivia,Noodles (short),BOB,2016,9.69,6.91,1.4,Pound,0.64
-Bolivia,"Potatoes (Irish, imilla)",BOB,2012,18.77,6.91,2.72,Pound,1.23
-Bolivia,"Potatoes (Irish, imilla)",BOB,2013,27.05,6.91,3.91,Pound,1.77
-Bolivia,"Potatoes (Irish, imilla)",BOB,2014,25.01,6.91,3.62,Pound,1.64
-Bolivia,"Potatoes (Irish, imilla)",BOB,2015,24.47,6.91,3.54,Pound,1.61
-Bolivia,"Potatoes (Irish, imilla)",BOB,2016,28.96,6.91,4.19,Pound,1.9
-Bolivia,Rice (estaquilla),BOB,2010,10.97,7.02,1.56,Pound,0.71
-Bolivia,Rice (estaquilla),BOB,2011,10.99,6.94,1.58,Pound,0.72
-Bolivia,Rice (estaquilla),BOB,2012,10.38,6.91,1.5,Pound,0.68
-Bolivia,Rice (estaquilla),BOB,2013,13.34,6.91,1.93,Pound,0.88
-Bolivia,Rice (estaquilla),BOB,2014,13.81,6.91,2,Pound,0.91
-Bolivia,Rice (estaquilla),BOB,2015,12.55,6.91,1.82,Pound,0.83
-Bolivia,Rice (estaquilla),BOB,2016,11.99,6.91,1.74,Pound,0.79
+Bolivia,Noodles (short),BOB,2010,8.67,7.02,1.24,KG,1.24
+Bolivia,Noodles (short),BOB,2011,8.52,6.94,1.23,KG,1.23
+Bolivia,Noodles (short),BOB,2012,8.33,6.91,1.21,KG,1.21
+Bolivia,Noodles (short),BOB,2013,9.99,6.91,1.45,KG,1.45
+Bolivia,Noodles (short),BOB,2014,10.54,6.91,1.53,KG,1.53
+Bolivia,Noodles (short),BOB,2015,10.44,6.91,1.51,KG,1.51
+Bolivia,Noodles (short),BOB,2016,9.87,6.91,1.43,KG,1.43
+Bolivia,"Potatoes (Irish, imilla)",BOB,2012,6.63,6.91,0.96,KG,0.96
+Bolivia,"Potatoes (Irish, imilla)",BOB,2013,6.7,6.91,0.97,KG,0.97
+Bolivia,"Potatoes (Irish, imilla)",BOB,2014,6.78,6.91,0.98,KG,0.98
+Bolivia,"Potatoes (Irish, imilla)",BOB,2015,6.74,6.91,0.98,KG,0.98
+Bolivia,"Potatoes (Irish, imilla)",BOB,2016,6.65,6.91,0.96,KG,0.96
+Bolivia,Rice (estaquilla),BOB,2010,2.89,7.02,0.41,Pound,0.91
+Bolivia,Rice (estaquilla),BOB,2011,3.03,6.94,0.44,Pound,0.96
+Bolivia,Rice (estaquilla),BOB,2012,2.94,6.91,0.43,Pound,0.94
+Bolivia,Rice (estaquilla),BOB,2013,3.62,6.91,0.52,Pound,1.15
+Bolivia,Rice (estaquilla),BOB,2014,3.89,6.91,0.56,Pound,1.24
+Bolivia,Rice (estaquilla),BOB,2015,3.78,6.91,0.55,Pound,1.21
+Bolivia,Rice (estaquilla),BOB,2016,3.49,6.91,0.51,Pound,1.11
 Bolivia,"Meat (beef, chops with bones)",BOB,2010,22.65,7.02,3.23,KG,3.23
 Bolivia,"Meat (beef, chops with bones)",BOB,2011,25.17,6.94,3.63,KG,3.63
 Bolivia,"Meat (beef, chops with bones)",BOB,2012,24.73,6.91,3.58,KG,3.58
@@ -349,20 +349,6 @@ Bolivia,"Meat (chicken, whole)",BOB,2013,15.14,6.91,2.19,KG,2.19
 Bolivia,"Meat (chicken, whole)",BOB,2014,15.43,6.91,2.23,KG,2.23
 Bolivia,"Meat (chicken, whole)",BOB,2015,14.87,6.91,2.15,KG,2.15
 Bolivia,"Meat (chicken, whole)",BOB,2016,14.79,6.91,2.14,KG,2.14
-Bolivia,Noodles (short),BOB,2010,8.37,7.02,1.19,KG,1.19
-Bolivia,Noodles (short),BOB,2011,8.47,6.94,1.22,KG,1.22
-Bolivia,Noodles (short),BOB,2012,8.35,6.91,1.21,KG,1.21
-Bolivia,Noodles (short),BOB,2013,10.25,6.91,1.48,KG,1.48
-Bolivia,Noodles (short),BOB,2014,10.62,6.91,1.54,KG,1.54
-Bolivia,Noodles (short),BOB,2015,10.29,6.91,1.49,KG,1.49
-Bolivia,Noodles (short),BOB,2016,9.69,6.91,1.4,KG,1.4
-Bolivia,"Potatoes (Irish, imilla)",BOB,2010,6.31,7.02,0.9,KG,0.9
-Bolivia,"Potatoes (Irish, imilla)",BOB,2011,6.99,6.94,1.01,KG,1.01
-Bolivia,"Potatoes (Irish, imilla)",BOB,2012,18.77,6.91,2.72,KG,2.72
-Bolivia,"Potatoes (Irish, imilla)",BOB,2013,27.05,6.91,3.91,KG,3.91
-Bolivia,"Potatoes (Irish, imilla)",BOB,2014,25.01,6.91,3.62,KG,3.62
-Bolivia,"Potatoes (Irish, imilla)",BOB,2015,24.47,6.91,3.54,KG,3.54
-Bolivia,"Potatoes (Irish, imilla)",BOB,2016,28.96,6.91,4.19,KG,4.19
 Bolivia,Rice (carolina 2da),BOB,2010,5.92,7.02,0.84,KG,0.84
 Bolivia,Rice (carolina 2da),BOB,2011,5.88,6.94,0.85,KG,0.85
 Bolivia,Rice (carolina 2da),BOB,2012,6.08,6.91,0.88,KG,0.88
@@ -370,14 +356,11 @@ Bolivia,Rice (carolina 2da),BOB,2013,8.45,6.91,1.22,KG,1.22
 Bolivia,Rice (carolina 2da),BOB,2014,7.11,6.91,1.03,KG,1.03
 Bolivia,Rice (carolina 2da),BOB,2015,6.4,6.91,0.93,KG,0.93
 Bolivia,Rice (carolina 2da),BOB,2016,5.99,6.91,0.87,KG,0.87
-Bolivia,Rice (estaquilla),BOB,2010,10.97,7.02,1.56,KG,1.56
-Bolivia,Rice (estaquilla),BOB,2011,10.99,6.94,1.58,KG,1.58
-Bolivia,Rice (estaquilla),BOB,2012,10.38,6.91,1.5,KG,1.5
-Bolivia,Rice (good quality),BOB,2012,14.03,6.91,2.03,KG,2.03
-Bolivia,Rice (good quality),BOB,2013,17.57,6.91,2.54,KG,2.54
-Bolivia,Rice (good quality),BOB,2014,17.74,6.91,2.57,KG,2.57
-Bolivia,Rice (good quality),BOB,2015,16.86,6.91,2.44,KG,2.44
-Bolivia,Rice (good quality),BOB,2016,16.2,6.91,2.34,KG,2.34
+Bolivia,Rice (good quality),BOB,2012,8.08,6.91,1.17,KG,1.17
+Bolivia,Rice (good quality),BOB,2013,9.8,6.91,1.42,KG,1.42
+Bolivia,Rice (good quality),BOB,2014,9.84,6.91,1.42,KG,1.42
+Bolivia,Rice (good quality),BOB,2015,9.48,6.91,1.37,KG,1.37
+Bolivia,Rice (good quality),BOB,2016,9.17,6.91,1.33,KG,1.33
 Bolivia,Rice (long grain),BOB,2012,6.27,6.91,0.91,KG,0.91
 Bolivia,Rice (long grain),BOB,2013,7.61,6.91,1.1,KG,1.1
 Bolivia,Rice (long grain),BOB,2014,7.61,6.91,1.1,KG,1.1
@@ -390,35 +373,6 @@ Bolivia,Rice (medium grain),BOB,2013,6.23,6.91,0.9,KG,0.9
 Bolivia,Rice (medium grain),BOB,2014,6.46,6.91,0.93,KG,0.93
 Bolivia,Rice (medium grain),BOB,2015,6.06,6.91,0.88,KG,0.88
 Bolivia,Rice (medium grain),BOB,2016,5.86,6.91,0.85,KG,0.85
-Bolivia,Noodles (short),BOB,2010,8.37,7.02,1.19,Cuartilla,0.41
-Bolivia,Noodles (short),BOB,2011,8.47,6.94,1.22,Cuartilla,0.42
-Bolivia,Noodles (short),BOB,2012,8.35,6.91,1.21,Cuartilla,0.42
-Bolivia,Noodles (short),BOB,2013,10.25,6.91,1.48,Cuartilla,0.51
-Bolivia,Noodles (short),BOB,2014,10.62,6.91,1.54,Cuartilla,0.54
-Bolivia,Noodles (short),BOB,2015,10.29,6.91,1.49,Cuartilla,0.52
-Bolivia,Noodles (short),BOB,2016,9.69,6.91,1.4,Cuartilla,0.49
-Bolivia,"Potatoes (Irish, imilla)",BOB,2012,18.77,6.91,2.72,Cuartilla,0.95
-Bolivia,"Potatoes (Irish, imilla)",BOB,2013,27.05,6.91,3.91,Cuartilla,1.36
-Bolivia,"Potatoes (Irish, imilla)",BOB,2014,25.01,6.91,3.62,Cuartilla,1.26
-Bolivia,"Potatoes (Irish, imilla)",BOB,2015,24.47,6.91,3.54,Cuartilla,1.23
-Bolivia,"Potatoes (Irish, imilla)",BOB,2016,28.96,6.91,4.19,Cuartilla,1.46
-Bolivia,Rice (estaquilla),BOB,2010,10.97,7.02,1.56,Cuartilla,0.54
-Bolivia,Rice (estaquilla),BOB,2011,10.99,6.94,1.58,Cuartilla,0.55
-Bolivia,Rice (estaquilla),BOB,2012,10.38,6.91,1.5,Cuartilla,0.52
-Bolivia,Rice (estaquilla),BOB,2013,13.34,6.91,1.93,Cuartilla,0.67
-Bolivia,Rice (estaquilla),BOB,2014,13.81,6.91,2,Cuartilla,0.7
-Bolivia,Rice (estaquilla),BOB,2015,12.55,6.91,1.82,Cuartilla,0.63
-Bolivia,Rice (estaquilla),BOB,2016,11.99,6.91,1.74,Cuartilla,0.61
-Bolivia,Rice (good quality),BOB,2012,14.03,6.91,2.03,Cuartilla,0.71
-Bolivia,Rice (good quality),BOB,2013,17.57,6.91,2.54,Cuartilla,0.88
-Bolivia,Rice (good quality),BOB,2014,17.74,6.91,2.57,Cuartilla,0.89
-Bolivia,Rice (good quality),BOB,2015,16.86,6.91,2.44,Cuartilla,0.85
-Bolivia,Rice (good quality),BOB,2016,16.2,6.91,2.34,Cuartilla,0.81
-Bolivia,"Potatoes (Irish, imilla)",BOB,2012,18.77,6.91,2.72,11.5 KG,0.24
-Bolivia,"Potatoes (Irish, imilla)",BOB,2013,27.05,6.91,3.91,11.5 KG,0.34
-Bolivia,"Potatoes (Irish, imilla)",BOB,2014,25.01,6.91,3.62,11.5 KG,0.31
-Bolivia,"Potatoes (Irish, imilla)",BOB,2015,24.47,6.91,3.54,11.5 KG,0.31
-Bolivia,"Potatoes (Irish, imilla)",BOB,2016,28.96,6.91,4.19,11.5 KG,0.36
 Burkina Faso,Beans (niebe),XOF,2012,326.27,510.53,0.64,KG,0.64
 Burkina Faso,Beans (niebe),XOF,2013,280.86,494.04,0.57,KG,0.57
 Burkina Faso,Beans (niebe),XOF,2014,252.95,494.41,0.51,KG,0.51
@@ -1660,21 +1614,21 @@ Guatemala,Bananas,GTQ,2012,3.8,7.83,0.49,Pound,0.22
 Guatemala,Bananas,GTQ,2013,4.53,7.86,0.58,Pound,0.26
 Guatemala,Bananas,GTQ,2014,5.06,7.73,0.65,Pound,0.29
 Guatemala,Bananas,GTQ,2015,5.89,7.65,0.77,Pound,0.35
-Guatemala,Beans (black),GTQ,2001,3.38,7.86,0.43,Pound,0.2
-Guatemala,Beans (black),GTQ,2002,137.16,7.82,17.54,Pound,7.96
-Guatemala,Beans (black),GTQ,2003,96.88,7.94,12.2,Pound,5.53
-Guatemala,Beans (black),GTQ,2004,94.09,7.95,11.84,Pound,5.37
-Guatemala,Beans (black),GTQ,2005,138.79,7.63,18.19,Pound,8.25
-Guatemala,Beans (black),GTQ,2006,140.92,7.6,18.54,Pound,8.41
-Guatemala,Beans (black),GTQ,2007,126.49,7.67,16.49,Pound,7.48
-Guatemala,Beans (black),GTQ,2008,203.03,7.56,26.86,Pound,12.18
-Guatemala,Beans (black),GTQ,2009,217.02,8.16,26.6,Pound,12.07
-Guatemala,Beans (black),GTQ,2010,190.55,8.06,23.64,Pound,10.72
-Guatemala,Beans (black),GTQ,2011,191.8,7.79,24.62,Pound,11.17
-Guatemala,Beans (black),GTQ,2012,195.66,7.83,24.99,Pound,11.34
-Guatemala,Beans (black),GTQ,2013,169.44,7.86,21.56,Pound,9.78
-Guatemala,Beans (black),GTQ,2014,181.7,7.73,23.51,Pound,10.66
-Guatemala,Beans (black),GTQ,2015,184.92,7.65,24.17,Pound,10.96
+Guatemala,Beans (black),GTQ,2001,270.42,7.86,34.4,45 KG,0.76
+Guatemala,Beans (black),GTQ,2002,190.38,7.82,24.35,45 KG,0.54
+Guatemala,Beans (black),GTQ,2003,185.09,7.94,23.31,45 KG,0.52
+Guatemala,Beans (black),GTQ,2004,273.83,7.95,34.44,45 KG,0.77
+Guatemala,Beans (black),GTQ,2005,277.83,7.63,36.41,45 KG,0.81
+Guatemala,Beans (black),GTQ,2006,260.07,7.6,34.22,45 KG,0.76
+Guatemala,Beans (black),GTQ,2007,401.15,7.67,52.3,45 KG,1.16
+Guatemala,Beans (black),GTQ,2008,428.56,7.56,56.69,45 KG,1.26
+Guatemala,Beans (black),GTQ,2009,375.76,8.16,46.05,45 KG,1.02
+Guatemala,Beans (black),GTQ,2010,378.1,8.06,46.91,45 KG,1.04
+Guatemala,Beans (black),GTQ,2011,385.68,7.79,49.51,45 KG,1.1
+Guatemala,Beans (black),GTQ,2012,333.15,7.83,42.55,45 KG,0.95
+Guatemala,Beans (black),GTQ,2013,357.33,7.86,45.46,45 KG,1.01
+Guatemala,Beans (black),GTQ,2014,363.25,7.73,46.99,45 KG,1.04
+Guatemala,Beans (black),GTQ,2015,184.92,7.65,24.17,45 KG,0.54
 Guatemala,Bread,GTQ,2001,3.94,7.86,0.5,Pound,0.23
 Guatemala,Bread,GTQ,2002,4.43,7.82,0.57,Pound,0.26
 Guatemala,Bread,GTQ,2003,4.88,7.94,0.61,Pound,0.28
@@ -1753,21 +1707,21 @@ Guatemala,Potatoes,GTQ,2012,5.19,7.83,0.66,Pound,0.3
 Guatemala,Potatoes,GTQ,2013,6.72,7.86,0.85,Pound,0.39
 Guatemala,Potatoes,GTQ,2014,8.74,7.73,1.13,Pound,0.51
 Guatemala,Potatoes,GTQ,2015,9.38,7.65,1.23,Pound,0.56
-Guatemala,"Rice (ordinary, second quality)",GTQ,2001,2.19,7.86,0.28,Pound,0.13
-Guatemala,"Rice (ordinary, second quality)",GTQ,2002,2.23,7.82,0.29,Pound,0.13
-Guatemala,"Rice (ordinary, second quality)",GTQ,2003,2.11,7.94,0.27,Pound,0.12
-Guatemala,"Rice (ordinary, second quality)",GTQ,2004,2.25,7.95,0.28,Pound,0.13
-Guatemala,"Rice (ordinary, second quality)",GTQ,2005,2.42,7.63,0.32,Pound,0.15
-Guatemala,"Rice (ordinary, second quality)",GTQ,2006,2.44,7.6,0.32,Pound,0.15
-Guatemala,"Rice (ordinary, second quality)",GTQ,2007,82.05,7.67,10.7,Pound,4.85
-Guatemala,"Rice (ordinary, second quality)",GTQ,2008,165.22,7.56,21.85,Pound,9.91
-Guatemala,"Rice (ordinary, second quality)",GTQ,2009,152.35,8.16,18.67,Pound,8.47
-Guatemala,"Rice (ordinary, second quality)",GTQ,2010,146.57,8.06,18.18,Pound,8.25
-Guatemala,"Rice (ordinary, second quality)",GTQ,2011,143.3,7.79,18.4,Pound,8.35
-Guatemala,"Rice (ordinary, second quality)",GTQ,2012,145.18,7.83,18.54,Pound,8.41
-Guatemala,"Rice (ordinary, second quality)",GTQ,2013,146.66,7.86,18.66,Pound,8.46
-Guatemala,"Rice (ordinary, second quality)",GTQ,2014,153.86,7.73,19.9,Pound,9.03
-Guatemala,"Rice (ordinary, second quality)",GTQ,2015,140.58,7.65,18.38,Pound,8.34
+Guatemala,"Rice (ordinary, second quality)",GTQ,2001,2.19,7.86,0.28,Pound,0.62
+Guatemala,"Rice (ordinary, second quality)",GTQ,2002,2.23,7.82,0.29,Pound,0.64
+Guatemala,"Rice (ordinary, second quality)",GTQ,2003,2.11,7.94,0.27,Pound,0.6
+Guatemala,"Rice (ordinary, second quality)",GTQ,2004,2.25,7.95,0.28,Pound,0.62
+Guatemala,"Rice (ordinary, second quality)",GTQ,2005,2.42,7.63,0.32,Pound,0.71
+Guatemala,"Rice (ordinary, second quality)",GTQ,2006,2.44,7.6,0.32,Pound,0.71
+Guatemala,"Rice (ordinary, second quality)",GTQ,2007,2.7,7.67,0.35,Pound,0.78
+Guatemala,"Rice (ordinary, second quality)",GTQ,2008,3.69,7.56,0.49,Pound,1.08
+Guatemala,"Rice (ordinary, second quality)",GTQ,2009,4.01,8.16,0.49,Pound,1.08
+Guatemala,"Rice (ordinary, second quality)",GTQ,2010,3.99,8.06,0.5,Pound,1.09
+Guatemala,"Rice (ordinary, second quality)",GTQ,2011,4.04,7.79,0.52,Pound,1.14
+Guatemala,"Rice (ordinary, second quality)",GTQ,2012,4.18,7.83,0.53,Pound,1.18
+Guatemala,"Rice (ordinary, second quality)",GTQ,2013,4.27,7.86,0.54,Pound,1.2
+Guatemala,"Rice (ordinary, second quality)",GTQ,2014,4.28,7.73,0.55,Pound,1.22
+Guatemala,"Rice (ordinary, second quality)",GTQ,2015,4.32,7.65,0.56,Pound,1.24
 Guatemala,Sugar,GTQ,2009,2.34,8.16,0.29,Pound,0.13
 Guatemala,Sugar,GTQ,2010,3.06,8.06,0.38,Pound,0.17
 Guatemala,Sugar,GTQ,2011,3.52,7.79,0.45,Pound,0.2
@@ -1832,20 +1786,6 @@ Guatemala,Eggs,GTQ,2012,14.92,7.83,1.91,650 G,2.94
 Guatemala,Eggs,GTQ,2013,17.33,7.86,2.2,650 G,3.38
 Guatemala,Eggs,GTQ,2014,17.43,7.73,2.25,650 G,3.46
 Guatemala,Eggs,GTQ,2015,18.56,7.65,2.43,650 G,3.74
-Guatemala,Beans (black),GTQ,2002,137.16,7.82,17.54,45 KG,0.39
-Guatemala,Beans (black),GTQ,2003,96.88,7.94,12.2,45 KG,0.27
-Guatemala,Beans (black),GTQ,2004,94.09,7.95,11.84,45 KG,0.26
-Guatemala,Beans (black),GTQ,2005,138.79,7.63,18.19,45 KG,0.4
-Guatemala,Beans (black),GTQ,2006,140.92,7.6,18.54,45 KG,0.41
-Guatemala,Beans (black),GTQ,2007,126.49,7.67,16.49,45 KG,0.37
-Guatemala,Beans (black),GTQ,2008,203.03,7.56,26.86,45 KG,0.6
-Guatemala,Beans (black),GTQ,2009,217.02,8.16,26.6,45 KG,0.59
-Guatemala,Beans (black),GTQ,2010,190.55,8.06,23.64,45 KG,0.53
-Guatemala,Beans (black),GTQ,2011,191.8,7.79,24.62,45 KG,0.55
-Guatemala,Beans (black),GTQ,2012,195.66,7.83,24.99,45 KG,0.56
-Guatemala,Beans (black),GTQ,2013,169.44,7.86,21.56,45 KG,0.48
-Guatemala,Beans (black),GTQ,2014,181.7,7.73,23.51,45 KG,0.52
-Guatemala,Beans (black),GTQ,2015,184.92,7.65,24.17,45 KG,0.54
 Guatemala,Maize (white),GTQ,2002,69.19,7.82,8.85,45 KG,0.2
 Guatemala,Maize (white),GTQ,2003,79.53,7.94,10.02,45 KG,0.22
 Guatemala,Maize (white),GTQ,2004,87.72,7.95,11.03,45 KG,0.25
@@ -1888,15 +1828,6 @@ Guatemala,"Rice (ordinary, first quality)",GTQ,2012,311,7.83,39.72,45 KG,0.88
 Guatemala,"Rice (ordinary, first quality)",GTQ,2013,323.01,7.86,41.1,45 KG,0.91
 Guatemala,"Rice (ordinary, first quality)",GTQ,2014,322.82,7.73,41.76,45 KG,0.93
 Guatemala,"Rice (ordinary, first quality)",GTQ,2015,294.35,7.65,38.48,45 KG,0.86
-Guatemala,"Rice (ordinary, second quality)",GTQ,2007,82.05,7.67,10.7,45 KG,0.24
-Guatemala,"Rice (ordinary, second quality)",GTQ,2008,165.22,7.56,21.85,45 KG,0.49
-Guatemala,"Rice (ordinary, second quality)",GTQ,2009,152.35,8.16,18.67,45 KG,0.41
-Guatemala,"Rice (ordinary, second quality)",GTQ,2010,146.57,8.06,18.18,45 KG,0.4
-Guatemala,"Rice (ordinary, second quality)",GTQ,2011,143.3,7.79,18.4,45 KG,0.41
-Guatemala,"Rice (ordinary, second quality)",GTQ,2012,145.18,7.83,18.54,45 KG,0.41
-Guatemala,"Rice (ordinary, second quality)",GTQ,2013,146.66,7.86,18.66,45 KG,0.41
-Guatemala,"Rice (ordinary, second quality)",GTQ,2014,153.86,7.73,19.9,45 KG,0.44
-Guatemala,"Rice (ordinary, second quality)",GTQ,2015,140.58,7.65,18.38,45 KG,0.41
 Guatemala,Salt,GTQ,2009,0.31,8.16,0.04,115 G,0.35
 Guatemala,Salt,GTQ,2010,0.32,8.06,0.04,115 G,0.35
 Guatemala,Salt,GTQ,2011,0.35,7.79,0.04,115 G,0.35
@@ -2536,50 +2467,28 @@ Kenya,Oil (vegetable),KES,2013,217.5,86.12,2.53,L,2.53
 Kenya,Oil (vegetable),KES,2014,208.52,87.92,2.37,L,2.37
 Kenya,Oil (vegetable),KES,2015,192.83,98.18,1.96,L,1.96
 Kenya,Oil (vegetable),KES,2016,179.64,101.5,1.77,L,1.77
-Kenya,Beans (dry),KES,2006,2599.4,72.1,36.05,KG,36.05
-Kenya,Beans (dry),KES,2007,2549.5,67.32,37.87,KG,37.87
-Kenya,Beans (dry),KES,2008,3839.57,69.18,55.5,KG,55.5
-Kenya,Beans (dry),KES,2009,3965.02,77.35,51.26,KG,51.26
-Kenya,Beans (dry),KES,2010,3547.27,79.23,44.77,KG,44.77
-Kenya,Beans (dry),KES,2011,4896.5,88.81,55.13,KG,55.13
-Kenya,Beans (dry),KES,2012,4909.58,84.53,58.08,KG,58.08
-Kenya,Beans (dry),KES,2013,5119.94,86.12,59.45,KG,59.45
-Kenya,Beans (dry),KES,2014,5328.05,87.92,60.6,KG,60.6
-Kenya,Beans (dry),KES,2015,3628.02,98.18,36.95,KG,36.95
-Kenya,Beans (dry),KES,2016,3636.07,101.5,35.82,KG,35.82
-Kenya,Maize (white),KES,2006,709.33,72.1,9.84,KG,9.84
-Kenya,Maize (white),KES,2007,614.08,67.32,9.12,KG,9.12
-Kenya,Maize (white),KES,2008,959.52,69.18,13.87,KG,13.87
-Kenya,Maize (white),KES,2009,1276.96,77.35,16.51,KG,16.51
-Kenya,Maize (white),KES,2010,903.92,79.23,11.41,KG,11.41
-Kenya,Maize (white),KES,2011,1583.22,88.81,17.83,KG,17.83
-Kenya,Maize (white),KES,2012,1582.92,84.53,18.73,KG,18.73
-Kenya,Maize (white),KES,2013,1526.33,86.12,17.72,KG,17.72
-Kenya,Maize (white),KES,2014,1539.78,87.92,17.51,KG,17.51
-Kenya,Maize (white),KES,2015,998.11,98.18,10.17,KG,10.17
-Kenya,Maize (white),KES,2016,1023.1,101.5,10.08,KG,10.08
-Kenya,Beans (dry),KES,2006,2599.4,72.1,36.05,90 KG,0.4
-Kenya,Beans (dry),KES,2007,2549.5,67.32,37.87,90 KG,0.42
-Kenya,Beans (dry),KES,2008,3839.57,69.18,55.5,90 KG,0.62
-Kenya,Beans (dry),KES,2009,3965.02,77.35,51.26,90 KG,0.57
-Kenya,Beans (dry),KES,2010,3547.27,79.23,44.77,90 KG,0.5
-Kenya,Beans (dry),KES,2011,4896.5,88.81,55.13,90 KG,0.61
-Kenya,Beans (dry),KES,2012,4909.58,84.53,58.08,90 KG,0.65
-Kenya,Beans (dry),KES,2013,5119.94,86.12,59.45,90 KG,0.66
-Kenya,Beans (dry),KES,2014,5328.05,87.92,60.6,90 KG,0.67
-Kenya,Beans (dry),KES,2015,3628.02,98.18,36.95,90 KG,0.41
-Kenya,Beans (dry),KES,2016,3636.07,101.5,35.82,90 KG,0.4
-Kenya,Maize (white),KES,2006,709.33,72.1,9.84,90 KG,0.11
-Kenya,Maize (white),KES,2007,614.08,67.32,9.12,90 KG,0.1
-Kenya,Maize (white),KES,2008,959.52,69.18,13.87,90 KG,0.15
-Kenya,Maize (white),KES,2009,1276.96,77.35,16.51,90 KG,0.18
-Kenya,Maize (white),KES,2010,903.92,79.23,11.41,90 KG,0.13
-Kenya,Maize (white),KES,2011,1583.22,88.81,17.83,90 KG,0.2
-Kenya,Maize (white),KES,2012,1582.92,84.53,18.73,90 KG,0.21
-Kenya,Maize (white),KES,2013,1526.33,86.12,17.72,90 KG,0.2
-Kenya,Maize (white),KES,2014,1539.78,87.92,17.51,90 KG,0.19
-Kenya,Maize (white),KES,2015,998.11,98.18,10.17,90 KG,0.11
-Kenya,Maize (white),KES,2016,1023.1,101.5,10.08,90 KG,0.11
+Kenya,Beans (dry),KES,2006,46,72.1,0.64,KG,0.64
+Kenya,Beans (dry),KES,2007,34.92,67.32,0.52,KG,0.52
+Kenya,Beans (dry),KES,2008,62.92,69.18,0.91,KG,0.91
+Kenya,Beans (dry),KES,2009,65.83,77.35,0.85,KG,0.85
+Kenya,Beans (dry),KES,2010,51.25,79.23,0.65,KG,0.65
+Kenya,Beans (dry),KES,2011,78.86,88.81,0.89,KG,0.89
+Kenya,Beans (dry),KES,2012,78.54,84.53,0.93,KG,0.93
+Kenya,Beans (dry),KES,2013,72.3,86.12,0.84,KG,0.84
+Kenya,Beans (dry),KES,2014,76.06,87.92,0.87,KG,0.87
+Kenya,Beans (dry),KES,2015,90.97,98.18,0.93,KG,0.93
+Kenya,Beans (dry),KES,2016,86.39,101.5,0.85,KG,0.85
+Kenya,Maize (white),KES,2006,23.62,72.1,0.33,KG,0.33
+Kenya,Maize (white),KES,2007,20.71,67.32,0.31,KG,0.31
+Kenya,Maize (white),KES,2008,32.44,69.18,0.47,KG,0.47
+Kenya,Maize (white),KES,2009,40.65,77.35,0.53,KG,0.53
+Kenya,Maize (white),KES,2010,33.89,79.23,0.43,KG,0.43
+Kenya,Maize (white),KES,2011,50.42,88.81,0.57,KG,0.57
+Kenya,Maize (white),KES,2012,58.35,84.53,0.69,KG,0.69
+Kenya,Maize (white),KES,2013,59.64,86.12,0.69,KG,0.69
+Kenya,Maize (white),KES,2014,54.91,87.92,0.62,KG,0.62
+Kenya,Maize (white),KES,2015,49.29,98.18,0.5,KG,0.5
+Kenya,Maize (white),KES,2016,48.95,101.5,0.48,KG,0.48
 Kenya,Sorghum,KES,2006,1611.14,72.1,22.35,90 KG,0.25
 Kenya,Sorghum,KES,2007,1553.46,67.32,23.08,90 KG,0.26
 Kenya,Sorghum,KES,2008,2032.88,69.18,29.39,90 KG,0.33
@@ -2646,10 +2555,10 @@ Kyrgyzstan,Bread,KGS,2007,19.65,37.32,0.53,KG,0.53
 Kyrgyzstan,Bread,KGS,2008,31.57,36.57,0.86,KG,0.86
 Kyrgyzstan,Bread,KGS,2009,31.57,42.9,0.74,KG,0.74
 Kyrgyzstan,Bread,KGS,2010,32.23,45.96,0.7,KG,0.7
-Kyrgyzstan,Bread,KGS,2011,25.46,46.14,0.55,KG,0.55
-Kyrgyzstan,Bread,KGS,2012,23.5,47,0.5,KG,0.5
-Kyrgyzstan,Bread,KGS,2013,23.8,48.44,0.49,KG,0.49
-Kyrgyzstan,Bread,KGS,2014,35.59,53.65,0.66,KG,0.66
+Kyrgyzstan,Bread,KGS,2011,38.1,46.14,0.83,KG,0.83
+Kyrgyzstan,Bread,KGS,2012,39.81,47,0.85,KG,0.85
+Kyrgyzstan,Bread,KGS,2013,45.26,48.44,0.93,KG,0.93
+Kyrgyzstan,Bread,KGS,2014,47.81,53.65,0.89,KG,0.89
 Kyrgyzstan,Bread,KGS,2015,52.81,64.46,0.82,KG,0.82
 Kyrgyzstan,Cabbage,KGS,2009,10.46,42.9,0.24,KG,0.24
 Kyrgyzstan,Cabbage,KGS,2010,20.56,45.96,0.45,KG,0.45
@@ -2762,10 +2671,6 @@ Kyrgyzstan,Wheat flour (first grade),KGS,2013,26.7,48.44,0.55,KG,0.55
 Kyrgyzstan,Wheat flour (first grade),KGS,2014,29.6,53.65,0.55,KG,0.55
 Kyrgyzstan,Wheat flour (first grade),KGS,2015,34.42,64.46,0.53,KG,0.53
 Kyrgyzstan,Wheat flour (first grade),KGS,2016,30.45,69.91,0.44,KG,0.44
-Kyrgyzstan,Bread,KGS,2011,25.46,46.14,0.55,150 G,3.67
-Kyrgyzstan,Bread,KGS,2012,23.5,47,0.5,150 G,3.33
-Kyrgyzstan,Bread,KGS,2013,23.8,48.44,0.49,150 G,3.27
-Kyrgyzstan,Bread,KGS,2014,35.59,53.65,0.66,150 G,4.4
 Kyrgyzstan,Eggs,KGS,2009,52.3,42.9,1.22,10 pcs,0.12
 Kyrgyzstan,Eggs,KGS,2010,54.35,45.96,1.18,10 pcs,0.12
 Kyrgyzstan,Eggs,KGS,2011,66.93,46.14,1.45,10 pcs,0.15
@@ -3477,9 +3382,9 @@ Nigeria,Millet,NGN,2010,164.86,150.3,1.1,KG,1.1
 Nigeria,Millet,NGN,2011,163.65,153.86,1.06,KG,1.06
 Nigeria,Millet,NGN,2012,209.45,157.5,1.33,KG,1.33
 Nigeria,Millet,NGN,2013,225.55,157.31,1.43,KG,1.43
-Nigeria,Millet,NGN,2014,3764.31,158.55,23.74,KG,23.74
-Nigeria,Millet,NGN,2015,4597.67,192.44,23.89,KG,23.89
-Nigeria,Millet,NGN,2016,8552.1,253.49,33.74,KG,33.74
+Nigeria,Millet,NGN,2014,194.37,158.55,1.23,KG,1.23
+Nigeria,Millet,NGN,2015,142.45,192.44,0.74,KG,0.74
+Nigeria,Millet,NGN,2016,165,253.49,0.65,KG,0.65
 Nigeria,Rice (imported),NGN,2002,311.03,120.58,2.58,KG,2.58
 Nigeria,Rice (imported),NGN,2003,276.18,129.22,2.14,KG,2.14
 Nigeria,Rice (imported),NGN,2005,357.92,131.27,2.73,KG,2.73
@@ -3491,9 +3396,9 @@ Nigeria,Rice (imported),NGN,2010,445.23,150.3,2.96,KG,2.96
 Nigeria,Rice (imported),NGN,2011,410.55,153.86,2.67,KG,2.67
 Nigeria,Rice (imported),NGN,2012,443.61,157.5,2.82,KG,2.82
 Nigeria,Rice (imported),NGN,2013,443.36,157.31,2.82,KG,2.82
-Nigeria,Rice (imported),NGN,2014,4664.64,158.55,29.42,KG,29.42
-Nigeria,Rice (imported),NGN,2015,6477.42,192.44,33.66,KG,33.66
-Nigeria,Rice (imported),NGN,2016,11274.36,253.49,44.48,KG,44.48
+Nigeria,Rice (imported),NGN,2014,399.42,158.55,2.52,KG,2.52
+Nigeria,Rice (imported),NGN,2015,337.54,192.44,1.75,KG,1.75
+Nigeria,Rice (imported),NGN,2016,280.58,253.49,1.11,KG,1.11
 Nigeria,Sorghum,NGN,2002,157.93,120.58,1.31,KG,1.31
 Nigeria,Sorghum,NGN,2003,90.11,129.22,0.7,KG,0.7
 Nigeria,Sorghum,NGN,2005,167.97,131.27,1.28,KG,1.28
@@ -3508,12 +3413,6 @@ Nigeria,Sorghum,NGN,2013,195.86,157.31,1.25,KG,1.25
 Nigeria,Sorghum,NGN,2014,166.71,158.55,1.05,KG,1.05
 Nigeria,Sorghum,NGN,2015,125.22,192.44,0.65,KG,0.65
 Nigeria,Sorghum,NGN,2016,155.05,253.49,0.61,KG,0.61
-Nigeria,Rice (imported),NGN,2014,4664.64,158.55,29.42,50 KG,0.59
-Nigeria,Rice (imported),NGN,2015,6477.42,192.44,33.66,50 KG,0.67
-Nigeria,Rice (imported),NGN,2016,11274.36,253.49,44.48,50 KG,0.89
-Nigeria,Millet,NGN,2014,3764.31,158.55,23.74,100 KG,0.24
-Nigeria,Millet,NGN,2015,4597.67,192.44,23.89,100 KG,0.24
-Nigeria,Millet,NGN,2016,8552.1,253.49,33.74,100 KG,0.34
 Pakistan,"Rice (basmati, broken)",PKR,2004,19.57,58.15,0.34,KG,0.34
 Pakistan,"Rice (basmati, broken)",PKR,2005,20.63,59.52,0.35,KG,0.35
 Pakistan,"Rice (basmati, broken)",PKR,2006,20.54,60.25,0.34,KG,0.34
