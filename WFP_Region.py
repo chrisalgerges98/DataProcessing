@@ -86,7 +86,7 @@ regio = [["Afghanistan","Iran (Islamic Republic of)", "Pakistan", "Tajikistan"],
 ["Congo","Democratic Republic of the Congo", "Cameroon", "Central African Republic"],
 ["Democratic Republic of the Congo","Congo", "Zambia", "Rwanda", "Burundi", "United Republic of Tanzania", "Uganda", "South Sudan", "Central African Republic"],
 ["Costa Rica","Panama"],
-["Cote d'Ivoire","Guinea", "Liberia", "Ghana", "Mali", "Burkina Faso"],
+["Cote d'Ivoire", "Guinea", "Liberia", "Ghana", "Mali", "Burkina Faso"],
 ["Djibouti","Ethiopia"],
 ["Egypt","Sudan"],
 ["El Salvador","Guatemala", "Honduras"],
@@ -143,7 +143,7 @@ df = pd.read_csv("WFPFinal.csv")
 countries = df["country"].unique()
 
 # change to get charts about regions and certain product
-product = "Cabbage"
+product = "Maize"
 for i, country in zip(range(len(land)), countries):
     x_list = []
     y_list = []
@@ -155,7 +155,7 @@ for i, country in zip(range(len(land)), countries):
             y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
             x_list.append(x)
             y_list.append(y)
-        fOut = open("Cabbage_Chart.html", "a")
+        fOut = open("Maize_Chart.html", "a")
         f = figure(plot_width=500, plot_height=500, title=country)
         f.multi_line(xs = x_list, ys = y_list)
         html = file_html(f, CDN, "chart")
