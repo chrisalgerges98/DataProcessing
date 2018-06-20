@@ -85,25 +85,38 @@ df = pd.read_csv("WFPAfricaFinal.csv")
 countries = df["country"].unique()
 
 # change to get charts about regions and certain product
-product = "Yam"
-for i, country in zip(range(len(land)), countries):
-    x_list = []
-    y_list = []
-    if product in df["food"][(df["country"] == country)].unique():
-        print(land[i])
-        print(i)
-        for j in regio[i]:
-            print(j)
-            x = df["year"][(df["country"] == j) & (df["food"] == product)]
-            print(x)
-            y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
-            x_list.append(x)
-            y_list.append(y)
-        fOut = open("Afrika_Yam.html", "a")
-        f = figure(plot_width=500, plot_height=500, title=country)
-        f.multi_line(xs = x_list, ys = y_list)
-        html = file_html(f, CDN, "chart")
-        fOut.write(html)
-        fOut.close()
-    else:
-        continue
+product = "Maize"
+x_list = []
+y_list = []
+for country in countries:
+    x = df["year"][(df["country"] == country) & (df["food"] == product)]
+    y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)] 
+    x_list.append(x)
+    y_list.append(y)
+fOut = open("Afrika_Maize.html", "a")
+f = figure(plot_width=500, plot_height=500, title=product)
+f.multi_line(xs = x_list, ys = y_list)
+html = file_html(f, CDN, "chart")
+fOut.write(html)
+fOut.close()
+# for i, country in zip(range(len(land)), countries):
+#     x_list = []
+#     y_list = []
+#     if product in df["food"][(df["country"] == country)].unique():
+#         print(land[i])
+#         print(i)
+#         for j in land[i]:
+#             print(j)
+#             x = df["year"][(df["country"] == j) & (df["food"] == product)]
+#             print(x)
+#             y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
+#             x_list.append(x)
+#             y_list.append(y)
+#         fOut = open("Afrika_Maize.html", "a")
+#         f = figure(plot_width=500, plot_height=500, title=country)
+#         f.multi_line(xs = x_list, ys = y_list)
+#         html = file_html(f, CDN, "chart")
+#         fOut.write(html)
+#         fOut.close()
+#     else:
+#         continue
