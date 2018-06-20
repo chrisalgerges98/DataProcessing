@@ -78,32 +78,32 @@ regio =[["Benin","Burkina Faso", "Nigeria", "Niger"],
 ["Zimbabwe", "Zambia", "Mozambique"],
 ["MijnlandAfrica","Benin","Burkina Faso","Burundi","Cameroon","Central African Republic","Chad","Congo","Democratic Republic of the Congo","Ivory Coast","Djibouti","Egypt","Ethiopia","Gambia","Ghana","Guinea","Guinea-Bissau","Kenya","Lesotho","Liberia","Madagascar","Malawi","Mali","Mauritania","Mozambique","Niger","Nigeria","Rwanda","Senegal","South Sudan","Sudan","Swaziland",'Uganda','United Republic of Tanzania','Yemen','Zambia','Zimbabwe',]]
 
-
+ListofProducts = ['product', 'product2'] # OOK HIERZO
 
 df = pd.read_csv("WFPAfricaFinal.csv")
 
 countries = df["country"].unique()
 
 # change to get charts about regions and certain product
-product = "Yam"
-for i, country in zip(range(len(land)), countries):
-    x_list = []
-    y_list = []
-    if product in df["food"][(df["country"] == country)].unique():
-        print(land[i])
-        print(i)
-        for j in regio[i]:
-            print(j)
-            x = df["year"][(df["country"] == j) & (df["food"] == product)]
-            print(x)
-            y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
-            x_list.append(x)
-            y_list.append(y)
-        fOut = open("Afrika_Yam.html", "a")
-        f = figure(plot_width=500, plot_height=500, title=country)
-        f.multi_line(xs = x_list, ys = y_list)
-        html = file_html(f, CDN, "chart")
-        fOut.write(html)
-        fOut.close()
-    else:
-        continue
+for product in ListofProducts #HIERO GEERT
+    for i, country in zip(range(len(land)), countries):
+        x_list = []
+        y_list = []
+        if product in df["food"][(df["country"] == country)].unique():
+            print(land[i])
+            print(i)
+            for j in regio[i]:
+                print(j)
+                x = df["year"][(df["country"] == j) & (df["food"] == product)]
+                print(x)
+                y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
+                x_list.append(x)
+                y_list.append(y)
+            fOut = open("Afrika_Yam.html", "a")
+            f = figure(plot_width=500, plot_height=500, title=country)
+            f.multi_line(xs = x_list, ys = y_list)
+            html = file_html(f, CDN, "chart")
+            fOut.write(html)
+            fOut.close()
+        else:
+            continue
