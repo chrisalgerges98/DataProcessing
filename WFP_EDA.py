@@ -5,7 +5,7 @@ from bokeh.resources import CDN
 from bokeh.embed import file_html
 from bokeh.models import DataRange1d
 
-df = pd.read_csv("WFPFinal.csv")
+df = pd.read_csv("WFPAfricaFinal.csv")
 
 countries = df["country"].unique()
 my_palette = ['goldenrod', 'forestgreen', 'black', 'blue', 'blueviolet', 'brown','crimson', \

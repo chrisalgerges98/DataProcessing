@@ -121,6 +121,6 @@ fOut.close()
 #     else:
 #         continue
 
-# df_3 = df["country"]
+# df_3 = df["food"]
 # df_3 = df_3.drop_duplicates()
-# df_3.to_csv("CountriesInAfrica.csv", header="country")
+# df_3.to_csv("ProductsInAfrica.csv", header="food")
