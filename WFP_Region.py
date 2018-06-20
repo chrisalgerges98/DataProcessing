@@ -4,7 +4,7 @@ from bokeh.io import output_file, show
 from bokeh.resources import CDN
 from bokeh.embed import file_html
 
-land =["Benin"],
+land =[["Benin"],
 ["Burkina Faso"],
 ["Burundi"],
 ["Cameroon"],
@@ -40,7 +40,7 @@ land =["Benin"],
 ['Yemen'],
 ['Zambia'],
 ['Zimbabwe'],
-['MijnlandAfrica']
+['MijnlandAfrica']]
 
 regio =[["Benin","Burkina Faso", "Nigeria", "Niger"],
 ["Burkina Faso","Mali", "Cote d'Ivoire", "Ghana", "Benin", "Niger"],
