@@ -84,13 +84,13 @@ df = pd.read_csv("WFPAfricaFinal.csv")
 
 countries = df["country"].unique()
 
-# change to get charts about regions and certain product
+change to get charts about regions and certain product
 product = "Maize"
 x_list = []
 y_list = []
 for country in countries:
     x = df["year"][(df["country"] == country) & (df["food"] == product)]
-    y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)] 
+    y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)]
     x_list.append(x)
     y_list.append(y)
 fOut = open("Afrika_Maize.html", "a")
@@ -120,3 +120,7 @@ fOut.close()
 #         fOut.close()
 #     else:
 #         continue
+
+# df_3 = df["country"]
+# df_3 = df_3.drop_duplicates()
+# df_3.to_csv("CountriesInAfrica.csv", header="country")
