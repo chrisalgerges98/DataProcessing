@@ -3,7 +3,7 @@ from bokeh.plotting import figure
 from bokeh.io import output_file
 from bokeh.resources import CDN
 from bokeh.embed import file_html
-from bokeh.models import DataRange1d
+from bokeh.models import DataRange1d, Legend
 
 df = pd.read_csv("WFPAfricaFinal.csv")
 
@@ -16,15 +16,19 @@ my_palette = ['goldenrod', 'forestgreen', 'black', 'blue', 'blueviolet', 'brown'
 
 fOut = open("CountryChart.html", "a")
 for country in countries:
+    legend_it = []
     products = df["food"][df["country"] == country].unique()
     f = figure(plot_width=1000, plot_height=650, title=country)
     f.xaxis.axis_label="year"
     f.yaxis.axis_label="price per unit"
     for product, color in zip(products, my_palette):
-        f.line(df["year"][(df["country"] == country) & (df["food"] == product)], \
+        c = f.line(df["year"][(df["country"] == country) & (df["food"] == product)], \
         df["price_per_unit"][(df["country"] == country) & (df["food"] == product)], color=color, \
-        alpha=0.8, muted_color=color, muted_alpha=0.2, legend=product)
-    f.legend.spacing =
+        alpha=0.8, muted_color=color, muted_alpha=0.2)
+        legend_it.append((product, [c]))
+    legend = Legend(items=legend_it, location=(0, -20))
+    legend.click_policy="mute"
+    f.add_layout(legend, "right")
     html = file_html(f, CDN, "CountryChart")
     fOut.write(html)
 fOut.close()
