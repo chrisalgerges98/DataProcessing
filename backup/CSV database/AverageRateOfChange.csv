@@ -1,0 +1,398 @@
+Country,Year,Rate_of_change
+Benin,2002,0
+Benin,2003,-14.58
+Benin,2005,78.62
+Benin,2006,-16.3
+Benin,2007,10.78
+Benin,2008,60.45
+Benin,2009,1.69
+Benin,2010,-9.6
+Benin,2011,11.61
+Benin,2012,-3.56
+Benin,2013,7.4
+Benin,2014,-21.12
+Benin,2015,-17.08
+Benin,2016,5.08
+Burkina Faso,2001,0
+Burkina Faso,2002,3.17
+Burkina Faso,2003,36.16
+Burkina Faso,2004,-3.18
+Burkina Faso,2005,67.84
+Burkina Faso,2006,-28.23
+Burkina Faso,2007,-2.9
+Burkina Faso,2008,43.97
+Burkina Faso,2009,2.03
+Burkina Faso,2010,-10.03
+Burkina Faso,2011,11.36
+Burkina Faso,2012,19.09
+Burkina Faso,2013,-13.85
+Burkina Faso,2014,-5.52
+Burkina Faso,2015,-11.04
+Burkina Faso,2016,2.92
+Burundi,2003,0
+Burundi,2004,71.85
+Burundi,2005,42.54
+Burundi,2006,18.71
+Burundi,2007,12.5
+Burundi,2008,6.66
+Burundi,2009,10.9
+Burundi,2010,3.37
+Burundi,2011,-0.36
+Burundi,2012,4.1
+Burundi,2013,-10.58
+Burundi,2014,5.35
+Burundi,2015,-14.16
+Burundi,2016,24.07
+Cameroon,2011,0
+Cameroon,2012,10.97
+Cameroon,2013,-2.42
+Cameroon,2014,5.13
+Cameroon,2015,-21.62
+Cameroon,2016,-5.09
+Central African Republic,2004,0
+Central African Republic,2005,15.99
+Central African Republic,2006,-8.13
+Central African Republic,2007,-3.82
+Central African Republic,2008,25.2
+Central African Republic,2009,-4.86
+Central African Republic,2010,-13.29
+Central African Republic,2011,15.03
+Central African Republic,2012,-7.01
+Central African Republic,2013,-6.22
+Central African Republic,2014,-58.44
+Central African Republic,2015,-1.24
+Central African Republic,2016,62.54
+Chad,2003,0
+Chad,2004,27.39
+Chad,2005,43.34
+Chad,2006,-12.13
+Chad,2007,0.05
+Chad,2008,43.51
+Chad,2009,3.32
+Chad,2010,-16.85
+Chad,2011,15.11
+Chad,2012,4.36
+Chad,2013,-0.63
+Chad,2014,3.91
+Chad,2015,-12.99
+Chad,2016,-6.54
+Congo,2011,0
+Congo,2012,7.92
+Congo,2013,16.92
+Congo,2014,-1.79
+Congo,2015,24.39
+Congo,2016,-11.95
+Democratic Republic of the Congo,2008,0
+Democratic Republic of the Congo,2009,-16.76
+Democratic Republic of the Congo,2010,-9.8
+Democratic Republic of the Congo,2011,12.75
+Democratic Republic of the Congo,2012,13.32
+Democratic Republic of the Congo,2013,-0.91
+Democratic Republic of the Congo,2014,-8.35
+Democratic Republic of the Congo,2015,-11.71
+Democratic Republic of the Congo,2016,-7.73
+Djibouti,2008,0
+Djibouti,2009,-17.16
+Djibouti,2010,-10.44
+Djibouti,2011,9.48
+Djibouti,2012,-0.44
+Djibouti,2013,-2.78
+Djibouti,2014,4.98
+Djibouti,2015,-0.85
+Djibouti,2016,-9.6
+Egypt,2010,0
+Egypt,2011,1
+Egypt,2012,2
+Egypt,2013,4.02
+Egypt,2014,-5.06
+Egypt,2015,-5.15
+Egypt,2016,1.46
+Ethiopia,2006,0
+Ethiopia,2007,3.51
+Ethiopia,2008,117.1
+Ethiopia,2009,-27.49
+Ethiopia,2010,-28.31
+Ethiopia,2011,26.09
+Ethiopia,2012,10.41
+Ethiopia,2013,5.65
+Ethiopia,2014,0.56
+Ethiopia,2015,-7.07
+Ethiopia,2016,12.88
+Gambia,2006,0
+Gambia,2007,20.11
+Gambia,2008,21.48
+Gambia,2009,-7.49
+Gambia,2010,-3.75
+Gambia,2011,2.2
+Gambia,2012,-1.66
+Gambia,2013,1.08
+Gambia,2014,-12.19
+Gambia,2015,11.23
+Gambia,2016,-1.43
+Ghana,2008,0
+Ghana,2009,-9.83
+Ghana,2010,11.16
+Ghana,2011,5.22
+Ghana,2012,20.85
+Ghana,2013,4.37
+Ghana,2014,-25.8
+Ghana,2015,6.51
+Ghana,2016,36.74
+Guinea,2008,0
+Guinea,2009,-5.49
+Guinea,2010,-1.74
+Guinea,2011,13.31
+Guinea,2012,-2.1
+Guinea,2013,-6.97
+Guinea,2014,9.74
+Guinea,2015,-7.11
+Guinea,2016,-13.25
+Guinea-Bissau,2007,0
+Guinea-Bissau,2008,15.5
+Guinea-Bissau,2009,-10.07
+Guinea-Bissau,2010,-5.6
+Guinea-Bissau,2011,17.24
+Guinea-Bissau,2012,-0.81
+Guinea-Bissau,2013,8.33
+Guinea-Bissau,2014,-1.48
+Guinea-Bissau,2015,-23.26
+Guinea-Bissau,2016,-15.97
+Ivory Coast,2005,0
+Ivory Coast,2006,-4.86
+Ivory Coast,2007,10.91
+Ivory Coast,2008,28.57
+Ivory Coast,2009,-8.45
+Ivory Coast,2010,-2.05
+Ivory Coast,2011,10.84
+Ivory Coast,2012,-0.34
+Ivory Coast,2013,6.83
+Ivory Coast,2014,2.7
+Ivory Coast,2015,-11.37
+Ivory Coast,2016,2.32
+Kenya,2006,0
+Kenya,2007,3.33
+Kenya,2008,33.34
+Kenya,2009,1.19
+Kenya,2010,-7.25
+Kenya,2011,17.02
+Kenya,2012,18.02
+Kenya,2013,-2.41
+Kenya,2014,-0.93
+Kenya,2015,-8.74
+Kenya,2016,0.24
+Lesotho,2010,0
+Lesotho,2011,4.74
+Lesotho,2012,-0.55
+Lesotho,2013,-4.87
+Lesotho,2014,-3.51
+Lesotho,2015,-13.08
+Lesotho,2016,-5.2
+Liberia,2006,0
+Liberia,2007,7.12
+Liberia,2008,4.63
+Liberia,2009,7.16
+Liberia,2010,0.32
+Liberia,2011,292.3
+Liberia,2012,10.46
+Liberia,2013,-6.55
+Liberia,2014,-0.28
+Liberia,2015,-6.87
+Liberia,2016,-11.45
+Madagascar,2004,0
+Madagascar,2005,21.74
+Madagascar,2006,-10.71
+Madagascar,2007,26
+Madagascar,2008,12.7
+Madagascar,2009,-12.68
+Madagascar,2010,-1.61
+Madagascar,2011,-1.23
+Madagascar,2012,-7.42
+Madagascar,2013,-1.27
+Madagascar,2014,-11.49
+Madagascar,2015,-16.1
+Madagascar,2016,-3.18
+Malawi,2003,0
+Malawi,2004,0
+Malawi,2005,35.71
+Malawi,2006,5.26
+Malawi,2007,-35
+Malawi,2008,161.54
+Malawi,2009,2.94
+Malawi,2010,-40
+Malawi,2011,-9.52
+Malawi,2012,2.63
+Malawi,2013,-3
+Malawi,2014,-3.33
+Malawi,2015,-0.09
+Malawi,2016,1.72
+Mali,2003,0
+Mali,2004,-14.24
+Mali,2005,51.94
+Mali,2006,-14.53
+Mali,2007,1.06
+Mali,2008,30.26
+Mali,2009,-0.12
+Mali,2010,-8.8
+Mali,2011,7.47
+Mali,2012,29.47
+Mali,2013,-15.5
+Mali,2014,-2.38
+Mali,2015,-15.96
+Mali,2016,-0.18
+Mauritania,2008,0
+Mauritania,2009,-12.15
+Mauritania,2010,0.34
+Mauritania,2011,8.28
+Mauritania,2012,9.89
+Mauritania,2013,-6.75
+Mauritania,2014,0.57
+Mauritania,2015,-6.16
+Mauritania,2016,-6.13
+Mozambique,2003,0
+Mozambique,2004,10.48
+Mozambique,2005,11.23
+Mozambique,2006,4.81
+Mozambique,2007,2.76
+Mozambique,2008,45.62
+Mozambique,2009,-14.85
+Mozambique,2010,-8.84
+Mozambique,2011,16.96
+Mozambique,2012,7.02
+Mozambique,2013,-1.86
+Mozambique,2014,-9.64
+Mozambique,2015,-11.86
+Mozambique,2016,4.12
+Niger,2001,0
+Niger,2002,11.8
+Niger,2003,-14.94
+Niger,2004,17.19
+Niger,2005,48.16
+Niger,2006,-22.4
+Niger,2007,-1.66
+Niger,2008,40.09
+Niger,2009,0.39
+Niger,2010,-5.6
+Niger,2011,-0.57
+Niger,2012,21.34
+Niger,2013,0.72
+Niger,2014,-8.45
+Niger,2015,-24.39
+Niger,2016,3.41
+Nigeria,2002,0
+Nigeria,2003,-37.66
+Nigeria,2005,67.33
+Nigeria,2006,-13.55
+Nigeria,2007,-15.72
+Nigeria,2008,64.4
+Nigeria,2009,-26.45
+Nigeria,2010,1.33
+Nigeria,2011,-5.93
+Nigeria,2012,17.11
+Nigeria,2013,5
+Nigeria,2014,-14.29
+Nigeria,2015,-34.56
+Nigeria,2016,-17.24
+Rwanda,2008,0
+Rwanda,2009,4.31
+Rwanda,2010,-3.2
+Rwanda,2011,3.31
+Rwanda,2012,12.81
+Rwanda,2013,-2.17
+Rwanda,2014,-3.39
+Rwanda,2015,-4.09
+Senegal,2001,0
+Senegal,2002,27.64
+Senegal,2003,7.62
+Senegal,2004,-3.09
+Senegal,2005,28.3
+Senegal,2006,-6.58
+Senegal,2007,10.34
+Senegal,2008,32.02
+Senegal,2009,-10.47
+Senegal,2010,-10.29
+Senegal,2011,13.09
+Senegal,2012,3.27
+Senegal,2013,0.98
+Senegal,2014,-3.28
+Senegal,2015,-17.95
+Senegal,2016,-0.46
+South Sudan,2011,0
+South Sudan,2012,29.1
+South Sudan,2013,-6.59
+South Sudan,2014,-8.47
+South Sudan,2015,45.51
+South Sudan,2016,-67.94
+Sudan,2003,0
+Sudan,2004,9.29
+Sudan,2005,70.97
+Sudan,2006,-14.74
+Sudan,2007,-6.56
+Sudan,2008,79.6
+Sudan,2009,15.48
+Sudan,2010,34.6
+Sudan,2011,-13.39
+Sudan,2012,22.33
+Sudan,2013,-17.98
+Sudan,2014,27.22
+Sudan,2015,-17.77
+Sudan,2016,20.89
+Swaziland,2004,0
+Swaziland,2005,-11.11
+Swaziland,2006,6.25
+Swaziland,2007,17.65
+Swaziland,2008,-13.62
+Swaziland,2009,2.32
+Swaziland,2010,9.59
+Swaziland,2011,39.78
+Swaziland,2012,12.88
+Swaziland,2013,-9.4
+Swaziland,2014,-8.33
+Swaziland,2015,-15.92
+Swaziland,2016,1.38
+Uganda,2010,0
+Uganda,2011,3.52
+Uganda,2012,11.92
+Uganda,2013,-0.33
+Uganda,2014,0.24
+Uganda,2015,-5.26
+Uganda,2016,1.9
+United Republic of Tanzania,2006,0
+United Republic of Tanzania,2007,-15.94
+United Republic of Tanzania,2008,63.58
+United Republic of Tanzania,2009,9.33
+United Republic of Tanzania,2010,-16.95
+United Republic of Tanzania,2011,8.95
+United Republic of Tanzania,2012,24.27
+United Republic of Tanzania,2013,-3.21
+United Republic of Tanzania,2014,-11.25
+United Republic of Tanzania,2015,-2.46
+United Republic of Tanzania,2016,-2.36
+Yemen,2009,0
+Yemen,2010,20.54
+Yemen,2011,13.06
+Yemen,2012,-2.44
+Yemen,2013,2.7
+Yemen,2014,8.46
+Yemen,2015,5.31
+Yemen,2016,23.96
+Zambia,2003,0
+Zambia,2004,-18.75
+Zambia,2005,46.15
+Zambia,2006,21.05
+Zambia,2007,-17.39
+Zambia,2008,52.63
+Zambia,2009,-6.9
+Zambia,2010,-7.41
+Zambia,2011,-8
+Zambia,2012,-1.45
+Zambia,2013,17.13
+Zambia,2014,-1.44
+Zambia,2015,-24.68
+Zambia,2016,5.21
+Zimbabwe,2010,0
+Zimbabwe,2011,18.52
+Zimbabwe,2012,6.25
+Zimbabwe,2013,14.71
+Zimbabwe,2014,-2.56
+Zimbabwe,2015,2.63
+Zimbabwe,2016,12.82

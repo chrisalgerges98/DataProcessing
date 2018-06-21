@@ -114,16 +114,3 @@ for product in products:
     html = file_html(f, CDN, "ProductChart")
     fOut.write(html)
 fOut.close()
-
-
-    # for country in countries:
-    #     x = df["year"][(df["country"] == country) & (df["food"] == product)]
-    #     y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)] 
-    #     x_list.append(x)
-    #     y_list.append(y)
-    # fOut = open("Afrika_Maize.html", "a")
-    # f = figure(plot_width=500, plot_height=500, title=product)
-    # f.multi_line(xs = x_list, ys = y_list)
-    # html = file_html(f, CDN, "chart")
-    # fOut.write(html)
-    # fOut.close()

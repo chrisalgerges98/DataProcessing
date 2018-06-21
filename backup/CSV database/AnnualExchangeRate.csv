@@ -1,0 +1,977 @@
+Country,Currency,Year,Rate
+Afghanistan,AFN,2001,47.5
+Afghanistan,AFN,2002,47.26
+Afghanistan,AFN,2003,48.76
+Afghanistan,AFN,2004,47.85
+Afghanistan,AFN,2005,49.49
+Afghanistan,AFN,2006,49.93
+Afghanistan,AFN,2007,49.96
+Afghanistan,AFN,2008,50.25
+Afghanistan,AFN,2009,50.33
+Afghanistan,AFN,2010,46.45
+Afghanistan,AFN,2011,46.75
+Afghanistan,AFN,2012,50.92
+Afghanistan,AFN,2013,55.38
+Afghanistan,AFN,2014,57.25
+Afghanistan,AFN,2015,61.14
+Afghanistan,AFN,2016,67.87
+Armenia,AMD,2001,555.08
+Armenia,AMD,2002,573.35
+Armenia,AMD,2003,578.76
+Armenia,AMD,2004,533.45
+Armenia,AMD,2005,457.69
+Armenia,AMD,2006,416.04
+Armenia,AMD,2007,342.08
+Armenia,AMD,2008,305.97
+Armenia,AMD,2009,363.28
+Armenia,AMD,2010,373.66
+Armenia,AMD,2011,372.5
+Armenia,AMD,2012,401.76
+Armenia,AMD,2013,409.63
+Armenia,AMD,2014,415.92
+Armenia,AMD,2015,477.92
+Armenia,AMD,2016,480.49
+Bangladesh,BDT,2001,55.81
+Bangladesh,BDT,2002,57.89
+Bangladesh,BDT,2003,58.15
+Bangladesh,BDT,2004,59.51
+Bangladesh,BDT,2005,64.33
+Bangladesh,BDT,2006,68.93
+Bangladesh,BDT,2007,68.87
+Bangladesh,BDT,2008,68.6
+Bangladesh,BDT,2009,69.04
+Bangladesh,BDT,2010,69.65
+Bangladesh,BDT,2011,74.15
+Bangladesh,BDT,2012,81.86
+Bangladesh,BDT,2013,78.1
+Bangladesh,BDT,2014,77.64
+Bangladesh,BDT,2015,77.95
+Bangladesh,BDT,2016,78.47
+Benin,XOF,2001,733.04
+Benin,XOF,2002,696.99
+Benin,XOF,2003,581.2
+Benin,XOF,2004,528.28
+Benin,XOF,2005,527.47
+Benin,XOF,2006,522.89
+Benin,XOF,2007,479.27
+Benin,XOF,2008,447.81
+Benin,XOF,2009,472.19
+Benin,XOF,2010,495.28
+Benin,XOF,2011,471.87
+Benin,XOF,2012,510.53
+Benin,XOF,2013,494.04
+Benin,XOF,2014,494.41
+Benin,XOF,2015,591.45
+Benin,XOF,2016,593.01
+Bhutan,BTN,2001,47.19
+Bhutan,BTN,2002,48.61
+Bhutan,BTN,2003,46.58
+Bhutan,BTN,2004,45.32
+Bhutan,BTN,2005,44.1
+Bhutan,BTN,2006,45.31
+Bhutan,BTN,2007,41.35
+Bhutan,BTN,2008,43.51
+Bhutan,BTN,2009,48.41
+Bhutan,BTN,2010,45.73
+Bhutan,BTN,2011,46.67
+Bhutan,BTN,2012,53.44
+Bhutan,BTN,2013,58.6
+Bhutan,BTN,2014,61.03
+Bhutan,BTN,2015,64.15
+Bhutan,BTN,2016,67.2
+Bolivia,BOB,2001,6.61
+Bolivia,BOB,2002,7.17
+Bolivia,BOB,2003,7.66
+Bolivia,BOB,2004,7.94
+Bolivia,BOB,2005,8.07
+Bolivia,BOB,2006,8.01
+Bolivia,BOB,2007,7.85
+Bolivia,BOB,2008,7.24
+Bolivia,BOB,2009,7.02
+Bolivia,BOB,2010,7.02
+Bolivia,BOB,2011,6.94
+Bolivia,BOB,2012,6.91
+Bolivia,BOB,2013,6.91
+Bolivia,BOB,2014,6.91
+Bolivia,BOB,2015,6.91
+Bolivia,BOB,2016,6.91
+Burkina Faso,XOF,2001,733.04
+Burkina Faso,XOF,2002,696.99
+Burkina Faso,XOF,2003,581.2
+Burkina Faso,XOF,2004,528.28
+Burkina Faso,XOF,2005,527.47
+Burkina Faso,XOF,2006,522.89
+Burkina Faso,XOF,2007,479.27
+Burkina Faso,XOF,2008,447.81
+Burkina Faso,XOF,2009,472.19
+Burkina Faso,XOF,2010,495.28
+Burkina Faso,XOF,2011,471.87
+Burkina Faso,XOF,2012,510.53
+Burkina Faso,XOF,2013,494.04
+Burkina Faso,XOF,2014,494.41
+Burkina Faso,XOF,2015,591.45
+Burkina Faso,XOF,2016,593.01
+Burundi,BIF,2001,830.35
+Burundi,BIF,2002,930.75
+Burundi,BIF,2003,1082.62
+Burundi,BIF,2004,1100.9
+Burundi,BIF,2005,1081.58
+Burundi,BIF,2006,1028.68
+Burundi,BIF,2007,1081.87
+Burundi,BIF,2008,1185.69
+Burundi,BIF,2009,1230.18
+Burundi,BIF,2010,1230.75
+Burundi,BIF,2011,1261.07
+Burundi,BIF,2012,1442.51
+Burundi,BIF,2013,1555.09
+Burundi,BIF,2014,1546.69
+Burundi,BIF,2015,1571.9
+Burundi,BIF,2016,1654.63
+Cambodia,KHR,2001,3916.33
+Cambodia,KHR,2002,3912.08
+Cambodia,KHR,2003,3973.33
+Cambodia,KHR,2004,4016.25
+Cambodia,KHR,2005,4092.5
+Cambodia,KHR,2006,4103.25
+Cambodia,KHR,2007,4056.17
+Cambodia,KHR,2008,4054.17
+Cambodia,KHR,2009,4139.33
+Cambodia,KHR,2010,4184.92
+Cambodia,KHR,2011,4058.5
+Cambodia,KHR,2012,4033
+Cambodia,KHR,2013,4027.25
+Cambodia,KHR,2014,4037.5
+Cambodia,KHR,2015,4067.75
+Cambodia,KHR,2016,4058.69
+Cameroon,XAF,2001,733.04
+Cameroon,XAF,2002,696.99
+Cameroon,XAF,2003,581.2
+Cameroon,XAF,2004,528.28
+Cameroon,XAF,2005,527.47
+Cameroon,XAF,2006,522.89
+Cameroon,XAF,2007,479.27
+Cameroon,XAF,2008,447.81
+Cameroon,XAF,2009,472.19
+Cameroon,XAF,2010,495.28
+Cameroon,XAF,2011,471.87
+Cameroon,XAF,2012,510.53
+Cameroon,XAF,2013,494.04
+Cameroon,XAF,2014,494.41
+Cameroon,XAF,2015,591.45
+Cameroon,XAF,2016,593.01
+Central African Republic,XAF,2001,733.04
+Central African Republic,XAF,2002,696.99
+Central African Republic,XAF,2003,581.2
+Central African Republic,XAF,2004,528.28
+Central African Republic,XAF,2005,527.47
+Central African Republic,XAF,2006,522.89
+Central African Republic,XAF,2007,479.27
+Central African Republic,XAF,2008,447.81
+Central African Republic,XAF,2009,472.19
+Central African Republic,XAF,2010,495.28
+Central African Republic,XAF,2011,471.87
+Central African Republic,XAF,2012,510.53
+Central African Republic,XAF,2013,494.04
+Central African Republic,XAF,2014,494.41
+Central African Republic,XAF,2015,591.45
+Central African Republic,XAF,2016,593.01
+Chad,XAF,2001,733.04
+Chad,XAF,2002,696.99
+Chad,XAF,2003,581.2
+Chad,XAF,2004,528.28
+Chad,XAF,2005,527.47
+Chad,XAF,2006,522.89
+Chad,XAF,2007,479.27
+Chad,XAF,2008,447.81
+Chad,XAF,2009,472.19
+Chad,XAF,2010,495.28
+Chad,XAF,2011,471.87
+Chad,XAF,2012,510.53
+Chad,XAF,2013,494.04
+Chad,XAF,2014,494.41
+Chad,XAF,2015,591.45
+Chad,XAF,2016,593.01
+Colombia,COP,2001,2300.1
+Colombia,COP,2002,2506.55
+Colombia,COP,2003,2875.91
+Colombia,COP,2004,2628.47
+Colombia,COP,2005,2321.49
+Colombia,COP,2006,2358.96
+Colombia,COP,2007,2076.24
+Colombia,COP,2008,1967.11
+Colombia,COP,2009,2153.3
+Colombia,COP,2010,1898.68
+Colombia,COP,2011,1846.97
+Colombia,COP,2012,1797.79
+Colombia,COP,2013,1869.1
+Colombia,COP,2014,2000.33
+Colombia,COP,2015,2743.39
+Colombia,COP,2016,3050.98
+Congo,XAF,2001,733.04
+Congo,XAF,2002,696.99
+Congo,XAF,2003,581.2
+Congo,XAF,2004,528.28
+Congo,XAF,2005,527.47
+Congo,XAF,2006,522.89
+Congo,XAF,2007,479.27
+Congo,XAF,2008,447.81
+Congo,XAF,2009,472.19
+Congo,XAF,2010,495.28
+Congo,XAF,2011,471.87
+Congo,XAF,2012,510.53
+Congo,XAF,2013,494.04
+Congo,XAF,2014,494.41
+Congo,XAF,2015,591.45
+Congo,XAF,2016,593.01
+Democratic Republic of the Congo,CDF,2001,206.62
+Democratic Republic of the Congo,CDF,2002,346.48
+Democratic Republic of the Congo,CDF,2003,405.18
+Democratic Republic of the Congo,CDF,2004,399.48
+Democratic Republic of the Congo,CDF,2005,473.91
+Democratic Republic of the Congo,CDF,2006,468.28
+Democratic Republic of the Congo,CDF,2007,516.75
+Democratic Republic of the Congo,CDF,2008,559.29
+Democratic Republic of the Congo,CDF,2009,809.79
+Democratic Republic of the Congo,CDF,2010,905.91
+Democratic Republic of the Congo,CDF,2011,919.49
+Democratic Republic of the Congo,CDF,2012,919.76
+Democratic Republic of the Congo,CDF,2013,919.57
+Democratic Republic of the Congo,CDF,2014,925.23
+Democratic Republic of the Congo,CDF,2015,925.98
+Democratic Republic of the Congo,CDF,2016,1010.3
+Cote d'Ivoire,XOF,2001,733.04
+Cote d'Ivoire,XOF,2002,696.99
+Cote d'Ivoire,XOF,2003,581.2
+Cote d'Ivoire,XOF,2004,528.28
+Cote d'Ivoire,XOF,2005,527.47
+Cote d'Ivoire,XOF,2006,522.89
+Cote d'Ivoire,XOF,2007,479.27
+Cote d'Ivoire,XOF,2008,447.81
+Cote d'Ivoire,XOF,2009,472.19
+Cote d'Ivoire,XOF,2010,495.28
+Cote d'Ivoire,XOF,2011,471.87
+Cote d'Ivoire,XOF,2012,510.53
+Cote d'Ivoire,XOF,2013,494.04
+Cote d'Ivoire,XOF,2014,494.41
+Cote d'Ivoire,XOF,2015,591.45
+Cote d'Ivoire,XOF,2016,593.01
+Djibouti,DJF,2001,177.72
+Djibouti,DJF,2002,177.72
+Djibouti,DJF,2003,177.72
+Djibouti,DJF,2004,177.72
+Djibouti,DJF,2005,177.72
+Djibouti,DJF,2006,177.72
+Djibouti,DJF,2007,177.72
+Djibouti,DJF,2008,177.72
+Djibouti,DJF,2009,177.72
+Djibouti,DJF,2010,177.72
+Djibouti,DJF,2011,177.72
+Djibouti,DJF,2012,177.72
+Djibouti,DJF,2013,177.72
+Djibouti,DJF,2014,177.72
+Djibouti,DJF,2015,177.72
+Djibouti,DJF,2016,177.72
+Egypt,EGP,2001,3.97
+Egypt,EGP,2002,4.5
+Egypt,EGP,2003,5.85
+Egypt,EGP,2004,6.2
+Egypt,EGP,2005,5.78
+Egypt,EGP,2006,5.73
+Egypt,EGP,2007,5.64
+Egypt,EGP,2008,5.43
+Egypt,EGP,2009,5.54
+Egypt,EGP,2010,5.62
+Egypt,EGP,2011,5.93
+Egypt,EGP,2012,6.06
+Egypt,EGP,2013,6.87
+Egypt,EGP,2014,7.08
+Egypt,EGP,2015,7.69
+Egypt,EGP,2016,10.03
+Ethiopia,ETB,2001,8.46
+Ethiopia,ETB,2002,8.57
+Ethiopia,ETB,2003,8.6
+Ethiopia,ETB,2004,8.64
+Ethiopia,ETB,2005,8.67
+Ethiopia,ETB,2006,8.7
+Ethiopia,ETB,2007,8.97
+Ethiopia,ETB,2008,9.6
+Ethiopia,ETB,2009,11.78
+Ethiopia,ETB,2010,14.41
+Ethiopia,ETB,2011,16.9
+Ethiopia,ETB,2012,17.7
+Ethiopia,ETB,2013,18.63
+Ethiopia,ETB,2014,19.59
+Ethiopia,ETB,2015,20.58
+Ethiopia,ETB,2016,21.73
+Gambia,GMD,2001,15.69
+Gambia,GMD,2002,19.92
+Gambia,GMD,2003,28.53
+Gambia,GMD,2004,30.03
+Gambia,GMD,2005,28.58
+Gambia,GMD,2006,28.07
+Gambia,GMD,2007,24.87
+Gambia,GMD,2008,22.19
+Gambia,GMD,2009,26.64
+Gambia,GMD,2010,28.01
+Gambia,GMD,2011,29.46
+Gambia,GMD,2012,32.08
+Gambia,GMD,2013,35.96
+Gambia,GMD,2014,41.73
+Gambia,GMD,2015,42.51
+Gambia,GMD,2016,43.88
+Georgia,GEL,2001,2.07
+Georgia,GEL,2002,2.2
+Georgia,GEL,2003,2.15
+Georgia,GEL,2004,1.92
+Georgia,GEL,2005,1.81
+Georgia,GEL,2006,1.78
+Georgia,GEL,2007,1.67
+Georgia,GEL,2008,1.49
+Georgia,GEL,2009,1.67
+Georgia,GEL,2010,1.78
+Georgia,GEL,2011,1.69
+Georgia,GEL,2012,1.65
+Georgia,GEL,2013,1.66
+Georgia,GEL,2014,1.77
+Georgia,GEL,2015,2.27
+Georgia,GEL,2016,2.37
+Ghana,GHS,2001,0.72
+Ghana,GHS,2002,0.79
+Ghana,GHS,2003,0.87
+Ghana,GHS,2004,0.9
+Ghana,GHS,2005,0.91
+Ghana,GHS,2006,0.92
+Ghana,GHS,2007,0.94
+Ghana,GHS,2008,1.06
+Ghana,GHS,2009,1.41
+Ghana,GHS,2010,1.43
+Ghana,GHS,2011,1.51
+Ghana,GHS,2012,1.8
+Ghana,GHS,2013,1.95
+Ghana,GHS,2014,2.9
+Ghana,GHS,2015,3.67
+Ghana,GHS,2016,3.91
+Guatemala,GTQ,2001,7.86
+Guatemala,GTQ,2002,7.82
+Guatemala,GTQ,2003,7.94
+Guatemala,GTQ,2004,7.95
+Guatemala,GTQ,2005,7.63
+Guatemala,GTQ,2006,7.6
+Guatemala,GTQ,2007,7.67
+Guatemala,GTQ,2008,7.56
+Guatemala,GTQ,2009,8.16
+Guatemala,GTQ,2010,8.06
+Guatemala,GTQ,2011,7.79
+Guatemala,GTQ,2012,7.83
+Guatemala,GTQ,2013,7.86
+Guatemala,GTQ,2014,7.73
+Guatemala,GTQ,2015,7.65
+Guatemala,GTQ,2016,7.6
+Guinea,GNF,2001,1950.56
+Guinea,GNF,2002,1975.84
+Guinea,GNF,2003,1984.93
+Guinea,GNF,2004,2243.93
+Guinea,GNF,2005,3644.33
+Guinea,GNF,2006,5148.75
+Guinea,GNF,2007,4197.75
+Guinea,GNF,2008,4601.69
+Guinea,GNF,2009,4801.08
+Guinea,GNF,2010,5726.07
+Guinea,GNF,2011,6658.03
+Guinea,GNF,2012,6985.83
+Guinea,GNF,2013,6907.88
+Guinea,GNF,2014,7014.12
+Guinea,GNF,2015,7485.52
+Guinea,GNF,2016,8959.72
+Guinea-Bissau,XOF,2001,733.04
+Guinea-Bissau,XOF,2002,696.99
+Guinea-Bissau,XOF,2003,581.2
+Guinea-Bissau,XOF,2004,528.28
+Guinea-Bissau,XOF,2005,527.47
+Guinea-Bissau,XOF,2006,522.89
+Guinea-Bissau,XOF,2007,479.27
+Guinea-Bissau,XOF,2008,447.81
+Guinea-Bissau,XOF,2009,472.19
+Guinea-Bissau,XOF,2010,495.28
+Guinea-Bissau,XOF,2011,471.87
+Guinea-Bissau,XOF,2012,510.53
+Guinea-Bissau,XOF,2013,494.04
+Guinea-Bissau,XOF,2014,494.41
+Guinea-Bissau,XOF,2015,591.66
+Guinea-Bissau,XOF,2016,593.08
+Haiti,HTG,2001,24.43
+Haiti,HTG,2002,29.25
+Haiti,HTG,2003,42.37
+Haiti,HTG,2004,38.35
+Haiti,HTG,2005,40.45
+Haiti,HTG,2006,40.41
+Haiti,HTG,2007,36.86
+Haiti,HTG,2008,39.11
+Haiti,HTG,2009,41.2
+Haiti,HTG,2010,39.8
+Haiti,HTG,2011,40.52
+Haiti,HTG,2012,41.95
+Haiti,HTG,2013,43.46
+Haiti,HTG,2014,45.22
+Haiti,HTG,2015,50.71
+Haiti,HTG,2016,63.34
+India,INR,2001,47.17
+India,INR,2002,48.58
+India,INR,2003,46.54
+India,INR,2004,45.27
+India,INR,2005,44.08
+India,INR,2006,45.26
+India,INR,2007,41.23
+India,INR,2008,43.45
+India,INR,2009,48.36
+India,INR,2010,45.72
+India,INR,2011,46.68
+India,INR,2012,53.43
+India,INR,2013,58.64
+India,INR,2014,61.02
+India,INR,2015,64.18
+India,INR,2016,67.2
+Indonesia,IDR,2001,10252.86
+Indonesia,IDR,2002,9315.13
+Indonesia,IDR,2003,8570.07
+Indonesia,IDR,2004,8945.34
+Indonesia,IDR,2005,9714.85
+Indonesia,IDR,2006,9170.49
+Indonesia,IDR,2007,9138.88
+Indonesia,IDR,2008,9682.61
+Indonesia,IDR,2009,10397.55
+Indonesia,IDR,2010,9082.76
+Indonesia,IDR,2011,8775.59
+Indonesia,IDR,2012,9377.96
+Indonesia,IDR,2013,10422.34
+Indonesia,IDR,2014,11864.43
+Indonesia,IDR,2015,13405.44
+Indonesia,IDR,2016,13301.23
+Iran  (Islamic Republic of),IRR,2001,1753.29
+Iran  (Islamic Republic of),IRR,2002,6327.14
+Iran  (Islamic Republic of),IRR,2003,8201.86
+Iran  (Islamic Republic of),IRR,2004,8609.17
+Iran  (Islamic Republic of),IRR,2005,8974.03
+Iran  (Islamic Republic of),IRR,2006,9172.58
+Iran  (Islamic Republic of),IRR,2007,9283.54
+Iran  (Islamic Republic of),IRR,2008,9434.94
+Iran  (Islamic Republic of),IRR,2009,9863.32
+Iran  (Islamic Republic of),IRR,2010,10259.12
+Iran  (Islamic Republic of),IRR,2011,10613.77
+Iran  (Islamic Republic of),IRR,2012,12175.08
+Iran  (Islamic Republic of),IRR,2013,18674.52
+Iran  (Islamic Republic of),IRR,2014,25934.45
+Iran  (Islamic Republic of),IRR,2015,29029.57
+Iran  (Islamic Republic of),IRR,2016,30909.12
+Iraq,IQD,2001,2002.4
+Iraq,IQD,2002,2002.37
+Iraq,IQD,2003,2133.78
+Iraq,IQD,2004,1453.42
+Iraq,IQD,2005,1472
+Iraq,IQD,2006,1467.42
+Iraq,IQD,2007,1254.57
+Iraq,IQD,2008,1193.08
+Iraq,IQD,2009,1170
+Iraq,IQD,2010,1170
+Iraq,IQD,2011,1170
+Iraq,IQD,2012,1166.17
+Iraq,IQD,2013,1166
+Iraq,IQD,2014,1166
+Iraq,IQD,2015,1167.33
+Iraq,IQD,2016,1182
+Jordan,JOD,2001,0.71
+Jordan,JOD,2002,0.71
+Jordan,JOD,2003,0.71
+Jordan,JOD,2004,0.71
+Jordan,JOD,2005,0.71
+Jordan,JOD,2006,0.71
+Jordan,JOD,2007,0.71
+Jordan,JOD,2008,0.71
+Jordan,JOD,2009,0.71
+Jordan,JOD,2010,0.71
+Jordan,JOD,2011,0.71
+Jordan,JOD,2012,0.71
+Jordan,JOD,2013,0.71
+Jordan,JOD,2014,0.71
+Jordan,JOD,2015,0.71
+Jordan,JOD,2016,0.71
+Kenya,KES,2001,78.56
+Kenya,KES,2002,78.75
+Kenya,KES,2003,75.94
+Kenya,KES,2004,79.17
+Kenya,KES,2005,75.55
+Kenya,KES,2006,72.1
+Kenya,KES,2007,67.32
+Kenya,KES,2008,69.18
+Kenya,KES,2009,77.35
+Kenya,KES,2010,79.23
+Kenya,KES,2011,88.81
+Kenya,KES,2012,84.53
+Kenya,KES,2013,86.12
+Kenya,KES,2014,87.92
+Kenya,KES,2015,98.18
+Kenya,KES,2016,101.5
+Kyrgyzstan,KGS,2001,48.38
+Kyrgyzstan,KGS,2002,46.94
+Kyrgyzstan,KGS,2003,43.65
+Kyrgyzstan,KGS,2004,42.65
+Kyrgyzstan,KGS,2005,41.01
+Kyrgyzstan,KGS,2006,40.15
+Kyrgyzstan,KGS,2007,37.32
+Kyrgyzstan,KGS,2008,36.57
+Kyrgyzstan,KGS,2009,42.9
+Kyrgyzstan,KGS,2010,45.96
+Kyrgyzstan,KGS,2011,46.14
+Kyrgyzstan,KGS,2012,47
+Kyrgyzstan,KGS,2013,48.44
+Kyrgyzstan,KGS,2014,53.65
+Kyrgyzstan,KGS,2015,64.46
+Kyrgyzstan,KGS,2016,69.91
+Lao People's Democratic Republic,LAK,2001,8954.58
+Lao People's Democratic Republic,LAK,2002,10056.33
+Lao People's Democratic Republic,LAK,2003,10569.04
+Lao People's Democratic Republic,LAK,2004,10585.38
+Lao People's Democratic Republic,LAK,2005,10655.17
+Lao People's Democratic Republic,LAK,2006,10159.94
+Lao People's Democratic Republic,LAK,2007,9603.16
+Lao People's Democratic Republic,LAK,2008,8744.22
+Lao People's Democratic Republic,LAK,2009,8516.05
+Lao People's Democratic Republic,LAK,2010,8258.77
+Lao People's Democratic Republic,LAK,2011,8030.06
+Lao People's Democratic Republic,LAK,2012,8007.76
+Lao People's Democratic Republic,LAK,2013,7860.14
+Lao People's Democratic Republic,LAK,2014,8048.96
+Lao People's Democratic Republic,LAK,2015,8147.91
+Lao People's Democratic Republic,LAK,2016,8179.27
+Lebanon,LBP,2001,1507.5
+Lebanon,LBP,2002,1507.5
+Lebanon,LBP,2003,1507.5
+Lebanon,LBP,2004,1507.5
+Lebanon,LBP,2005,1507.5
+Lebanon,LBP,2006,1507.5
+Lebanon,LBP,2007,1507.5
+Lebanon,LBP,2008,1507.5
+Lebanon,LBP,2009,1507.5
+Lebanon,LBP,2010,1507.5
+Lebanon,LBP,2011,1507.5
+Lebanon,LBP,2012,1507.5
+Lebanon,LBP,2013,1507.5
+Lebanon,LBP,2014,1507.5
+Lebanon,LBP,2015,1507.5
+Lebanon,LBP,2016,1507.5
+Lesotho,LSL,2001,8.61
+Lesotho,LSL,2002,10.54
+Lesotho,LSL,2003,7.56
+Lesotho,LSL,2004,6.46
+Lesotho,LSL,2005,6.36
+Lesotho,LSL,2006,6.77
+Lesotho,LSL,2007,7.05
+Lesotho,LSL,2008,8.26
+Lesotho,LSL,2009,8.47
+Lesotho,LSL,2010,7.32
+Lesotho,LSL,2011,7.26
+Lesotho,LSL,2012,8.21
+Lesotho,LSL,2013,9.66
+Lesotho,LSL,2014,10.85
+Lesotho,LSL,2015,12.76
+Lesotho,LSL,2016,14.71
+Liberia,LRD,2001,48.59
+Liberia,LRD,2002,61.75
+Liberia,LRD,2003,59.38
+Liberia,LRD,2004,54.91
+Liberia,LRD,2005,57.1
+Liberia,LRD,2006,58.01
+Liberia,LRD,2007,61.27
+Liberia,LRD,2008,63.21
+Liberia,LRD,2009,68.29
+Liberia,LRD,2010,71.4
+Liberia,LRD,2011,72.23
+Liberia,LRD,2012,73.51
+Liberia,LRD,2013,77.52
+Liberia,LRD,2014,83.89
+Liberia,LRD,2015,86.19
+Liberia,LRD,2016,94.43
+Madagascar,MGA,2001,1317.7
+Madagascar,MGA,2002,1366.39
+Madagascar,MGA,2003,1238.33
+Madagascar,MGA,2004,1868.86
+Madagascar,MGA,2005,2003.03
+Madagascar,MGA,2006,2142.3
+Madagascar,MGA,2007,1873.88
+Madagascar,MGA,2008,1708.37
+Madagascar,MGA,2009,1956.21
+Madagascar,MGA,2010,2089.95
+Madagascar,MGA,2011,2025.12
+Madagascar,MGA,2012,2194.97
+Madagascar,MGA,2013,2206.91
+Madagascar,MGA,2014,2414.81
+Madagascar,MGA,2015,2933.51
+Madagascar,MGA,2016,3176.54
+Malawi,MWK,2001,72.2
+Malawi,MWK,2002,76.69
+Malawi,MWK,2003,97.43
+Malawi,MWK,2004,108.9
+Malawi,MWK,2005,118.42
+Malawi,MWK,2006,136.01
+Malawi,MWK,2007,139.96
+Malawi,MWK,2008,140.52
+Malawi,MWK,2009,141.17
+Malawi,MWK,2010,150.49
+Malawi,MWK,2011,156.52
+Malawi,MWK,2012,249.11
+Malawi,MWK,2013,364.41
+Malawi,MWK,2014,424.9
+Malawi,MWK,2015,499.61
+Malawi,MWK,2016,718.01
+Mali,XOF,2001,733.04
+Mali,XOF,2002,696.99
+Mali,XOF,2003,581.2
+Mali,XOF,2004,528.28
+Mali,XOF,2005,527.47
+Mali,XOF,2006,522.89
+Mali,XOF,2007,479.27
+Mali,XOF,2008,447.81
+Mali,XOF,2009,472.19
+Mali,XOF,2010,495.28
+Mali,XOF,2011,471.87
+Mali,XOF,2012,510.53
+Mali,XOF,2013,494.04
+Mali,XOF,2014,494.41
+Mali,XOF,2015,591.45
+Mali,XOF,2016,593.01
+Mauritania,MRO,2001,255.63
+Mauritania,MRO,2002,271.74
+Mauritania,MRO,2003,263.03
+Mauritania,MRO,2004,264.11
+Mauritania,MRO,2005,265.53
+Mauritania,MRO,2006,268.6
+Mauritania,MRO,2007,258.59
+Mauritania,MRO,2008,238.2
+Mauritania,MRO,2009,262.37
+Mauritania,MRO,2010,275.89
+Mauritania,MRO,2011,281.12
+Mauritania,MRO,2012,296.62
+Mauritania,MRO,2013,300.68
+Mauritania,MRO,2014,302.73
+Mauritania,MRO,2015,324.67
+Mauritania,MRO,2016,352.37
+Mozambique,MZN,2001,20.7
+Mozambique,MZN,2002,23.68
+Mozambique,MZN,2003,23.78
+Mozambique,MZN,2004,22.58
+Mozambique,MZN,2005,23.06
+Mozambique,MZN,2006,25.4
+Mozambique,MZN,2007,25.84
+Mozambique,MZN,2008,24.3
+Mozambique,MZN,2009,27.52
+Mozambique,MZN,2010,33.96
+Mozambique,MZN,2011,29.07
+Mozambique,MZN,2012,28.37
+Mozambique,MZN,2013,30.1
+Mozambique,MZN,2014,31.35
+Mozambique,MZN,2015,39.98
+Mozambique,MZN,2016,63.06
+Myanmar,MMK,2001,6.75
+Myanmar,MMK,2002,6.64
+Myanmar,MMK,2003,6.14
+Myanmar,MMK,2004,5.81
+Myanmar,MMK,2005,5.82
+Myanmar,MMK,2006,5.84
+Myanmar,MMK,2007,5.62
+Myanmar,MMK,2008,5.44
+Myanmar,MMK,2009,5.58
+Myanmar,MMK,2010,5.63
+Myanmar,MMK,2011,5.44
+Myanmar,MMK,2012,640.65
+Myanmar,MMK,2013,933.57
+Myanmar,MMK,2014,984.35
+Myanmar,MMK,2015,1162.62
+Myanmar,MMK,2016,1234.87
+Nepal,NPR,2001,75.09
+Nepal,NPR,2002,77.98
+Nepal,NPR,2003,76.05
+Nepal,NPR,2004,73.59
+Nepal,NPR,2005,71.35
+Nepal,NPR,2006,72.83
+Nepal,NPR,2007,65.99
+Nepal,NPR,2008,69.71
+Nepal,NPR,2009,77.4
+Nepal,NPR,2010,73.17
+Nepal,NPR,2011,74.58
+Nepal,NPR,2012,85.39
+Nepal,NPR,2013,93.57
+Nepal,NPR,2014,97.61
+Nepal,NPR,2015,102.69
+Nepal,NPR,2016,107.45
+Niger,XOF,2001,733.04
+Niger,XOF,2002,696.99
+Niger,XOF,2003,581.2
+Niger,XOF,2004,528.28
+Niger,XOF,2005,527.47
+Niger,XOF,2006,522.89
+Niger,XOF,2007,479.27
+Niger,XOF,2008,447.81
+Niger,XOF,2009,472.19
+Niger,XOF,2010,495.28
+Niger,XOF,2011,471.87
+Niger,XOF,2012,510.53
+Niger,XOF,2013,494.04
+Niger,XOF,2014,494.41
+Niger,XOF,2015,591.45
+Niger,XOF,2016,593.01
+Nigeria,NGN,2001,111.23
+Nigeria,NGN,2002,120.58
+Nigeria,NGN,2003,129.22
+Nigeria,NGN,2004,132.89
+Nigeria,NGN,2005,131.27
+Nigeria,NGN,2006,128.65
+Nigeria,NGN,2007,125.81
+Nigeria,NGN,2008,118.55
+Nigeria,NGN,2009,148.9
+Nigeria,NGN,2010,150.3
+Nigeria,NGN,2011,153.86
+Nigeria,NGN,2012,157.5
+Nigeria,NGN,2013,157.31
+Nigeria,NGN,2014,158.55
+Nigeria,NGN,2015,192.44
+Nigeria,NGN,2016,253.49
+Pakistan,PKR,2001,62.17
+Pakistan,PKR,2002,59.72
+Pakistan,PKR,2003,57.76
+Pakistan,PKR,2004,58.15
+Pakistan,PKR,2005,59.52
+Pakistan,PKR,2006,60.25
+Pakistan,PKR,2007,60.72
+Pakistan,PKR,2008,71.48
+Pakistan,PKR,2009,81.72
+Pakistan,PKR,2010,85.17
+Pakistan,PKR,2011,86.34
+Pakistan,PKR,2012,93.28
+Pakistan,PKR,2013,101.53
+Pakistan,PKR,2014,100.98
+Pakistan,PKR,2015,102.77
+Pakistan,PKR,2016,104.77
+Peru,PEN,2001,3.51
+Peru,PEN,2002,3.52
+Peru,PEN,2003,3.48
+Peru,PEN,2004,3.41
+Peru,PEN,2005,3.3
+Peru,PEN,2006,3.27
+Peru,PEN,2007,3.13
+Peru,PEN,2008,2.92
+Peru,PEN,2009,3.01
+Peru,PEN,2010,2.82
+Peru,PEN,2011,2.75
+Peru,PEN,2012,2.64
+Peru,PEN,2013,2.7
+Peru,PEN,2014,2.84
+Peru,PEN,2015,3.19
+Peru,PEN,2016,3.38
+Philippines,PHP,2001,51
+Philippines,PHP,2002,51.61
+Philippines,PHP,2003,54.21
+Philippines,PHP,2004,56.05
+Philippines,PHP,2005,55.06
+Philippines,PHP,2006,51.29
+Philippines,PHP,2007,46.07
+Philippines,PHP,2008,44.46
+Philippines,PHP,2009,47.58
+Philippines,PHP,2010,45.08
+Philippines,PHP,2011,43.3
+Philippines,PHP,2012,42.22
+Philippines,PHP,2013,42.47
+Philippines,PHP,2014,44.4
+Philippines,PHP,2015,45.54
+Philippines,PHP,2016,47.5
+Rwanda,RWF,2001,442.99
+Rwanda,RWF,2002,475.37
+Rwanda,RWF,2003,537.65
+Rwanda,RWF,2004,577.45
+Rwanda,RWF,2005,557.82
+Rwanda,RWF,2006,551.71
+Rwanda,RWF,2007,546.96
+Rwanda,RWF,2008,546.85
+Rwanda,RWF,2009,568.28
+Rwanda,RWF,2010,583.13
+Rwanda,RWF,2011,600.31
+Rwanda,RWF,2012,614.3
+Rwanda,RWF,2013,646.64
+Rwanda,RWF,2014,681.86
+Rwanda,RWF,2015,720.98
+Rwanda,RWF,2016,787.25
+Senegal,XOF,2001,733.04
+Senegal,XOF,2002,696.99
+Senegal,XOF,2003,581.2
+Senegal,XOF,2004,528.28
+Senegal,XOF,2005,527.47
+Senegal,XOF,2006,522.89
+Senegal,XOF,2007,479.27
+Senegal,XOF,2008,447.81
+Senegal,XOF,2009,472.19
+Senegal,XOF,2010,495.28
+Senegal,XOF,2011,471.87
+Senegal,XOF,2012,510.53
+Senegal,XOF,2013,494.04
+Senegal,XOF,2014,494.41
+Senegal,XOF,2015,591.45
+Senegal,XOF,2016,593.01
+South Sudan,SSP,2001,0
+South Sudan,SSP,2002,0
+South Sudan,SSP,2003,0
+South Sudan,SSP,2004,0
+South Sudan,SSP,2005,0
+South Sudan,SSP,2006,0
+South Sudan,SSP,2007,0
+South Sudan,SSP,2008,0
+South Sudan,SSP,2009,0
+South Sudan,SSP,2010,0
+South Sudan,SSP,2011,2.99
+South Sudan,SSP,2012,2.95
+South Sudan,SSP,2013,2.95
+South Sudan,SSP,2014,2.95
+South Sudan,SSP,2015,4.09
+South Sudan,SSP,2016,49.41
+Sri Lanka,LKR,2001,89.6
+Sri Lanka,LKR,2002,95.77
+Sri Lanka,LKR,2003,96.54
+Sri Lanka,LKR,2004,101.27
+Sri Lanka,LKR,2005,100.38
+Sri Lanka,LKR,2006,103.94
+Sri Lanka,LKR,2007,110.62
+Sri Lanka,LKR,2008,108.3
+Sri Lanka,LKR,2009,114.91
+Sri Lanka,LKR,2010,112.99
+Sri Lanka,LKR,2011,110.47
+Sri Lanka,LKR,2012,127.54
+Sri Lanka,LKR,2013,129.05
+Sri Lanka,LKR,2014,130.54
+Sri Lanka,LKR,2015,135.88
+Sri Lanka,LKR,2016,145.73
+Sudan,SDG,2001,2.59
+Sudan,SDG,2002,2.63
+Sudan,SDG,2003,2.61
+Sudan,SDG,2004,2.58
+Sudan,SDG,2005,2.44
+Sudan,SDG,2006,2.17
+Sudan,SDG,2007,2.02
+Sudan,SDG,2008,2.09
+Sudan,SDG,2009,2.3
+Sudan,SDG,2010,2.31
+Sudan,SDG,2011,2.67
+Sudan,SDG,2012,3.57
+Sudan,SDG,2013,4.76
+Sudan,SDG,2014,5.74
+Sudan,SDG,2015,6.03
+Sudan,SDG,2016,6.21
+Swaziland,SZL,2001,8.61
+Swaziland,SZL,2002,10.54
+Swaziland,SZL,2003,7.56
+Swaziland,SZL,2004,6.46
+Swaziland,SZL,2005,6.36
+Swaziland,SZL,2006,6.77
+Swaziland,SZL,2007,7.05
+Swaziland,SZL,2008,8.26
+Swaziland,SZL,2009,8.47
+Swaziland,SZL,2010,7.32
+Swaziland,SZL,2011,7.26
+Swaziland,SZL,2012,8.21
+Swaziland,SZL,2013,9.66
+Swaziland,SZL,2014,10.85
+Swaziland,SZL,2015,12.76
+Swaziland,SZL,2016,14.71
+Syrian Arab Republic,SYP,2001,11.23
+Syrian Arab Republic,SYP,2002,11.23
+Syrian Arab Republic,SYP,2003,11.23
+Syrian Arab Republic,SYP,2004,11.23
+Syrian Arab Republic,SYP,2005,11.23
+Syrian Arab Republic,SYP,2006,11.23
+Syrian Arab Republic,SYP,2007,11.23
+Syrian Arab Republic,SYP,2008,11.23
+Syrian Arab Republic,SYP,2009,11.23
+Syrian Arab Republic,SYP,2010,11.23
+Syrian Arab Republic,SYP,2011,11.23
+Syrian Arab Republic,SYP,2012,11.23
+Syrian Arab Republic,SYP,2013,11.23
+Syrian Arab Republic,SYP,2014,11.23
+Syrian Arab Republic,SYP,2015,11.23
+Syrian Arab Republic,SYP,2016,11.23
+Tajikistan,TJS,2001,2.37
+Tajikistan,TJS,2002,2.76
+Tajikistan,TJS,2003,3.06
+Tajikistan,TJS,2004,2.97
+Tajikistan,TJS,2005,3.12
+Tajikistan,TJS,2006,3.3
+Tajikistan,TJS,2007,3.44
+Tajikistan,TJS,2008,3.43
+Tajikistan,TJS,2009,4.14
+Tajikistan,TJS,2010,4.38
+Tajikistan,TJS,2011,4.61
+Tajikistan,TJS,2012,4.74
+Tajikistan,TJS,2013,4.76
+Tajikistan,TJS,2014,4.94
+Tajikistan,TJS,2015,6.16
+Tajikistan,TJS,2016,7.84
+United Republic of Tanzania,TZS,2001,876.41
+United Republic of Tanzania,TZS,2002,966.58
+United Republic of Tanzania,TZS,2003,1038.42
+United Republic of Tanzania,TZS,2004,1089.33
+United Republic of Tanzania,TZS,2005,1128.93
+United Republic of Tanzania,TZS,2006,1251.9
+United Republic of Tanzania,TZS,2007,1245.04
+United Republic of Tanzania,TZS,2008,1196.31
+United Republic of Tanzania,TZS,2009,1320.31
+United Republic of Tanzania,TZS,2010,1395.62
+United Republic of Tanzania,TZS,2011,1557.43
+United Republic of Tanzania,TZS,2012,1571.7
+United Republic of Tanzania,TZS,2013,1597.56
+United Republic of Tanzania,TZS,2014,1653.23
+United Republic of Tanzania,TZS,2015,1991.39
+United Republic of Tanzania,TZS,2016,2177.09
+Uganda,UGX,2001,1755.66
+Uganda,UGX,2002,1797.55
+Uganda,UGX,2003,1963.72
+Uganda,UGX,2004,1810.3
+Uganda,UGX,2005,1780.67
+Uganda,UGX,2006,1831.45
+Uganda,UGX,2007,1723.49
+Uganda,UGX,2008,1720.44
+Uganda,UGX,2009,2030.49
+Uganda,UGX,2010,2177.56
+Uganda,UGX,2011,2522.75
+Uganda,UGX,2012,2504.56
+Uganda,UGX,2013,2586.89
+Uganda,UGX,2014,2599.79
+Uganda,UGX,2015,3240.65
+Uganda,UGX,2016,3420.1
+Yemen,YER,2001,168.67
+Yemen,YER,2002,175.63
+Yemen,YER,2003,183.45
+Yemen,YER,2004,184.78
+Yemen,YER,2005,191.51
+Yemen,YER,2006,197.05
+Yemen,YER,2007,198.95
+Yemen,YER,2008,199.76
+Yemen,YER,2009,202.85
+Yemen,YER,2010,219.59
+Yemen,YER,2011,213.8
+Yemen,YER,2012,214.35
+Yemen,YER,2013,214.89
+Yemen,YER,2014,214.89
+Yemen,YER,2015,214.89
+Yemen,YER,2016,214.89
+Zambia,ZMW,2001,3.61
+Zambia,ZMW,2002,4.4
+Zambia,ZMW,2003,4.73
+Zambia,ZMW,2004,4.78
+Zambia,ZMW,2005,4.46
+Zambia,ZMW,2006,3.6
+Zambia,ZMW,2007,4
+Zambia,ZMW,2008,3.75
+Zambia,ZMW,2009,5.05
+Zambia,ZMW,2010,4.8
+Zambia,ZMW,2011,4.86
+Zambia,ZMW,2012,5.15
+Zambia,ZMW,2013,5.4
+Zambia,ZMW,2014,6.15
+Zambia,ZMW,2015,8.63
+Zambia,ZMW,2016,10.31

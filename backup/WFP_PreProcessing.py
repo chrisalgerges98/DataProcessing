@@ -16,9 +16,10 @@ df = df.drop(df[df.food == "Wage (non-qualified labour, agricultural)"].index)
 df = df.drop(df[df.food == "Wage (non-qualified labour, non-agricultural)"].index)
 df = df.drop(df[df.food == "Wage (qualified labour)"].index)
 df = df.drop(df[df.food == "Transport (public)"].index)
+df = df.drop(df[(df.country == "Somalia") | (df.country == "Timor-Leste")].index)
 
 # berekent de gemiddelde prijs in twee decimalen per land, per voedingsmiddel, per jaar
-df = df["price"].groupby([df["country"], df["food"], df["year"]]).mean().round(decimals=2)
+df = df["price"].groupby([df["country"], df["food"], df["currency"], df["year"], df["unit_measure"]]).mean().round(decimals=2)
 
 # stopt het in een csv file
 df.to_csv("WFPAveragePrice.csv", header=["average_price"])
@@ -36,7 +37,8 @@ def drop():
 
 def merge():
     df = pd.merge(pd.read_csv("WFPAveragePrice.csv"), pd.read_csv("WFPYearlyCountCleaned.csv"), how="inner", on=("country", "food"))
-    df.to_csv("WFPAveragePriceCleaned")
+
+    df.to_csv("WFPCleaned.csv")
 
 counter()
 drop()

@@ -1,47 +1,62 @@
 import pandas as pd
 from bokeh.plotting import figure
-from bokeh.io import output_file, show
+from bokeh.io import output_file
 from bokeh.resources import CDN
 from bokeh.embed import file_html
+from bokeh.models import DataRange1d, Legend
 
-df = pd.read_csv("WFPCleaned.csv")
+df = pd.read_csv("WFPAfricaFinal.csv")
 
 countries = df["country"].unique()
-print(countries)
+my_palette = ['goldenrod', 'forestgreen', 'black', 'blue', 'blueviolet', 'brown','crimson', \
+'darkblue', 'darkcyan', 'darkgreen', 'limegreen', 'darkkhaki', 'darkred', 'darkseagreen', 'darkviolet', 'deeppink', \
+'green', 'indigo', 'magenta', 'maroon', 'navy', 'orange', 'orchid', 'purple', \
+'red', 'sienna', 'teal', 'turquoise', 'violet', 'yellow']
+# print(df["food"][df["country"] == "Ethiopia"])
 
-# Afghan_fuel = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")]
-# Afghan_rice = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
-# Afghan_wheat = df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Wheat")]
-#
-# y_1 = df["average_price"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")]
-# y_2 = df["average_price"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
-# y_3 = df["average_price"][(df["country"] == "Afghanistan") & (df["food"] == "Wheat")]
-#
-# output_file("Afghanistan.html")
-#
-# f = figure(plot_width=300, plot_height=300)
-#
-# f.multi_line(xs = [Afghan_fuel, Afghan_rice, Afghan_wheat], ys = [y_1, y_2, y_3], color=["red", "green", "blue"])
-#
-# show(f)
-
-# f.multi_line(xs = [df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Fuel (diesel)")],
-#                    df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Rice (low quality)")]
-#                    df["year"][(df["country"] == "Afghanistan") & (df["food"] == "Wheat")]])
-
+fOut = open("CountryChart.html", "a")
 for country in countries:
-    x_list = []
-    y_list = []
+    legend_it = []
     products = df["food"][df["country"] == country].unique()
-    for product in products:
-        x = df["year"][(df["country"] == country) & (df["food"] == product)]
-        print(x)
-        y = df["average_price"][(df["country"] == country) & (df["food"] == product)]
-        x_list.append(x)
-        y_list.append(y)
-    fOut = open("chart1.html", "a")
-    f = figure(plot_width=500, plot_height=500, title=country)
-    f.multi_line(xs = x_list, ys = y_list)
-    html = file_html(f, CDN, "chart1")
+    f = figure(plot_width=1000, plot_height=650, title=country)
+    f.xaxis.axis_label="year"
+    f.yaxis.axis_label="price per unit"
+    for product, color in zip(products, my_palette):
+        c = f.line(df["year"][(df["country"] == country) & (df["food"] == product)], \
+        df["price_per_unit"][(df["country"] == country) & (df["food"] == product)], color=color, \
+        alpha=0.8, muted_color=color, muted_alpha=0.2)
+        legend_it.append((product, [c]))
+    legend = Legend(items=legend_it, location=(0, -20))
+    legend.click_policy="mute"
+    f.add_layout(legend, "right")
+    html = file_html(f, CDN, "CountryChart")
     fOut.write(html)
-    fOut.close()
+fOut.close()
+
+
+
+# import pandas as pd
+# from bokeh.palettes import Spectral4
+# from bokeh.plotting import figure, output_file, show
+# from bokeh.sampledata.stocks import AAPL, IBM, MSFT, GOOG
+# from bokeh.models import Legend
+#
+# p = figure(plot_width=800, plot_height=250, x_axis_type="datetime", toolbar_location='above')
+# p.title.text = 'Click on legend entries to mute the corresponding lines'
+#
+# legend_it = []
+#
+# for data, name, color in zip([AAPL, IBM, MSFT, GOOG], ["AAPL", "IBM", "MSFT", "GOOG"], Spectral4):
+#     df = pd.DataFrame(data)
+#     df['date'] = pd.to_datetime(df['date'])
+#     c = p.line(df['date'], df['close'], line_width=2, color=color, alpha=0.8,
+#            muted_color=color, muted_alpha=0.2)
+#     legend_it.append((name, [c]))
+#
+#
+# legend = Legend(items=legend_it, location=(0, -60))
+# legend.click_policy="mute"
+#
+# p.add_layout(legend, 'right')
+# print(c)
+# show(p)
