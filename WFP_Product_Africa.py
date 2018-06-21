@@ -3,6 +3,7 @@ from bokeh.plotting import figure
 from bokeh.io import output_file, show
 from bokeh.resources import CDN
 from bokeh.embed import file_html
+from bokeh.models import Legend
 
 #list of countries on the continent Africa
 land =[["Benin"],
@@ -80,24 +81,49 @@ regio =[["Benin","Burkina Faso", "Nigeria", "Niger"],
 ["Zimbabwe", "Zambia", "Mozambique"],
 ["MijnlandAfrica","Benin","Burkina Faso","Burundi","Cameroon","Central African Republic","Chad","Congo","Democratic Republic of the Congo","Ivory Coast","Djibouti","Egypt","Ethiopia","Gambia","Ghana","Guinea","Guinea-Bissau","Kenya","Lesotho","Liberia","Madagascar","Malawi","Mali","Mauritania","Mozambique","Niger","Nigeria","Rwanda","Senegal","South Sudan","Sudan","Swaziland",'Uganda','United Republic of Tanzania','Yemen','Zambia','Zimbabwe',]]
 
-
+# Colours for graph lines
+my_palette = ['goldenrod', 'forestgreen', 'black', 'blue', 'blueviolet', 'brown','crimson', \
+'darkblue', 'darkcyan', 'darkgreen', 'limegreen', 'darkkhaki', 'darkred', 'darkseagreen', 'darkviolet', 'deeppink', \
+'green', 'indigo', 'magenta', 'maroon', 'navy', 'orange', 'orchid', 'purple', \
+'red', 'sienna', 'teal', 'turquoise', 'violet', 'yellow']
+# print(df["food"][df["country"] == "Ethiopia"])
 
 df = pd.read_csv("WFPAfricaFinal.csv")
+df2 = pd.read_csv("ProductsInAfrica.csv")
 
-countries = df["country"].unique()
+products = df2["food"].unique()
 
-#change to get charts certain product in the whole continent
-product = "Maize"
 x_list = []
 y_list = []
-for country in countries:
-    x = df["year"][(df["country"] == country) & (df["food"] == product)]
-    y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)] 
-    x_list.append(x)
-    y_list.append(y)
-fOut = open("Afrika_Maize.html", "a")
-f = figure(plot_width=500, plot_height=500, title=product)
-f.multi_line(xs = x_list, ys = y_list)
-html = file_html(f, CDN, "chart")
-fOut.write(html)
+
+fOut = open("ProductChart.html", "a")
+for product in products:
+    legend_it = []
+    countries = df["country"][df["food"] == product].unique()
+    f = figure(plot_width=1000, plot_height=650, title=product)
+    f.xaxis.axis_label="Year"
+    f.yaxis.axis_label="Price per unit"
+    for country, color in zip(countries, my_palette):
+        c = f.line(df["year"][(df["country"] == country) & (df["food"] == product)], \
+        df["price_per_unit"][(df["country"] == country) & (df["food"] == product)], color=color, \
+        alpha=0.8, muted_color=color, muted_alpha=0.2, line_width=3)
+        legend_it.append((country, [c]))
+    legend = Legend(items=legend_it, location=(0, -20))
+    legend.click_policy="mute"
+    f.add_layout(legend, "right")
+    html = file_html(f, CDN, "ProductChart")
+    fOut.write(html)
 fOut.close()
+
+
+    # for country in countries:
+    #     x = df["year"][(df["country"] == country) & (df["food"] == product)]
+    #     y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)] 
+    #     x_list.append(x)
+    #     y_list.append(y)
+    # fOut = open("Afrika_Maize.html", "a")
+    # f = figure(plot_width=500, plot_height=500, title=product)
+    # f.multi_line(xs = x_list, ys = y_list)
+    # html = file_html(f, CDN, "chart")
+    # fOut.write(html)
+    # fOut.close()
