@@ -78,14 +78,29 @@ regio =[["Benin","Burkina Faso", "Nigeria", "Niger"],
 ["Zimbabwe", "Zambia", "Mozambique"],
 ["MijnlandAfrica","Benin","Burkina Faso","Burundi","Cameroon","Central African Republic","Chad","Congo","Democratic Republic of the Congo","Ivory Coast","Djibouti","Egypt","Ethiopia","Gambia","Ghana","Guinea","Guinea-Bissau","Kenya","Lesotho","Liberia","Madagascar","Malawi","Mali","Mauritania","Mozambique","Niger","Nigeria","Rwanda","Senegal","South Sudan","Sudan","Swaziland",'Uganda','United Republic of Tanzania','Yemen','Zambia','Zimbabwe',]]
 
-ListofProducts = ['product', 'product2'] # OOK HIERZO
+ListofProducts = ["Beans (white)","Cassava meal (gari)","Maize","Maize (white)","Millet","Rice (imported)","Sorghum","Beans (niebe)",
+"Beans","Cassava flour","Rice (low quality, local)","Sweet potatoes","Cassava (cossette)","Groundnuts (shelled)","Onions","Peas (yellow)",
+"Rice (local)","Sesame","Sorghum (red)","Sorghum (white)","Rice","Wheat flour","Cassava (fresh)","Fish (smoked)","Meat (beef)",
+"Meat (chicken, frozen)","Oil (palm)","Rice (mixed, low quality)","Cassava","Cassava (chikwangue)","Fish (fresh)","Fish (salted)",
+"Fuel (diesel)","Maize flour","Maize meal","Meat (chicken)","Meat (goat, with bones)","Plantains","Salt","Sugar","Bread","Fuel (kerosene)",
+"Oil (vegetable)","Pasta","Beans (fava, dry)","Garlic","Ghee (artificial)","Ghee (natural)","Lentils","Oil (maize)","Onions (red)","Onions (white)",
+"Potatoes","Tomatoes","Wheat","Groundnuts (unshelled)","Maize (local)","Rice (long grain, imported)","Rice (medium grain, imported)",
+"Rice (paddy, long grain, local)","Rice (small grain, imported)","Plantains (apentu)","Yam","Fonio","Oil (vegetable, imported)","Cocoa",
+"Cornstarch","Fish (appolo)","Fish (dry)","Peanut","Rice (denikassia, imported)","Yam (florido)","Beans (dry)","Milk (cow, pasteurized)",
+"Potatoes (Irish)","Beans (sugar-red)","Bread (brown)","Oil (sunflower)","Peas (split, dry)","Cowpeas","Fuel (petrol-gasoline)",
+"Rice (white, imported)","Rice (paddy)","Sorghum (taghalit)","Groundnuts (large, shelled)","Groundnuts (Mix)","Groundnuts (small, shelled)",
+"Maize meal (white, first grade)","Maize meal (white, with bran)","Oil (vegetable, local)","Sugar (brown, local)","Wheat flour (local)",
+"Bananas","Beans (green, fresh)","Charcoal","Eggplants","Guava","Livestock (Goat)","Livestock (Sheep)","Mangoes","Meat (goat)","Papaya",
+"Passion fruit","Peas (fresh)","Peppers (green)","Rice (imported, Tanzanian)","Sorghum flour","Spinach","Zucchini","Maize (imported)",
+"Beans (red)","Millet (white)","Sorghum (food aid)","Beans (sugar)","Sugar (brown)","Beans (kidney red)","Eggs","Peas (yellow, split)",
+"Cassava meal","Maize meal (white, breakfast)","Maize meal (white, roller)"] # OOK HIERZO
 
 df = pd.read_csv("WFPAfricaFinal.csv")
 
 countries = df["country"].unique()
 
 # change to get charts about regions and certain product
-for product in ListofProducts #HIERO GEERT
+for product in ListofProducts = 
     for i, country in zip(range(len(land)), countries):
         x_list = []
         y_list = []
@@ -99,7 +114,7 @@ for product in ListofProducts #HIERO GEERT
                 y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
                 x_list.append(x)
                 y_list.append(y)
-            fOut = open("Afrika_Yam.html", "a")
+            fOut = open("Afrika_Per_Product.html", "a")
             f = figure(plot_width=500, plot_height=500, title=country)
             f.multi_line(xs = x_list, ys = y_list)
             html = file_html(f, CDN, "chart")

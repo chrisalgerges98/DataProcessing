@@ -4,6 +4,7 @@ from bokeh.io import output_file, show
 from bokeh.resources import CDN
 from bokeh.embed import file_html
 
+#list of countries on the continent Africa
 land =[["Benin"],
 ["Burkina Faso"],
 ["Burundi"],
@@ -20,7 +21,7 @@ land =[["Benin"],
 ["Ghana"],
 ["Guinea"],
 ["Guinea-Bissau"],
-["Kenya"],
+["Kenya"],  
 ["Lesotho"],
 ["Liberia"],
 ["Madagascar"],
@@ -41,6 +42,7 @@ land =[["Benin"],
 ["Zimbabwe"],
 ["MijnlandAfrica"]]
 
+#list of region(country+neigbouring countries) on the continent Africa
 regio =[["Benin","Burkina Faso", "Nigeria", "Niger"],
 ["Burkina Faso","Mali", "Ivory Coast", "Ghana", "Benin", "Niger"],
 ["Burundi","Democratic Republic of the Congo", "Rwanda", "United Republic of Tanzania"],
@@ -84,13 +86,13 @@ df = pd.read_csv("WFPAfricaFinal.csv")
 
 countries = df["country"].unique()
 
-change to get charts about regions and certain product
+#change to get charts certain product in the whole continent
 product = "Maize"
 x_list = []
 y_list = []
 for country in countries:
     x = df["year"][(df["country"] == country) & (df["food"] == product)]
-    y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)]
+    y = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)] 
     x_list.append(x)
     y_list.append(y)
 fOut = open("Afrika_Maize.html", "a")
@@ -99,28 +101,3 @@ f.multi_line(xs = x_list, ys = y_list)
 html = file_html(f, CDN, "chart")
 fOut.write(html)
 fOut.close()
-# for i, country in zip(range(len(land)), countries):
-#     x_list = []
-#     y_list = []
-#     if product in df["food"][(df["country"] == country)].unique():
-#         print(land[i])
-#         print(i)
-#         for j in land[i]:
-#             print(j)
-#             x = df["year"][(df["country"] == j) & (df["food"] == product)]
-#             print(x)
-#             y = df["price_per_unit"][(df["country"] == j) & (df["food"] == product)]
-#             x_list.append(x)
-#             y_list.append(y)
-#         fOut = open("Afrika_Maize.html", "a")
-#         f = figure(plot_width=500, plot_height=500, title=country)
-#         f.multi_line(xs = x_list, ys = y_list)
-#         html = file_html(f, CDN, "chart")
-#         fOut.write(html)
-#         fOut.close()
-#     else:
-#         continue
-
-# df_3 = df["food"]
-# df_3 = df_3.drop_duplicates()
-# df_3.to_csv("ProductsInAfrica.csv", header="food")
