@@ -15,6 +15,7 @@ my_palette = ['goldenrod', 'forestgreen', 'black', 'blue', 'blueviolet', 'brown'
 'green', 'indigo', 'magenta', 'maroon', 'navy', 'orange', 'orchid', 'purple', \
 'red', 'sienna', 'teal', 'turquoise', 'violet', 'yellow']
 
+
 # creates per country a multiline plot
 # which displays the price of products over time
 fOut = open("CountryChart.html", "a")
@@ -45,8 +46,8 @@ for country in countries:
 fOut.close()
 
 
-creates scatterplots between the rate of change of the refugee difference
-and the rate of change of the average price per country
+# creates scatterplots between the rate of change of the refugee difference
+# and the rate of change of the average price per country
 fOut = open("ScatterplotCountry.html", "a")
 for country in countries:
     f = figure(plot_width=1000, plot_height=650, title=country)
