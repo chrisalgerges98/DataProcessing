@@ -45,23 +45,23 @@ for country in countries:
 fOut.close()
 
 
-creates scatterplots between the rate of change of the refugee difference
-and the rate of change of the average price per country
-fOut = open("ScatterplotCountry.html", "a")
-for country in countries:
-    f = figure(plot_width=1000, plot_height=650, title=country)
-    source = ColumnDataSource(data=dict(
-        RateOfChangeRefugees = df_2["Rate_of_change_refugees"][df_2["Country"] == country],
-        RateOfChangePrice = df_2["Rate_of_change_price"][df_2["Country"] == country]
-    ))
-    f.xaxis.axis_label="rate of change refugees"
-    f.yaxis.axis_label="rate of change price"
-    hover = HoverTool(tooltips=[
-        ("rate of change refugees", "@RateOfChangeRefugees"),
-        ("rate of change price", "@RateOfChangePrice")
-    ])
-    f.toolbar.tools = [PanTool(), ResetTool(), WheelZoomTool(), hover, LassoSelectTool(), BoxSelectTool()]
-    f.circle(x='RateOfChangeRefugees', y='RateOfChangePrice', size=12, source=source)
-    html = file_html(f, CDN, "ScatterplotCountry")
-    fOut.write(html)
-fOut.close()
+# creates scatterplots between the rate of change of the refugee difference
+# and the rate of change of the average price per country
+# fOut = open("ScatterplotCountry.html", "a")
+# for country in countries:
+#     f = figure(plot_width=1000, plot_height=650, title=country)
+#     source = ColumnDataSource(data=dict(
+#         RateOfChangeRefugees = df_2["Rate_of_change_refugees"][df_2["Country"] == country],
+#         RateOfChangePrice = df_2["Rate_of_change_price"][df_2["Country"] == country]
+#     ))
+#     f.xaxis.axis_label="rate of change refugees"
+#     f.yaxis.axis_label="rate of change price"
+#     hover = HoverTool(tooltips=[
+#         ("rate of change refugees", "@RateOfChangeRefugees"),
+#         ("rate of change price", "@RateOfChangePrice")
+#     ])
+#     f.toolbar.tools = [PanTool(), ResetTool(), WheelZoomTool(), hover, LassoSelectTool(), BoxSelectTool()]
+#     f.circle(x='RateOfChangeRefugees', y='RateOfChangePrice', size=12, source=source)
+#     html = file_html(f, CDN, "ScatterplotCountry")
+#     fOut.write(html)
+# fOut.close()
