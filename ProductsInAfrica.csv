@@ -9,7 +9,7 @@
 78,Beans (niebe)
 129,Beans
 143,Cassava flour
-167,"Rice (low quality, local)"
+167,Rice (low quality, local)
 175,Sweet potatoes
 195,Cassava (cossette)
 201,Groundnuts (shelled)
@@ -24,9 +24,9 @@
 385,Cassava (fresh)
 397,Fish (smoked)
 402,Meat (beef)
-407,"Meat (chicken, frozen)"
+407,Meat (chicken, frozen)
 412,Oil (palm)
-417,"Rice (mixed, low quality)"
+417,Rice (mixed, low quality)
 438,Cassava
 444,Cassava (chikwangue)
 465,Fish (fresh)
@@ -35,7 +35,7 @@
 501,Maize flour
 508,Maize meal
 523,Meat (chicken)
-532,"Meat (goat, with bones)"
+532,Meat (goat, with bones)
 547,Plantains
 574,Salt
 582,Sugar
@@ -43,7 +43,7 @@
 609,Fuel (kerosene)
 619,Oil (vegetable)
 624,Pasta
-652,"Beans (fava, dry)"
+652,Beans (fava, dry)
 659,Garlic
 666,Ghee (artificial)
 672,Ghee (natural)
@@ -56,43 +56,43 @@
 782,Wheat
 803,Groundnuts (unshelled)
 814,Maize (local)
-834,"Rice (long grain, imported)"
-845,"Rice (medium grain, imported)"
-855,"Rice (paddy, long grain, local)"
-866,"Rice (small grain, imported)"
+834,Rice (long grain, imported)
+845,Rice (medium grain, imported)
+855,Rice (paddy, long grain, local)
+866,Rice (small grain, imported)
 906,Plantains (apentu)
 924,Yam
 980,Fonio
-1019,"Oil (vegetable, imported)"
+1019,Oil (vegetable, imported)
 1088,Cocoa
 1094,Cornstarch
 1100,Fish (appolo)
 1106,Fish (dry)
 1136,Peanut
-1142,"Rice (denikassia, imported)"
+1142,Rice (denikassia, imported)
 1165,Yam (florido)
 1174,Beans (dry)
-1207,"Milk (cow, pasteurized)"
+1207,Milk (cow, pasteurized)
 1229,Potatoes (Irish)
 1251,Beans (sugar-red)
 1258,Bread (brown)
 1272,Oil (sunflower)
-1279,"Peas (split, dry)"
+1279,Peas (split, dry)
 1307,Cowpeas
 1312,Fuel (petrol-gasoline)
-1341,"Rice (white, imported)"
+1341,Rice (white, imported)
 1461,Rice (paddy)
 1510,Sorghum (taghalit)
-1561,"Groundnuts (large, shelled)"
+1561,Groundnuts (large, shelled)
 1567,Groundnuts (Mix)
-1576,"Groundnuts (small, shelled)"
-1596,"Maize meal (white, first grade)"
-1602,"Maize meal (white, with bran)"
-1614,"Oil (vegetable, local)"
-1642,"Sugar (brown, local)"
+1576,Groundnuts (small, shelled)
+1596,Maize meal (white, first grade)
+1602,Maize meal (white, with bran)
+1614,Oil (vegetable, local)
+1642,Sugar (brown, local)
 1656,Wheat flour (local)
 1793,Bananas
-1809,"Beans (green, fresh)"
+1809,Beans (green, fresh)
 1830,Charcoal
 1838,Eggplants
 1845,Guava
@@ -104,7 +104,7 @@
 1896,Passion fruit
 1904,Peas (fresh)
 1909,Peppers (green)
-1927,"Rice (imported, Tanzanian)"
+1927,Rice (imported, Tanzanian)
 1948,Sorghum flour
 1955,Spinach
 1984,Zucchini
@@ -116,7 +116,7 @@
 2220,Sugar (brown)
 2305,Beans (kidney red)
 2315,Eggs
-2335,"Peas (yellow, split)"
+2335,Peas (yellow, split)
 2386,Cassava meal
-2410,"Maize meal (white, breakfast)"
-2415,"Maize meal (white, roller)"
+2410,Maize meal (white, breakfast)
+2415,Maize meal (white, roller)
