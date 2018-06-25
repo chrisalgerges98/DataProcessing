@@ -7,7 +7,8 @@ from bokeh.embed import file_html
 from bokeh.models import DataRange1d, Legend, ColumnDataSource
 from bokeh.models import PanTool, ResetTool, WheelZoomTool, HoverTool, LassoSelectTool, BoxSelectTool
 import sklearn
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import
+import sklearn.model_selection
 
 
 df = pd.read_csv("WFPAfricaFinal.csv")
@@ -74,3 +75,9 @@ fOut.close()
 
 X = df_2["Percent_ref_vs_pop"][df["country"] == "Burundi"]
 Y = df_2["Rate_of_change_price"][df["country"] == "Burundi"]
+
+X_Train, X_Test, Y_Train, Y_Test = sklearn.model_selection.train_test_split(X, Y)
+
+lreg = LinearRegression()
+
+lreg.fit(X_Train, Y_Train)
