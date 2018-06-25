@@ -71,3 +71,6 @@ for country in countries:
     html = file_html(f, CDN, "ScatterplotPrice_vs_Refugee")
     fOut.write(html)
 fOut.close()
+
+X = df_2["Percent_ref_vs_pop"][df["country"] == "Burundi"]
+Y = df_2["Rate_of_change_price"][df["country"] == "Burundi"]
