@@ -17,4 +17,3 @@ df_1 = pd.read_csv("RateOfChangexRefugees.csv")
 
 result = df_1.groupby('Country')[['Rate_of_change_price','Rate_of_change_refugees']].corr()
 result.to_csv("Correlation.csv")
-

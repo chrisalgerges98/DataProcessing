@@ -1,0 +1,122 @@
+food,,price_per_unit
+Bananas,price_per_unit,1.0
+Beans,price_per_unit,1.0
+Beans (dry),price_per_unit,1.0
+"Beans (fava, dry)",price_per_unit,1.0
+"Beans (green, fresh)",price_per_unit,1.0
+Beans (kidney red),price_per_unit,1.0
+Beans (niebe),price_per_unit,1.0
+Beans (red),price_per_unit,1.0
+Beans (sugar) ,price_per_unit,1.0
+Beans (sugar-red),price_per_unit,1.0
+Beans (white),price_per_unit,1.0
+Bread,price_per_unit,1.0
+Bread (brown),price_per_unit,1.0
+Cassava,price_per_unit,1.0
+Cassava (chikwangue),price_per_unit,1.0
+Cassava (cossette),price_per_unit,1.0
+Cassava (fresh),price_per_unit,1.0
+Cassava flour,price_per_unit,1.0
+Cassava meal,price_per_unit,1.0
+Cassava meal (gari),price_per_unit,1.0
+Charcoal,price_per_unit,1.0
+Cocoa,price_per_unit,1.0
+Cornstarch,price_per_unit,1.0
+Cowpeas,price_per_unit,1.0
+Eggplants,price_per_unit,1.0
+Eggs,price_per_unit,1.0
+Fish (appolo),price_per_unit,1.0
+Fish (dry),price_per_unit,1.0
+Fish (fresh),price_per_unit,1.0
+Fish (salted),price_per_unit,1.0
+Fish (smoked),price_per_unit,1.0
+Fonio,price_per_unit,1.0
+Fuel (diesel),price_per_unit,1.0
+Fuel (kerosene),price_per_unit,1.0
+Fuel (petrol-gasoline),price_per_unit,1.0
+Garlic,price_per_unit,1.0
+Ghee (artificial),price_per_unit,1.0
+Ghee (natural),price_per_unit,1.0
+Groundnuts (Mix),price_per_unit,1.0
+"Groundnuts (large, shelled)",price_per_unit,1.0
+Groundnuts (shelled),price_per_unit,1.0
+"Groundnuts (small, shelled)",price_per_unit,1.0
+Groundnuts (unshelled),price_per_unit,1.0
+Guava,price_per_unit,1.0
+Lentils,price_per_unit,1.0
+Livestock (Goat),price_per_unit,1.0
+Livestock (Sheep),price_per_unit,1.0
+Maize,price_per_unit,1.0
+Maize (imported),price_per_unit,1.0
+Maize (local),price_per_unit,1.0
+Maize (white),price_per_unit,1.0
+Maize flour,price_per_unit,1.0
+Maize meal,price_per_unit,1.0
+"Maize meal (white, breakfast)",price_per_unit,1.0
+"Maize meal (white, first grade)",price_per_unit,1.0
+"Maize meal (white, roller)",price_per_unit,1.0
+"Maize meal (white, with bran)",price_per_unit,1.0
+Mangoes,price_per_unit,1.0
+Meat (beef),price_per_unit,1.0
+Meat (chicken),price_per_unit,1.0
+"Meat (chicken, frozen)",price_per_unit,1.0
+Meat (goat),price_per_unit,1.0
+"Meat (goat, with bones)",price_per_unit,1.0
+"Milk (cow, pasteurized)",price_per_unit,1.0
+Millet,price_per_unit,1.0
+Millet (white),price_per_unit,1.0
+Oil (maize),price_per_unit,1.0
+Oil (palm),price_per_unit,1.0
+Oil (sunflower),price_per_unit,1.0
+Oil (vegetable),price_per_unit,1.0
+"Oil (vegetable, imported)",price_per_unit,1.0
+"Oil (vegetable, local)",price_per_unit,1.0
+Onions,price_per_unit,1.0
+Onions (red),price_per_unit,1.0
+Onions (white),price_per_unit,1.0
+Papaya,price_per_unit,1.0
+Passion fruit,price_per_unit,1.0
+Pasta,price_per_unit,1.0
+Peanut,price_per_unit,1.0
+Peas (fresh),price_per_unit,1.0
+"Peas (split, dry)",price_per_unit,1.0
+Peas (yellow),price_per_unit,1.0
+"Peas (yellow, split)",price_per_unit,1.0
+Peppers (green),price_per_unit,1.0
+Plantains,price_per_unit,1.0
+Plantains (apentu),price_per_unit,1.0
+Potatoes,price_per_unit,1.0
+Potatoes (Irish),price_per_unit,1.0
+Rice,price_per_unit,1.0
+"Rice (denikassia, imported)",price_per_unit,1.0
+Rice (imported),price_per_unit,1.0
+"Rice (imported, Tanzanian)",price_per_unit,1.0
+Rice (local),price_per_unit,1.0
+"Rice (long grain, imported)",price_per_unit,1.0
+"Rice (low quality, local)",price_per_unit,1.0
+"Rice (medium grain, imported)",price_per_unit,1.0
+"Rice (mixed, low quality)",price_per_unit,1.0
+Rice (paddy),price_per_unit,1.0
+"Rice (paddy, long grain, local)",price_per_unit,1.0
+"Rice (small grain, imported)",price_per_unit,1.0
+"Rice (white, imported)",price_per_unit,1.0
+Salt,price_per_unit,1.0
+Sesame,price_per_unit,1.0
+Sorghum,price_per_unit,1.0
+Sorghum (food aid),price_per_unit,1.0
+Sorghum (red),price_per_unit,1.0
+Sorghum (taghalit),price_per_unit,1.0
+Sorghum (white),price_per_unit,1.0
+Sorghum flour,price_per_unit,1.0
+Spinach,price_per_unit,1.0
+Sugar,price_per_unit,1.0
+Sugar (brown),price_per_unit,1.0
+"Sugar (brown, local)",price_per_unit,1.0
+Sweet potatoes,price_per_unit,1.0
+Tomatoes,price_per_unit,1.0
+Wheat,price_per_unit,1.0
+Wheat flour,price_per_unit,1.0
+Wheat flour (local),price_per_unit,1.0
+Yam,price_per_unit,1.0
+Yam (florido),price_per_unit,1.0
+Zucchini,price_per_unit,1.0
