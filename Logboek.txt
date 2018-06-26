@@ -20,6 +20,8 @@ Benin:
   Correlatie Millet-Maize = 0.78
   Gemiddeld = 0.79
 
+De Correlatie gemiddelde prijs Senegal-Uganda = 0.03
+
 
 Week1:
 Maandag: College, na college overleg, we kijken allemaal naar de datasets en zorgen dat we weten welke we het liefste doen.
