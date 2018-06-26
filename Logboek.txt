@@ -7,20 +7,6 @@ OPDRACHT:
 3. Can we see any correlations between other types of data, like: currency fluctuations, weather patterns, and/or refugee movements.
    Can we perhaps visualize refugee movements from the food price data? Do certain weather conditions influence market prices?
 
-
-Nigeria:
-  Correlatie Sorghum-Maize = 0.97
-  Correlatie Sorghum-Millet = 0.98
-  Correlatie Millet-Maize = 0.96
-  Gemiddeld = 0.97
-
-Benin:
-  Correlatie Sorghum-Maize = 0.7
-  Correlatie Sorghum-Millet = 0.88
-  Correlatie Millet-Maize = 0.78
-  Gemiddeld = 0.79
-
-
 Week1:
 Maandag: College, na college overleg, we kijken allemaal naar de datasets en zorgen dat we weten welke we het liefste doen.
 Dinsdag: Eerste overleg met TA Nora, besluit voor World Food Prices.
@@ -66,3 +52,17 @@ Weekend:
 
 
 VERKANSIE!!!
+
+
+
+CHRIS HIERO DEZE GRAFIEKEN:
+
+ALLE CHARTS height=350, width=550 
+Benin-regio = Benin, Mali, Niger, Nigeria, Burkina Faso
+
+De countrycharts van Benin-regio over millet/sorghum en maize
+De Averages per land van die drie producten in 1 grafiek (dus 5 datapoints, 1 per land)
+
+Refugee Regio = De grote Congo, en de kleine Congo, South Sudan, Sudan, Ethiopia, Uganda, Rwanda, Burundi, Cental african Republic.
+
+In de Refugee regio: 
