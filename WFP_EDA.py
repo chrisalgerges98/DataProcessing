@@ -7,7 +7,7 @@ from bokeh.embed import file_html
 from bokeh.models import DataRange1d, Legend, ColumnDataSource
 from bokeh.models import PanTool, ResetTool, WheelZoomTool, HoverTool, LassoSelectTool, BoxSelectTool
 import sklearn
-from sklearn.linear_model import
+from sklearn.linear_model import LinearRegression
 import sklearn.model_selection
 
 
@@ -54,10 +54,11 @@ my_palette = ['goldenrod', 'forestgreen', 'black', 'blue', 'blueviolet', 'brown'
 # creates scatterplots between the rate of change of the number of refugees
 # in percentage of the population of the country
 # and the rate of change of the average price per country
-fOut = open("ScatterplotPrice_vs_Refugee.html", "a")
-for country in countries:
-    f = figure(plot_width=550, plot_height=350, title=country)
-    source = ColumnDataSource(data=dict(
+fOut = open("Price_vs_refugee.html", "a")
+f = figure(plot_width=950, plot_height=450, title="price vs refugees")
+legend_it = []
+for country, color in zip(countries, my_palette):
+    source = ColumnDataSource(name = "data", data=dict(
         RefugeePercentagePopulation = df_2["Percent_ref_vs_pop"][df_2["Country"] == country],
         RateOfChangePrice = df_2["Rate_of_change_price"][df_2["Country"] == country]
     ))
@@ -68,16 +69,21 @@ for country in countries:
         ("rate of change price", "@RateOfChangePrice")
     ])
     f.toolbar.tools = [PanTool(), ResetTool(), WheelZoomTool(), hover, LassoSelectTool(), BoxSelectTool()]
-    f.circle(x='RefugeePercentagePopulation', y='RateOfChangePrice', size=12, source=source)
-    html = file_html(f, CDN, "ScatterplotPrice_vs_Refugee")
-    fOut.write(html)
+    c = f.circle(x='RefugeePercentagePopulation', y='RateOfChangePrice', size=12, color=color, legend=source.name, source=source)
+    legend_it.append((country, [c]))
+legend = Legend(items=legend_it, location=(0, 10))
+legend.click_policy="hide"
+f.legend.visible=False
+f.add_layout(legend, "right")
+html = file_html(f, CDN, "Price_vs_refugee")
+fOut.write(html)
 fOut.close()
 
-X = df_2["Percent_ref_vs_pop"][df["country"] == "Burundi"]
-Y = df_2["Rate_of_change_price"][df["country"] == "Burundi"]
-
-X_Train, X_Test, Y_Train, Y_Test = sklearn.model_selection.train_test_split(X, Y)
-
-lreg = LinearRegression()
-
-lreg.fit(X_Train, Y_Train)
+# X = df_2["Percent_ref_vs_pop"][df["country"] == "Burundi"]
+# Y = df_2["Rate_of_change_price"][df["country"] == "Burundi"]
+#
+# X_Train, X_Test, Y_Train, Y_Test = sklearn.model_selection.train_test_split(X, Y)
+#
+# lreg = LinearRegression()
+#
+# lreg.fit(X_Train, Y_Train)
