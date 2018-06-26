@@ -6,9 +6,6 @@ from bokeh.resources import CDN
 from bokeh.embed import file_html
 from bokeh.models import DataRange1d, Legend, ColumnDataSource
 from bokeh.models import PanTool, ResetTool, WheelZoomTool, HoverTool, LassoSelectTool, BoxSelectTool
-import sklearn
-from sklearn.linear_model import LinearRegression
-import sklearn.model_selection
 
 
 df = pd.read_csv("WFPAfricaFinal.csv")
@@ -78,12 +75,3 @@ fOut.close()
 # html = file_html(f, CDN, "Price_vs_refugee")
 # fOut.write(html)
 # fOut.close()
-
-X = df_2["Percent_ref_vs_pop"]
-Y = df_2["Rate_of_change_price"]
-
-X_Train, X_Test, Y_Train, Y_Test = sklearn.model_selection.train_test_split(X, Y)
-
-lreg = LinearRegression()
-
-lreg.fit(X_Train, Y_Train)

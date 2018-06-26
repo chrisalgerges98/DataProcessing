@@ -7,6 +7,20 @@ OPDRACHT:
 3. Can we see any correlations between other types of data, like: currency fluctuations, weather patterns, and/or refugee movements.
    Can we perhaps visualize refugee movements from the food price data? Do certain weather conditions influence market prices?
 
+
+Nigeria:
+  Correlatie Sorghum-Maize = 0.97
+  Correlatie Sorghum-Millet = 0.98
+  Correlatie Millet-Maize = 0.96
+  Gemiddeld = 0.97
+
+Benin:
+  Correlatie Sorghum-Maize = 0.7
+  Correlatie Sorghum-Millet = 0.88
+  Correlatie Millet-Maize = 0.78
+  Gemiddeld = 0.79
+
+
 Week1:
 Maandag: College, na college overleg, we kijken allemaal naar de datasets en zorgen dat we weten welke we het liefste doen.
 Dinsdag: Eerste overleg met TA Nora, besluit voor World Food Prices.
