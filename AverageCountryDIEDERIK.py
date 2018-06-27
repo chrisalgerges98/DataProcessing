@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np 
 
-columns = ["price_benin", "price_burkina_faso", "price_mali", "price_niger", "price_nigeria"]
+columns = ["price_benin", "price_burkina_faso", "price_mali", "price_niger"]
 
 df = pd.read_csv("AverageCountryDIEDERIK.csv")
 
@@ -9,9 +9,9 @@ df = pd.read_csv("AverageCountryDIEDERIK.csv")
 
 for column in columns:
     for column1 in columns:
-        result = df.groupby('year')[column,column1].corr()
-        with open("derkaderka.csv", "a") as f:
-            result.to_csv(f, header=False)
+        result = df[column1].corr(df[column])
+        print(result)
+    
         
 
 
