@@ -8,46 +8,45 @@ from bokeh.models import DataRange1d, Legend, ColumnDataSource
 from bokeh.models import PanTool, ResetTool, WheelZoomTool, HoverTool, LassoSelectTool, BoxSelectTool
 
 df = pd.read_csv("WFPAfricaFinal.csv")
-countries = ["Senegal", "Uganda"]
-products = ["Maize (imported)", "Millet", "Sorghum", "Maize (white)"]
+countries = ["Benin", "Nigeria"]
+products = ["Maize", "Millet", "Sorghum"]
 
 my_palette = ['goldenrod', 'forestgreen', 'black', 'blue', 'blueviolet', 'brown','crimson',
 'darkblue', 'darkcyan', 'darkgreen', 'limegreen', 'darkkhaki', 'darkred', 'darkseagreen', 'darkviolet', 'deeppink',
 'green', 'indigo', 'magenta', 'maroon', 'navy', 'orange', 'orchid', 'purple',
 'red', 'sienna', 'teal', 'turquoise', 'violet', 'yellow']
 
-# fOut = open("SenegalAndUgandaChart.html", "a")
-# for country in countries:
-#     f = figure(plot_width=1000, plot_height=650, title=country)
-#     legend_it = []
-#     for product, color in zip(products, my_palette):
-#         source = ColumnDataSource(name = "data", data=dict(
-#             year = df["year"][(df["country"] == country) & (df["food"] == product)],
-#             price_per_unit = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)]
-#         ))
-#         hover = HoverTool(tooltips=[
-#             ("year", "@year"),
-#             ("price_per_unit", "@price_per_unit")
-#         ], mode='vline')
-#         c = f.line(x='year', y='price_per_unit', line_width=2, color=color, legend=source.name, alpha=0.8, source=source)
-#         legend_it.append((product, [c]))
-#     f.toolbar.tools = [PanTool(), ResetTool(), WheelZoomTool(), hover, LassoSelectTool(), BoxSelectTool()]
-#     legend = Legend(items=legend_it, location=(0, 10))
-#     f.xaxis.axis_label="year"
-#     f.yaxis.axis_label="price per unit"
-#     legend.click_policy="hide"
-#     f.legend.visible=False
-#     f.add_layout(legend, "right")
-#     html = file_html(f, CDN, "SenegalAndUgandaChart")
-#     fOut.write(html)
-# fOut.close()
+fOut = open("BeninAndNigeriaChart.html", "a")
+for country in countries:
+    f = figure(plot_width=450, plot_height=300, title=country)
+    legend_it = []
+    for product, color in zip(products, my_palette):
+        source = ColumnDataSource(name = "data", data=dict(
+            year = df["year"][(df["country"] == country) & (df["food"] == product)],
+            price_per_unit = df["price_per_unit"][(df["country"] == country) & (df["food"] == product)]
+        ))
+        hover = HoverTool(tooltips=[
+            ("year", "@year"),
+            ("price_per_unit", "@price_per_unit")
+        ], mode='vline')
+        c = f.line(x='year', y='price_per_unit', line_width=2, color=color, legend=source.name, alpha=0.8, source=source)
+        legend_it.append((product, [c]))
+    f.toolbar.tools = [PanTool(), ResetTool(), WheelZoomTool(), hover, LassoSelectTool(), BoxSelectTool()]
+    legend = Legend(items=legend_it, location=(0, 10))
+    f.xaxis.axis_label="year"
+    f.yaxis.axis_label="price per unit"
+    legend.click_policy="hide"
+    f.legend.visible=False
+    f.add_layout(legend, "right")
+    html = file_html(f, CDN, "BeninAndNigeriaChart")
+    fOut.write(html)
+fOut.close()
 
-
-df_2 = pd.read_csv("CorrDataSenegalUganda.csv")
-s1 = df_2["price_Senegal"]
-s2 = df_2["price_Uganda"]
-correlation = s1.corr(s2).round(decimals=2)
-print(correlation)
+# df_2 = pd.read_csv("CorrData.csv")
+# s1 = df_2["Benin_Sorghum"]
+# s2 = df_2["Benin_Maize"]
+# correlation = s1.corr(s2).round(decimals=2)
+# print(correlation)
 
 # df_3 = pd.read_csv("AveragePriceSenegalUganda.csv")
 #
