@@ -22,7 +22,7 @@ land =[["Benin"],
 ["Ghana"],
 ["Guinea"],
 ["Guinea-Bissau"],
-["Kenya"],  
+["Kenya"],
 ["Lesotho"],
 ["Liberia"],
 ["Madagascar"],
@@ -86,16 +86,17 @@ my_palette = ['goldenrod', 'forestgreen', 'black', 'blue', 'blueviolet', 'brown'
 'darkblue', 'darkcyan', 'darkgreen', 'limegreen', 'darkkhaki', 'darkred', 'darkseagreen', 'darkviolet', 'deeppink', \
 'green', 'indigo', 'magenta', 'maroon', 'navy', 'orange', 'orchid', 'purple', \
 'red', 'sienna', 'teal', 'turquoise', 'violet', 'yellow']
-# print(df["food"][df["country"] == "Ethiopia"])
 
+# imports data
 df = pd.read_csv("WFPAfricaFinal.csv")
 df2 = pd.read_csv("ProductsInAfrica.csv")
 
+# creates list of products
 products = df2["food"].unique()
 
-x_list = []
-y_list = []
-
+# creates charts of multiple lines per products
+# the lines represent the countries
+# the charts display the price per unit over time
 fOut = open("ProductChart.html", "a")
 for product in products:
     legend_it = []
