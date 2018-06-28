@@ -1,18 +1,30 @@
+body{
+  font-family: Helvetica;
+  text-align: center
+}
+
 #banner {
   transform:translateY(80px);
   background-color: green;
   width: 100%;
   height: 40%;
 }
-
-#introductie {
-  background-color: blue;
-  transform: translateY(80px);
-  height: 200px;
-  width: 200px;
+#banner ul li{
+  list-style: none;
+  display: inline;
 }
 
-#image {
+#introductie { 
+  transform: translateY(80px);
+  height: 80px;
+  width: 45.5%;
   position: relative;
-  left: 50%;
+  right: 0%;
+}
+
+#image1 {
+  position: relative;
+  width: 50%;
+  left: 45.5%;
+  display: block;
 }
