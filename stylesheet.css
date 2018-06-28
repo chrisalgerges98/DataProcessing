@@ -1,0 +1,13 @@
+#banner {
+  transform:translateY(80px);
+  background-color: green;
+  width: 100%;
+  height:
+}
+
+#introductie {
+  background-color: blue;
+  transform: translateY(80px);
+  height: 200px;
+  width: 200px;
+}
